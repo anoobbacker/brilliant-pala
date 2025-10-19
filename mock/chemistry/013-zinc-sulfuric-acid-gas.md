@@ -35,16 +35,16 @@ Oxidation numbers show the electron bookkeeping:
 - S in H2SO4: +6 → +4 in SO2 (gains 2 e−)
 
 Half-reactions in acidic medium:
-```math
+$$
 \text{Oxidation: } \mathrm{Zn \rightarrow Zn^{2+} + 2e^-}
 
 \text{Reduction: } \mathrm{SO_4^{2-} + 4H^+ + 2e^- \rightarrow SO_2 + 2H_2O}
-```
+$$
 
 Combine them:
-```math
+$$
 \mathrm{Zn + 2H_2SO_4 \rightarrow ZnSO_4 + SO_2\uparrow + 2H_2O}
-```
+$$
 
 Experimental lens:
 - Gas has a choking, pungent smell (SO2). It turns acidified KMnO4 from purple to colorless or acidified K2Cr2O7 from orange to green (because SO2 is a reducing gas). No “pop” test like H2.

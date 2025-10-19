@@ -19,9 +19,10 @@ The problem asks for average velocity.
 ### Step 1: Define average velocity
 Average velocity is total displacement divided by total time.
 
-```math
+$$
 \text{Average velocity} = \frac{\text{Total displacement}}{\text{Total time}}
-```
+
+$$
 
 - Displacement means “straight-line change in position from start to finish,” with direction.
 
@@ -35,19 +36,20 @@ Total time T is the sum of the two legs:
 - Time A → B: D/40 hours
 - Time B → A: D/60 hours
 
-```math
+$$
 T = \frac{D}{40} + \frac{D}{60}
   = D\left(\frac{1}{40} + \frac{1}{60}\right)
   = D\left(\frac{3+2}{120}\right)
   = \frac{D}{24} \text{ hours}
-```
+
+$$
 
 Now average velocity:
-```math
+$$
 \overline{v} = \frac{\text{Total displacement}}{\text{Total time}} 
              = \frac{0}{T} 
              = 0
-```
+$$
 
 So the average velocity of the bus over the entire round trip is 0 km/h (vector).
 
@@ -66,11 +68,11 @@ If they intended “average speed” (common in such problems), then:
 
 - Total distance = 2D
 - Total time = D/24
-```math
+$$
 \text{Average speed} 
 = \frac{2D}{D/24}
 = 48 \ \text{km/h}
-```
+$$
 This is the harmonic mean of 40 and 60, not the simple average.
 
 ---

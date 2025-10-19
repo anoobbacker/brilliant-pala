@@ -20,12 +20,12 @@ Baking soda is sodium hydrogen carbonate, also called sodium bicarbonate.
 - What it does: releases carbon dioxide gas, which makes dough/batter expand.
 
 Two ways it makes CO₂:
-```math
+$$
 \text{(with acid)}\quad \text{NaHCO}_3 + \text{H}^+ \rightarrow \text{CO}_2\uparrow + \text{H}_2\text{O} + \text{Na}^+
-```
-```math
+$$
+$$
 \text{(on heating)}\quad 2\,\text{NaHCO}_3 \xrightarrow{\Delta} \text{Na}_2\text{CO}_3 + \text{CO}_2\uparrow + \text{H}_2\text{O}
-```
+$$
 
 So, the correct answer is:
 - B) NaHCO₃

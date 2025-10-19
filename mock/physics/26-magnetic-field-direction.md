@@ -39,9 +39,10 @@ Let’s set directions: east = +x, north = +y, up = +z.
 - The point “above” the wire is along +z from the wire.
 - For a straight wire, the field direction at a point is tangential; the direction matches the cross product of current with the radius direction:
 
-```math
+$$
 \mathbf{B} \propto \mathbf{I} \times \hat{\mathbf{r}}
-```
+
+$$
 
 Compute: (−x) × (+z) = +y ⇒ north. Consistent with the right-hand rule.
 

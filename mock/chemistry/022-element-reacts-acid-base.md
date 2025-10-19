@@ -48,16 +48,16 @@ Cause-effect chain:
 - Metal donates electrons → H+ gains electrons → H atoms pair up → H2 gas forms.
 
 Symbolically:
-```math
+$$
 \text{M} \to \text{M}^{n+} + n e^-
-```
-```math
+$$
+$$
 2\text{H}^+ + 2e^- \to \text{H}_2
-```
+$$
 Net (example with Zn in H2SO4):
-```math
+$$
 \text{Zn} + \text{H}_2\text{SO}_4 \to \text{ZnSO}_4 + \text{H}_2
-```
+$$
 Conclusion: reacting with acid to release H2 means X is electropositive (a metal-like electron donor). So I is true, IV is false.
 
 ### Why would a metal bubble in base (NaOH)?
@@ -67,13 +67,13 @@ At first this feels odd: a base doesn’t have free H+. Where does H2 come from?
 - Only certain metals (like Al, Zn, Sn, Pb) can dissolve in strong base and still donate electrons; they form complex “oxo-hydroxide” anions.
 
 Example with aluminum:
-```math
+$$
 2\text{Al} + 2\text{NaOH} + 6\text{H}_2\text{O} \to 2\text{Na[Al(OH)}_4] + 3\text{H}_2
-```
+$$
 Example with zinc:
-```math
+$$
 \text{Zn} + 2\text{NaOH} + 2\text{H}_2\text{O} \to \text{Na}_2[\text{Zn(OH)}_4] + \text{H}_2
-```
+$$
 So X must be an amphoteric metal (one that reacts with both acids and bases). Classic examples: Al, Zn, Sn, Pb.
 
 ---
@@ -83,12 +83,12 @@ So X must be an amphoteric metal (one that reacts with both acids and bases). Cl
 Amphoteric metals form amphoteric oxides: the oxide reacts with both acids and bases.
 
 Example with Al2O3:
-```math
+$$
 \text{Al}_2\text{O}_3 + 6\text{HCl} \to 2\text{AlCl}_3 + 3\text{H}_2\text{O}   \quad (\text{acts basic})
-```
-```math
+$$
+$$
 \text{Al}_2\text{O}_3 + 2\text{NaOH} + 3\text{H}_2\text{O} \to 2\text{Na[Al(OH)}_4] \quad (\text{acts acidic})
-```
+$$
 So, describing the oxide as “basic” (II) and as “acidic” (III) are each incomplete alone, but together they capture amphoterism — it can behave as both. Hence II and III are jointly true.
 
 ---
@@ -146,9 +146,9 @@ Answer: c) ZnO
 
 2) Write a balanced equation for Zn reacting with NaOH to produce H2 and the zincate ion.
 Answer:
-```math
+$$
 \text{Zn} + 2\text{NaOH} + 2\text{H}_2\text{O} \to \text{Na}_2[\text{Zn(OH)}_4] + \text{H}_2
-```
+$$
 
 3) If X only reacts with HCl to give H2 but not with NaOH, which statements are likely?
 - I) X is electropositive

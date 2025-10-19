@@ -23,9 +23,9 @@ Step 2: Add up the masses of the atoms in one molecule
 - Use relative atomic masses: Ar(C) = 12, Ar(O) = 16.
 
 Step 3: Sum for the molecule (one C plus two O’s):
-```math
+$$
 M(\mathrm{CO_2}) = 1 \times 12 + 2 \times 16 = 12 + 32 = 44
-```
+$$
 
 - As a number: relative molecular mass (Mr) = 44.
 - As a unit-bearing quantity: molar mass = 44 g/mol.

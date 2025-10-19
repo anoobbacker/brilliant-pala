@@ -34,22 +34,22 @@ Break it into parts:
 - 10H2O part: each H2O has 2 H + 1 O = 3 atoms; ten waters = 10 × 3 = 30 atoms
 
 Add them:
-```math
+$$
 x = (2 + 1 + 3) + 10 \times (2 + 1) = 6 + 30 = 36
-```
+$$
 So, one formula unit of washing soda has 36 atoms.
 
 ### 2) Baking soda: NaHCO3
 Count directly:
 - 1 Na + 1 H + 1 C + 3 O = 6 atoms
-```math
+$$
 y = 1 + 1 + 1 + 3 = 6
-```
+$$
 
 ### Multiply
-```math
+$$
 x \times y = 36 \times 6 = 216
-```
+$$
 
 Answer: 216
 
@@ -93,9 +93,9 @@ Answer: 216
 1) How many atoms in one formula unit of CuSO4·5H2O?
    - CuSO4: 1+1+4 = 6; 5H2O: 5×3 = 15; total = 21.
 2) Generalize: atoms in Na2CO3·xH2O?
-   ```math
+   $$
    2 + 1 + 3 + 3x = 6 + 3x
-   ```
+   $$
 3) How many atoms in KHCO3?
    - K + H + C + 3O = 1+1+1+3 = 6.
 

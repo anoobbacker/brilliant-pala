@@ -14,9 +14,10 @@ Textual picture:
 
 So one molecule of hydrogen gas is H₂ — made of 2 hydrogen atoms.
 
-```math
+$$
 \text{H} + \text{H} \longrightarrow \text{H}_2
-```
+
+$$
 
 ---
 

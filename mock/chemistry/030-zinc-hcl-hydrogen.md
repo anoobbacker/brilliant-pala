@@ -36,23 +36,25 @@ Think of acid as a crowd of hydrogen ions, H+, waiting to grab electrons. A meta
 ### The technical story (redox, step by step)
 Two half-reactions explain the fizz:
 
-```math
+$$
 \text{Oxidation (metal loses electrons):}\quad \text{Zn(s)} \rightarrow \text{Zn}^{2+}\text{(aq)} + 2e^-
-```
 
-```math
+$$
+
+$$
 \text{Reduction (acid gains electrons):}\quad 2\text{H}^+\text{(aq)} + 2e^- \rightarrow \text{H}_2\text{(g)}
-```
+
+$$
 
 Add them up:
-```math
+$$
 \text{Zn(s)} + 2\text{H}^+\text{(aq)} \rightarrow \text{Zn}^{2+}\text{(aq)} + \text{H}_2\text{(g)}
-```
+$$
 
 With chloride ions tagging along:
-```math
+$$
 \text{Zn} + 2\text{HCl} \rightarrow \text{ZnCl}_2 + \text{H}_2\uparrow
-```
+$$
 
 So A (the assertion) is correct.
 

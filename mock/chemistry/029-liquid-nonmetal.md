@@ -19,9 +19,10 @@ If stickiness dominates strongly, particles lock into place: solid.
 
 Room temperature is about 298 K (25°C). So an element will be a liquid at 298 K only if its melting point is below 298 K and its boiling point is above 298 K.
 
-```math
+$$
 \text{Liquid at } 298\text{ K} \quad \Longleftrightarrow \quad T_\text{melt} < 298\text{ K} < T_\text{boil}
-```
+
+$$
 
 ---
 

@@ -22,19 +22,19 @@ D) is same at all holes
   - Downward weight of the slice: $\rho g A\,dz$ (density $\rho$, gravity $g$)
 
 For static equilibrium (no acceleration):
-```math
+$$
 \text{Upward} - \text{Downward} - \text{Weight} = 0 \\
 P(z)A - P(z+dz)A - \rho g A\,dz = 0
-```
+$$
 Divide by $A$ and rearrange:
-```math
+$$
 P(z) - P(z+dz) = \rho g\,dz \quad \Rightarrow \quad \frac{dP}{dz} = -\rho g
-```
+$$
 
 Integrate from the free surface (where $P = P_\text{atm}$) down a depth $h$:
-```math
+$$
 P(h) = P_\text{atm} + \rho g h
-```
+$$
 
 - This is hydrostatic pressure: it depends only on depth below the free surface, not on the shape of the container.
 - Therefore, the deeper the hole, the higher the pressure inside the tank at that hole. The lowermost hole is deepest → maximum pressure.
@@ -55,14 +55,14 @@ Here’s a subtle point that often confuses people:
 - The reason the lower jet shoots out faster is not because its exit pressure is higher; it’s because more of the gravitational potential energy (from greater depth) is converted into kinetic energy.
 
 Use Bernoulli between the free surface and just outside the hole:
-```math
+$$
 P_\text{atm} + 0 + \rho g z_\text{surface} = P_\text{atm} + \tfrac{1}{2}\rho v^2 + \rho g z_\text{hole}
-```
+$$
 Simplify:
-```math
+$$
 \tfrac{1}{2}\rho v^2 = \rho g (z_\text{surface} - z_\text{hole}) = \rho g h
 \quad \Rightarrow \quad v = \sqrt{2gh}
-```
+$$
 - Deeper hole → larger $h$ → larger $v$.
 - Exit pressure (in the free jet) is the same (atmospheric) for all holes, but exit speed differs.
 

@@ -84,17 +84,17 @@ Put together:
 - Not organic: i), ii), iv), vi)
 
 Answer:
-```math
+$$
 \text{Number of organic compounds} = 2
-```
+$$
 
 ---
 
 ## A tiny historical insight (why this matters)
 Wöhler’s experiment:
-```math
+$$
 \text{Ammonium cyanate (inorganic)} \;\xrightarrow{\text{rearrangement}}\; \text{Urea (organic)}
-```
+$$
 This showed “organic” substances can be made from “inorganic” ones, breaking the old myth that life’s compounds need a “vital force.”
 
 ---

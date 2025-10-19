@@ -24,21 +24,24 @@ Let the two resistors have resistances R₁ Ω and R₂ Ω.
 
 Substitute using Ohm’s law:
 
-```math
+$$
 V = I R_1 + I R_2 = I (R_1 + R_2)
-```
+
+$$
 
 Define an equivalent single resistor R_eq that would draw the same current I from the same voltage V:
 
-```math
+$$
 V = I R_{\text{eq}}
-```
+
+$$
 
 Comparing both expressions for V:
 
-```math
+$$
 I R_{\text{eq}} = I (R_1 + R_2) \;\;\Rightarrow\;\; R_{\text{eq}} = R_1 + R_2
-```
+
+$$
 
 So the effective resistance in ohms is simply the sum.
 
@@ -64,14 +67,15 @@ If your question had specific numbers but they didn’t display, just add them:
 
 ## Analytical summary
 
-```math
+$$
 \text{Series combination: } R_{\text{eq}} = R_1 + R_2 \quad (\text{units: ohm})
-```
+
+$$
 
 For n resistors in series:
-```math
+$$
 R_{\text{eq}} = R_1 + R_2 + \cdots + R_n
-```
+$$
 
 ---
 

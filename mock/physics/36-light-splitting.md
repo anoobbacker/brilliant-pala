@@ -26,18 +26,18 @@ Answer: 1) Dispersion
 - Key idea: For real materials, n depends slightly on wavelength. This is the “color sensitivity” of the material.
 
 We can capture both points with:
-```math
+$$
 v(\lambda) = \frac{c}{n(\lambda)}
-```
+$$
 - v(λ) is the speed of that color in the medium.
 - c is the speed of light in vacuum.
 - n(λ) changes with color (λ). In ordinary glass, violet has a larger n than red. So violet slows more.
 
 ### Step 3: How do we get bending and splitting?
 When light enters glass at an angle, it refracts (bends). The bending obeys Snell’s law:
-```math
+$$
 n_1 \sin i = n_2(\lambda) \sin r(\lambda)
-```
+$$
 - n1 = refractive index of air (≈1), i = angle of incidence
 - n2(λ) = refractive index of glass which depends on λ (color)
 - r(λ) = refracted angle that now depends on color

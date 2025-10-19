@@ -23,9 +23,9 @@ That “arrow from start to finish” has both size and direction. That’s the 
 - Straight-line arrow from where you started to where you ended = displacement (a vector, has direction).
 
 ### Technical form
-```math
+$$
 \text{Displacement vector: } \Delta \vec{r} = \vec{r}_{\text{final}} - \vec{r}_{\text{initial}}
-```
+$$
 - Magnitude of displacement: how long that straight-line arrow is.
 - Distance travelled: total length of the path you took (can bend, loop, zig-zag).
 
@@ -35,9 +35,9 @@ That “arrow from start to finish” has both size and direction. That’s the 
 - Any wiggly route must be at least as long as that straight line.
 
 So:
-```math
+$$
 \text{distance} \;\ge\; |\text{displacement}|
-```
+$$
 Equality happens only if you moved straight to the end point without backtracking.
 
 ---

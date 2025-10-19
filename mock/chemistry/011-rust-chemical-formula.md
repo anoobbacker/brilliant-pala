@@ -23,29 +23,29 @@ Technical name after the idea is clear: “hydrated ferric oxide.”
 Think cause-and-effect: electrons move, and new ions form.
 
 1) Iron gives up electrons (oxidation) at tiny spots on the metal surface:
-```math
+$$
 \text{Anode: } \quad \mathrm{Fe(s)} \rightarrow \mathrm{Fe^{2+}(aq)} + 2e^-
-```
+$$
 
 2) Oxygen from air accepts those electrons (reduction) in the presence of water:
-```math
+$$
 \text{Cathode: } \quad \mathrm{O_2(g)} + 2\mathrm{H_2O(l)} + 4e^- \rightarrow 4\mathrm{OH^- (aq)}
-```
+$$
 
 3) The ions meet in the water film on the metal:
-```math
+$$
 \mathrm{Fe^{2+}} + 2\mathrm{OH^-} \rightarrow \mathrm{Fe(OH)_2 (s)}
-```
+$$
 
 4) This first forms greenish ferrous hydroxide, which further reacts with oxygen/water to form ferric hydroxide:
-```math
+$$
 4\mathrm{Fe(OH)_2} + \mathrm{O_2} + 2\mathrm{H_2O} \rightarrow 4\mathrm{Fe(OH)_3}
-```
+$$
 
 5) Over time, some water is lost from Fe(OH)₃, turning into a variable, hydrated iron(III) oxide:
-```math
+$$
 \mathrm{Fe(OH)_3} \;\rightarrow\; \mathrm{Fe_2O_3 \cdot xH_2O} \quad (\text{rust})
-```
+$$
 
 Key idea: Water is not just a bystander; it’s both a reaction medium and part of the final rusty solid. That’s why x (an undefined number) is needed.
 

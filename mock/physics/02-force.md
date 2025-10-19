@@ -33,43 +33,43 @@ This is exactly how airbags and crumple zones work: increase stopping distance/t
 Start with Newton’s second law and relate acceleration to change in speed over distance.
 
 1) Newton’s second law:
-```math
+$$
 F = m a
-```
+$$
 
 2) Chain rule to connect acceleration to position:
-```math
+$$
 a = \frac{dv}{dt} = \frac{dv}{dx}\frac{dx}{dt} = v\frac{dv}{dx}
-```
+$$
 
 3) Multiply both sides of $F = m a$ by $dx$:
-```math
+$$
 F\,dx = m\,v\,dv
-```
+$$
 
 4) Integrate from the entry point to the stop point:
 - Position: $x=0$ to $x=s$
 - Speed: $v=u$ down to $v=0$
-```math
+$$
 \int_0^s F\,dx = \int_u^0 m\,v\,dv
-```
+$$
 
 If $F$ is approximately constant (or we interpret the left as average force times distance), then:
-```math
+$$
 F\,s = m\left[\frac{v^2}{2}\right]_u^0 = -\frac{1}{2}m u^2
-```
+$$
 The negative sign indicates the force opposes motion; its magnitude is:
-```math
+$$
 F = \frac{\frac{1}{2} m u^2}{s}
-```
+$$
 
 5) Plug in numbers:
-```math
+$$
 F = \frac{\tfrac{1}{2}\cdot 0.01 \cdot (100)^2}{5}
   = \frac{0.5 \cdot 0.01 \cdot 10000}{5}
   = \frac{50}{5}
   = 10\ \text{N}
-```
+$$
 
 Answer: 10 N (Option A)
 
@@ -87,19 +87,19 @@ Units check out.
 
 ## Approach 2 (equally first-principles): Kinematics + Newton’s law
 If the resistive force is constant, the deceleration $a$ is constant. Then the motion over distance $s$ obeys:
-```math
+$$
 v^2 = u^2 + 2 a s
-```
+$$
 Derivation sketch: use $a = v\,dv/dx$ and integrate with $a$ constant.
 
 Since $v=0$ at the end:
-```math
+$$
 0 = u^2 + 2 a s \Rightarrow a = -\frac{u^2}{2s}
-```
+$$
 Then the force magnitude is:
-```math
+$$
 F = m|a| = m\frac{u^2}{2s} = \frac{\tfrac{1}{2} m u^2}{s} = 10\ \text{N}
-```
+$$
 Same result.
 
 ---

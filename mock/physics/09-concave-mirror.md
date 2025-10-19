@@ -33,11 +33,11 @@ That means the “slope” of the line on the object side equals the “slope”
 - On the image side: slope = rise/run = $(-h_i)/v$ (negative because the image is inverted below the axis)
 
 So,
-```math
+$$
 \frac{h_o}{u} = -\frac{h_i}{v}
 \quad\Rightarrow\quad
 \frac{h_i}{h_o} = -\frac{v}{u}
-```
+$$
 This ratio $m = h_i/h_o$ is the magnification. It is dimensionless (check: cm/cm cancels), as it should be.
 
 ### 3) Proportional reasoning (quick intuition)
@@ -45,11 +45,11 @@ This ratio $m = h_i/h_o$ is the magnification. It is dimensionless (check: cm/cm
 
 ### 4) Compute the height
 Given $u = 30$ cm and $v = 60$ cm:
-```math
+$$
 m = -\frac{v}{u} = -\frac{60}{30} = -2
 \quad\Rightarrow\quad
 h_i = m\,h_o = (-2)\times (2\ \text{cm}) = -4\ \text{cm}
-```
+$$
 The negative sign means the image is inverted. The magnitude is 4 cm.
 
 Answer: 4 cm (inverted), i.e., Choice A.
