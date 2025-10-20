@@ -52,27 +52,27 @@ Set V_A = 1 V and V_C = 0 V. Let V_B = x and V_D = y (unknowns). Currents are fo
 Write KCL at B and at D (sum of currents leaving the node = 0):
 
 At B:
-$$
+```math
 \frac{V_B - V_A}{R} + \frac{V_B - V_C}{R} + \frac{V_B - V_D}{2R} = 0
-$$
+```
 
 At D:
-$$
+```math
 \frac{V_D - V_A}{R} + \frac{V_D - V_C}{R} + \frac{V_D - V_B}{2R} = 0
-$$
+```
 
 Subtract the second equation from the first:
-$$
+```math
 \frac{(V_B - V_D)}{R} + \frac{(V_B - V_D)}{R} + \frac{(V_B - V_D) - (V_D - V_B)}{2R} = 0
-$$
+```
 Note that (V_B − V_D) − (V_D − V_B) = 2(V_B − V_D). So
-$$
+```math
 \frac{(V_B - V_D)}{R} + \frac{(V_B - V_D)}{R} + \frac{2(V_B - V_D)}{2R} = \frac{3(V_B - V_D)}{R} = 0
-$$
+```
 Therefore:
-$$
+```math
 V_B = V_D
-$$
+```
 
 Conclusion: B and D are at the same potential. So the diagonal BD has zero voltage across it and carries zero current, regardless of its value (even though it’s 2R here). This is the essence of a balanced bridge. 
 
@@ -96,18 +96,18 @@ Answer: R
 With V_A = 1 V, V_C = 0 V, and we found V_B = V_D. Call it V_B = V_D = v.
 
 At B (and similarly at D), since the BD branch has no current when V_B = V_D,
-$$
+```math
 \frac{v - 1}{R} + \frac{v - 0}{R} = 0 \quad \Rightarrow \quad 2v - 1 = 0 \quad \Rightarrow \quad v = \frac{1}{2}
-$$
+```
 
 Total current from A:
-$$
+```math
 I_\text{total} = \frac{1 - v}{R} + \frac{1 - v}{R} = \frac{2(1 - 1/2)}{R} = \frac{1}{R}
-$$
+```
 Therefore,
-$$
+```math
 R_\text{eq} = \frac{V}{I} = \frac{1}{1/R} = R
-$$
+```
 
 This matches Method 1.
 
@@ -145,9 +145,9 @@ A) R
 ## Ambiguity check (what if there were two R’s in parallel between C and D?)
 
 If the listing “C–D” and “D–C” meant two distinct resistors R in parallel between C and D (making that link R/2), the symmetry would be broken. A quick KCL solution (still from first principles) gives:
-$$
+```math
 R_\text{eq} = \frac{17}{20} R = 0.85\,R
-$$
+```
 which would correspond to “none of these.” However, the standard reading is a single C–D resistor R, leading to R as above.
 
 ---

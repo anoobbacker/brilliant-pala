@@ -23,26 +23,26 @@ We’ll use two basic ideas:
 
 ### Series (one path, resistors end-to-end)
 Same current I flows through each; voltages add:
-$$
+```math
 V_\text{total} = I(R_1 + R_2 + \dots) \implies R_\text{eq} = R_1 + R_2 + \dots
-$$
+```
 So series always increases resistance.
 
 ### Parallel (many paths, both ends tied together)
 Same voltage V across each; currents add:
-$$
+```math
 I_\text{total} = I_1 + I_2 + \dots
 = \frac{V}{R_1} + \frac{V}{R_2} + \dots
 = V\left(\frac{1}{R_1} + \frac{1}{R_2} + \dots\right).
-$$
+```
 So
-$$
+```math
 \frac{1}{R_\text{eq}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots
-$$
+```
 For N identical resistors of resistance r in parallel:
-$$
+```math
 \frac{1}{R_\text{eq}} = \frac{N}{r} \quad \Rightarrow \quad R_\text{eq} = \frac{r}{N}.
-$$
+```
 
 Text sketch of “all parallel”:
 - Two big rails (top and bottom) are the terminals.
@@ -56,13 +56,13 @@ Text sketch of “all parallel”:
 Use all 10 resistors as separate parallel branches. That maximizes the total “conductance” (ease of flow), thus minimizes resistance.
 
 A neat check: Suppose you tried mixing series and parallel by making m parallel branches, each branch having k resistors in series (so km = 10). Each branch has resistance k r, and m such branches in parallel give:
-$$
+```math
 R_\text{eq} = \frac{k r}{m} = \frac{k r}{10/k} = \frac{k^2}{10}\, r.
-$$
+```
 This is smallest when k = 1 (the smallest possible), i.e., no series at all. That gives:
-$$
+```math
 R_\text{min} = \frac{r}{10}.
-$$
+```
 Any series anywhere only makes it bigger.
 
 So among the options, the minimum is r/10.

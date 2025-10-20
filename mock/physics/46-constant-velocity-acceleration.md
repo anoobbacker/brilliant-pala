@@ -16,13 +16,13 @@ Now ask: Is anything trying to change how it’s moving? If not, there’s no �
 - Acceleration: how quickly your velocity changes.
 
 Mathematically, acceleration is the rate of change of velocity:
-$$
+```math
 a = \frac{\Delta \vec{v}}{\Delta t}
-$$
+```
 If velocity is constant, then Δv = 0, so:
-$$
+```math
 a = \frac{0}{\Delta t} = 0 \ \text{m/s}^2
-$$
+```
 
 Units check: velocity is m/s; change per second gives m/s per s = m/s^2. If there’s no change, it’s 0 m/s^2.
 

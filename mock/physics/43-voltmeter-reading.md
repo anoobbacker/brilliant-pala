@@ -46,35 +46,31 @@ Your circuit puts the voltmeter directly across the ammeter. What should a perfe
 ### 1) Total resistance and current in the loop
 Only the two 1 Ω resistors provide resistance. The ammeter is 0 Ω, the voltmeter draws no current.
 
-$$
+```math
 R_{\text{total}} = 1\ \Omega + 1\ \Omega = 2\ \Omega
-
-$$
+```
 
 Battery = 2 V, so by Ohm’s law:
 
-$$
+```math
 I = \frac{V}{R} = \frac{2\ \text{V}}{2\ \Omega} = 1\ \text{A}
-
-$$
+```
 
 So 1 A flows around the loop.
 
 ### 2) Voltage across the ammeter
 Voltage drop across any element is V = I × R. For the ammeter:
 
-$$
+```math
 V_{\text{ammeter}} = I \times 0\ \Omega = 1\ \text{A} \times 0 = 0\ \text{V}
-
-$$
+```
 
 ### 3) What does the voltmeter read?
 The voltmeter is connected across the ammeter, so it measures the same potential difference:
 
-$$
+```math
 V_{\text{voltmeter}} = V_{\text{ammeter}} = 0\ \text{V}
-
-$$
+```
 
 Answer: 0 V.
 

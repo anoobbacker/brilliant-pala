@@ -42,16 +42,16 @@ Answer: C) Iodine
 - Higher α typically means a larger refractive index n (light slows down more inside), and often more reflection at the surface.
 
 Idea-level relationship (Clausius–Mossotti/Lorentz–Lorenz):
-$$
+```math
 \frac{n^2 - 1}{n^2 + 2} \propto N \alpha
-$$
+```
 - N = number of atoms per volume.
 - Check: n is dimensionless; Nα is dimensionless (α has volume units, N has 1/volume), so the proportionality is dimensionally consistent.
 
 Surface reflectivity at normal incidence (qualitative Fresnel idea):
-$$
+```math
 R = \frac{(n-1)^2 + k^2}{(n+1)^2 + k^2}
-$$
+```
 - n = refractive index (how much light slows).
 - k = absorption index (how much light is soaked up inside).
 - Bigger n and/or k → bigger R → shinier look.

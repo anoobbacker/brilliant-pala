@@ -22,21 +22,21 @@ D) $30{,}000^\circ$ C
 ### 2) Sound speed links temperature to thunder’s shock
 - When a hot region of gas forms, it expands at about its own sound speed. The hotter the gas, the faster sound travels in it.
 - For an ideal gas, the speed of sound c in that gas is
-  $$
+  ```math
   c = \sqrt{\gamma \frac{p}{\rho}}
-  $$
+  ```
   where γ is the adiabatic index (≈1.4 for air), p is pressure, and ρ is density.
 - Using the ideal gas relation p = ρ R T / M (R is the gas constant, M is molar mass), we get
-  $$
+  ```math
   c = \sqrt{\gamma \frac{R}{M} T} \;\;\Rightarrow\;\; c \propto \sqrt{T}
-  $$
+  ```
   Dimensional check: p/ρ has units of energy per mass (J/kg), whose square root is m/s.
 
 - Ambient air at T ≈ 300 K has c ≈ 343 m/s. Near a fresh lightning channel, the initial shock front speed is observed to be roughly 10× this (a strong shock).
   - If c_hot ≈ 10 c_cool, then
-    $$
+    ```math
     \frac{c_{\text{hot}}}{c_{\text{cool}}} \approx \sqrt{\frac{T_{\text{hot}}}{T_{\text{cool}}}} \;\Rightarrow\; T_{\text{hot}} \approx 10^2 \times 300\,\text{K} \approx 30{,}000\,\text{K}
-    $$
+    ```
   - Since K and °C differ by 273, at tens of thousands that offset is negligible: ~30,000°C.
 
 This simple proportional reasoning already lands us in the right ballpark.
@@ -48,16 +48,16 @@ Let’s see if lightning could reasonably heat air to that level.
   - Volume: V = π r^2 L ≈ π × (10^-2)^2 × 1 ≈ 3.14 × 10^-4 m^3.
   - Mass of air initially: m = ρ V ≈ 1.2 × 3.14e-4 ≈ 3.77e-4 kg.
 - Energy to heat from 300 K to 30,000 K at constant volume:
-  $$
+  ```math
   E_{\text{heat}} \approx m\, c_v\, \Delta T
   \approx (3.77\times 10^{-4}) \times (718)\times (3.0\times 10^4)
   \approx 8\times 10^3\ \text{J} \;(\text{about 8 kJ per meter})
-  $$
+  ```
 - Ionization energy (very rough check): number of molecules in that volume is n ≈ pV/RT ≈ 0.013 mol ≈ 7.6×10^21 molecules. If ~10 eV per molecule is used for first ionization,
-  $$
+  ```math
   E_{\text{ionize}} \sim 7.6\times 10^{21} \times 10\,\text{eV}
   \approx 1.2\times 10^4\ \text{J}
-  $$
+  ```
 - So total on the order of tens of kJ per meter can drastically heat and ionize the air.
 - Typical lightning releases vastly more energy overall (often 10^8–10^9 J per stroke), so reaching ~30,000 K in the thin channel is physically plausible.
 

@@ -32,45 +32,43 @@ Balancing means: we can rearrange the Lego blocks, but we can’t create or dest
 
 Let the coefficients be x, y, z, w:
 
-$$
+```math
 x\,\text{NH}_3 + y\,\text{O}_2 \rightarrow z\,\text{NO} + w\,\text{H}_2\text{O}
-
-$$
+```
 
 Count each element:
 
 1) Nitrogen:
-$$
+```math
 \text{Left: } x \quad\text{Right: } z \quad\Rightarrow\quad x = z
-$$
+```
 
 2) Hydrogen:
-$$
+```math
 \text{Left: } 3x \quad\text{Right: } 2w \quad\Rightarrow\quad 3x = 2w \ \Rightarrow\ w = \frac{3x}{2}
-$$
+```
 This tells us x must be even for w to be a whole number.
 
 3) Oxygen:
-$$
+```math
 \text{Left: } 2y \quad\text{Right: } z + w \quad\Rightarrow\quad 2y = z + w
-$$
+```
 Using z = x and w = 3x/2:
-$$
+```math
 2y = x + \frac{3x}{2} = \frac{5x}{2} \quad\Rightarrow\quad y = \frac{5x}{4}
-$$
+```
 For y to be an integer, x must be a multiple of 4. Choose the smallest: x = 4.
 
 Then:
-$$
+```math
 x = 4,\quad z = 4,\quad w = \frac{3(4)}{2} = 6,\quad y = \frac{5(4)}{4} = 5
-$$
+```
 
 Balanced equation:
 
-$$
+```math
 4\text{NH}_3 + 5\text{O}_2 \rightarrow 4\text{NO} + 6\text{H}_2\text{O}
-
-$$
+```
 
 So the correct option is 3) x = 4; y = 5; z = 4; w = 6.
 
@@ -100,13 +98,13 @@ So the correct option is 3) x = 4; y = 5; z = 4; w = 6.
 ## Analytical view (compact)
 
 From conservation:
-$$
+```math
 \begin{aligned}
 \text{N: } & x = z \\
 \text{H: } & 3x = 2w \Rightarrow w = \frac{3x}{2} \\
 \text{O: } & 2y = z + w = x + \frac{3x}{2} = \frac{5x}{2} \Rightarrow y = \frac{5x}{4}
 \end{aligned}
-$$
+```
 Smallest integer solution: x = 4 → (x, y, z, w) = (4, 5, 4, 6).
 
 ---

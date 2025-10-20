@@ -27,19 +27,17 @@ Start from the only law you need: angle of incidence equals angle of reflection.
 
 Put these together:
 
-$$
+```math
 \tan(2\theta) \approx 2\theta \approx \frac{h}{f}
 \quad\text{and}\quad
 h \approx R\theta
-
-$$
+```
 
 So:
 
-$$
+```math
 \frac{R\theta}{f} \approx 2\theta \quad\Rightarrow\quad f \approx \frac{R}{2}.
-
-$$
+```
 
 This works for both concave and convex spherical mirrors (same magnitude). For a convex mirror, the focus is virtual (behind the mirror), but its distance from the pole is still half the radius of curvature.
 
@@ -49,10 +47,9 @@ This works for both concave and convex spherical mirrors (same magnitude). For a
 
 Given radius of curvature R = 25 cm:
 
-$$
+```math
 f = \frac{R}{2} = \frac{25\ \text{cm}}{2} = 12.5\ \text{cm}.
-
-$$
+```
 
 Answer: 1) 12.5 cm
 

@@ -25,13 +25,13 @@ D) none
   - Speed increases (more turn per time),
   - Radius decreases (tighter turn).
 - Dimensional analysis: the only combination with units of acceleration (m/s²) from speed v (m/s) and radius r (m) is v²/r. So:
-  $$
+  ```math
   a_{\text{centripetal}} = \frac{v^2}{r}
-  $$
+  ```
 - The required inward force is:
-  $$
+  ```math
   F_{\text{centripetal}} = m \frac{v^2}{r}
-  $$
+  ```
 
 ### 2) Magnetic force on a moving charge (perpendicular case)
 - Experiments show a magnetic field exerts a force on a moving charge:
@@ -40,19 +40,19 @@ D) none
   - Proportional to magnetic field strength B,
   - Perpendicular to both v and B, so it changes direction, not speed.
 - When v ⟂ B, the magnitude is:
-  $$
+  ```math
   F_{\text{mag}} = q v B
-  $$
+  ```
 
 ### 3) Set magnetic force = centripetal force
 For a circular path caused by the magnetic field:
-$$
+```math
 q v B = m \frac{v^2}{r}
-$$
+```
 Solve for v (cancel one v from both sides):
-$$
+```math
 v = \frac{q B r}{m}
-$$
+```
 
 This shows:
 - v is directly proportional to B (stronger field bends tighter unless speed is higher),
@@ -61,9 +61,9 @@ This shows:
 
 ### 4) Dimensional check
 - Tesla (T) = kg/(C·s). Then:
-  $$
+  ```math
   \frac{q B r}{m} \sim \frac{C \cdot \frac{kg}{C \cdot s} \cdot m}{kg} = \frac{m}{s}
-  $$
+  ```
   Correct units for speed.
 
 ---
@@ -77,16 +77,16 @@ Constants:
 - Radius: r = 1.00 × 10⁻² m
 
 Compute using v = (qBr)/m:
-$$
+```math
 v = \frac{(1.602 \times 10^{-19}\ \text{C})(1.00 \times 10^{-2}\ \text{T})(1.00 \times 10^{-2}\ \text{m})}{9.11 \times 10^{-31}\ \text{kg}}
-$$
+```
 Group powers of ten and numbers:
-$$
+```math
 v \approx \frac{1.602 \times 10^{-23}}{9.11 \times 10^{-31}}
 = \left(\frac{1.602}{9.11}\right) \times 10^{8}
 \approx 0.176 \times 10^{8}
 = 1.76 \times 10^{7}\ \text{m/s}
-$$
+```
 
 - This is about 5.9% of the speed of light (non-relativistic, so our classical formula is valid).
 
@@ -98,9 +98,9 @@ Answer: 1.76 × 10⁷ m/s → not listed in the options ⇒ D) none.
 
 - Angular (cyclotron) frequency: the circular motion implies v = ωr.
 - From force balance qvB = m v²/r, divide both sides by v r: qB/m = v/r = ω.
-  $$
+  ```math
   \omega = \frac{qB}{m}, \qquad v = \omega r = \frac{q B}{m} r
-  $$
+  ```
 - Frequency f = ω/(2π) = qB/(2πm), then v = 2π r f.
 - Plugging in gives the same v ≈ 1.76 × 10⁷ m/s.
 

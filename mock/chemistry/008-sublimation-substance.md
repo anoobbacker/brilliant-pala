@@ -43,9 +43,9 @@ Rule of thumb for exams: Molecular solids with weaker intermolecular forces are 
 - C) I₂ (iodine): Molecular solid; large, squishy electron cloud (high polarizability) gives moderate London forces—stronger than small molecules, but still much weaker than ionic/metallic bonds. Solid iodine has a significant vapor pressure; on gentle heating it forms a beautiful violet vapor that re-deposits as shiny crystals. Classic sublimator.
 
 - D) CaCO₃ (calcium carbonate): When heated, it doesn’t sublime; it decomposes chemically:
-  $$
+  ```math
   \mathrm{CaCO_3(s) \;\to\; CaO(s) + CO_2(g)}
-  $$
+  ```
   That’s thermal decomposition, not sublimation.
 
 Answer: C) I₂

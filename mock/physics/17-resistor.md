@@ -13,24 +13,24 @@ Question: If you know the push (220 V) and the flow that results (10 A), how “
 
 ## Build the relation from first principles
 For many materials (at a fixed temperature), pushing twice as hard doubles the flow. That “linear response” is summarized by Ohm’s law:
-$$
+```math
 V \propto I \quad \Rightarrow \quad V = I R
-$$
+```
 Rearranging to find resistance:
-$$
+```math
 R = \frac{V}{I}
-$$
+```
 Unit check by dimensional reasoning:
-$$
+```math
 \frac{\text{volt}}{\text{ampere}} = \text{ohm} \; (\Omega)
-$$
+```
 
 ---
 
 ## Calculate
-$$
+```math
 R = \frac{220\ \text{V}}{10\ \text{A}} = 22\ \Omega
-$$
+```
 
 Answer: The bulb’s resistance is 22 Ω.
 

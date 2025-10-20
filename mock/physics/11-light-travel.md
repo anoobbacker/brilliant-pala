@@ -10,15 +10,15 @@ D) 200 million km
 
 ## First principles: What connects distance, speed, and time?
 Speed tells us “how much distance is covered per unit time.” By definition:
-$$
+```math
 \text{speed} = \frac{\text{distance}}{\text{time}} \quad \Rightarrow \quad \text{distance} = \text{speed} \times \text{time}
-$$
+```
 This is not a memorized formula; it’s simply the meaning of speed.
 
 Dimensional check:
-$$
+```math
 [\text{distance}] = \frac{[\text{distance}]}{[\text{time}]} \cdot [\text{time}] \Rightarrow \text{km} = \frac{\text{km}}{\text{s}} \cdot \text{s}
-$$
+```
 Units match, so the relationship is consistent.
 
 ---
@@ -37,24 +37,24 @@ Since the answer choices are in kilometers and the travel time is in minutes, we
 ## Step-by-step solution
 
 1) Convert time to seconds (because speed is per second):
-$$
+```math
 t = 8.3\ \text{minutes} \times 60\ \frac{\text{s}}{\text{minute}} = 498\ \text{s}
-$$
+```
 
 2) Multiply speed by time:
-$$
+```math
 d = c \times t = \left(3 \times 10^5\ \frac{\text{km}}{\text{s}}\right) \times (498\ \text{s})
-$$
+```
 
 3) Compute using scientific notation:
-$$
+```math
 d = 3 \times 498 \times 10^5\ \text{km} = 1494 \times 10^5\ \text{km} = 1.494 \times 10^8\ \text{km}
-$$
+```
 
 Rounded to two significant figures (matching 8.3 minutes):
-$$
+```math
 d \approx 1.5 \times 10^8\ \text{km} = 150\ \text{million km}
-$$
+```
 
 Answer: A) 150 million km
 
@@ -82,9 +82,9 @@ Answer: A) 150 million km
 ## Multiple approaches
 
 - Analytical (definition-based):
-  $$
+  ```math
   d = v \times t
-  $$
+  ```
   Convert minutes to seconds, multiply, done.
 
 - Estimation:

@@ -22,23 +22,23 @@ So we don’t “start with a formula,” we reason it:
 - Therefore, weight = mass × g.
 
 In symbols:
-$$
+```math
 W = m g
-$$
+```
 
 Given in the question:
 - Weight on Earth: W = 60 N
 - g_earth = 10 m/s²
 
 Solve for mass:
-$$
+```math
 m = \frac{W}{g} = \frac{60\ \text{N}}{10\ \text{m/s}^2} = 6\ \text{kg}
-$$
+```
 
 Dimensional check:
-$$
+```math
 \frac{\text{N}}{\text{m/s}^2} = \frac{\text{kg·m/s}^2}{\text{m/s}^2} = \text{kg}
-$$
+```
 Units match, so the relationship is sensible.
 
 Key idea: Mass does not depend on where you are. So the mass on the Moon is still 6 kg.

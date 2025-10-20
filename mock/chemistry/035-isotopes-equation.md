@@ -31,17 +31,15 @@ Isotopes = same element = same number of protons. That means:
 
 “Isotopes” only guarantees y = q. So:
 
-$$
+```math
 y = q \quad \Rightarrow \quad y^2 - q^2 = 0.
-
-$$
+```
 
 This alone is enough to kill any product that contains the factor (y^2 − q^2), because multiplying by zero gives zero:
 
-$$
+```math
 (x^2 - p^2)(y^2 - q^2) = (x^2 - p^2)\cdot 0 = 0.
-
-$$
+```
 
 Among the choices, only option 4 matches this:
 

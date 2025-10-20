@@ -21,31 +21,27 @@ Each electron carries a tiny, fixed amount of charge. So total charge is just �
 - Physical meaning: 1 coulomb (C) is the total charge that flows when a current of 1 ampere flows for 1 second. It’s a lot of charge.
 - Each electron carries the elementary charge (magnitude):
 
-$$
+```math
 e = 1.602 \times 10^{-19}\ \text{C}
-
-$$
+```
 
 - If N electrons together make 1 C, then:
 
-$$
+```math
 Q = N e \quad \Rightarrow \quad N = \frac{Q}{e} = \frac{1}{1.602 \times 10^{-19}}
-
-$$
+```
 
 Compute:
 
-$$
+```math
 N \approx \frac{1}{1.602} \times 10^{19} \approx 0.624 \times 10^{19} = 6.24 \times 10^{18}
-
-$$
+```
 
 Rounding to typical exam precision (using e ≈ 1.6 × 10^-19 C) gives:
 
-$$
+```math
 N \approx 6.25 \times 10^{18}\ \text{electrons}
-
-$$
+```
 
 Note: Electrons have negative charge, but when we ask “how many electrons,” we give a positive count.
 
@@ -74,9 +70,9 @@ Imagine a stream of tiny marbles (electrons) passing a line each second. If the 
 ## Multiple lenses
 
 ### Analytical view
-$$
+```math
 Q = Ne \Rightarrow N = Q/e,\quad Q = 1\ \text{C},\ e \approx 1.6 \times 10^{-19}\ \text{C}
-$$
+```
 So N ≈ 6.25 × 10^18.
 
 ### Experimental view

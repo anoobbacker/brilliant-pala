@@ -48,38 +48,38 @@ So the correct option is:
 - Cause-effect: Energy input (heat, light, electricity) breaks bonds holding different elements together.
 
 Example:
-$$
+```math
 2 \, \text{HgO} \xrightarrow{\text{heat}} 2 \, \text{Hg} + \text{O}_2
-$$
+```
 
 ### ii) Metal + non-metal → Ionic compound → Combination
 - Analogy: One piece from the left (metal) and one from the right (non-metal) join to make a single product.
 - Cause-effect: Metals tend to lose electrons; non-metals tend to gain. Opposite charges attract → ions lock into a lattice.
 
 Example:
-$$
+```math
 2 \, \text{Na} + \text{Cl}_2 \rightarrow 2 \, \text{NaCl}
-$$
+```
 
 ### iii) Hydrocarbon + oxygen → CO₂ + H₂O → Combustion
 - Analogy: Fuel plus oxygen in a car engine produces hot gases and water vapor—energy release is the point.
 - Cause-effect: Carbon wants to become the most stable oxide (CO₂); hydrogen becomes H₂O. Both releases energy → flame/heat/light.
 
 General pattern:
-$$
+```math
 \text{C}_x\text{H}_y + \left(x + \frac{y}{4}\right)\text{O}_2 \rightarrow x \, \text{CO}_2 + \frac{y}{2} \, \text{H}_2\text{O}
-$$
+```
 
 ### iv) Ag⁺(aq) + Br⁻(aq) → AgBr(s) precipitate → Double displacement
 - Analogy: Two dancing pairs swap partners; the new pair AgBr is so tightly bound it leaves the dance floor (falls out as a solid).
 - Cause-effect: When the ions swap, one of the new pair is poorly soluble. Water can’t keep Ag⁺ and Br⁻ apart → they form a solid lattice.
 
 Full and net ionic:
-$$
+```math
 \text{AgNO}_3(aq) + \text{KBr}(aq) \rightarrow \text{AgBr}(s) + \text{KNO}_3(aq)
 
 \text{Net ionic: } \quad \text{Ag}^+(aq) + \text{Br}^-(aq) \rightarrow \text{AgBr}(s)
-$$
+```
 
 ---
 
@@ -147,9 +147,9 @@ $$
 
 3) Identify type and write net ionic: Mixing BaCl₂(aq) and Na₂SO₄(aq) gives a white solid.  
 - Answer: Double displacement (precipitation). Net ionic:
-$$
+```math
 \text{Ba}^{2+}(aq) + \text{SO}_4^{2-}(aq) \rightarrow \text{BaSO}_4(s)
-$$
+```
 
 4) True/False: CH₄ + O₂ → CO + H₂O is complete combustion.  
 - Answer: False. Complete combustion makes CO₂, not CO.

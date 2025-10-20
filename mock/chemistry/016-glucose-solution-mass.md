@@ -18,23 +18,21 @@ So, a 4.8% by mass glucose solution means:
 
 Percentage by mass is just a ratio scaled to 100.
 
-$$
+```math
 \text{Mass percent} = \frac{\text{mass of solute}}{\text{mass of solution}} \times 100
-
-$$
+```
 
 We want the mass of glucose (solute) needed to make 250 g of solution at 4.8%.
 
 Rearrange to find solute mass:
 
-$$
+```math
 \text{mass of solute} 
 = \frac{\text{mass percent}}{100} \times \text{mass of solution}
 = \frac{4.8}{100} \times 250\ \text{g}
 = 0.048 \times 250\ \text{g}
 = 12\ \text{g}
-
-$$
+```
 
 So you need 12 g of glucose.
 
@@ -46,9 +44,9 @@ To make the total solution mass 250 g, the rest must be solvent (water):
 ## Multiple lenses
 
 - Analytical view:
-  $$
+  ```math
   m_{\text{glucose}} = 0.048 \times 250 = 12\ \text{g}
-  $$
+  ```
 - Intuitive mental check:
   5% of 250 g is 12.5 g. Since 4.8% is 0.2% less, subtract 0.2% of 250 (which is 0.5 g): 12.5 − 0.5 = 12 g. Makes sense.
 - Experimental view:
@@ -73,9 +71,9 @@ To make the total solution mass 250 g, the rest must be solvent (water):
 
 - What if the question said 4.8% (w/v) instead? Then 4.8 g per 100 mL of solution. For 250 mL, you’d need 12 g of glucose, but now volume is controlled, not mass.
 - If you accidentally add 15 g glucose and still want 4.8% solution, what total mass should the solution be?
-  $$
+  ```math
   4.8\% = \frac{15}{M_{\text{solution}}}\times 100 \Rightarrow M_{\text{solution}} = \frac{15 \times 100}{4.8} \approx 312.5\ \text{g}
-  $$
+  ```
 
 ---
 

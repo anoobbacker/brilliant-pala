@@ -29,9 +29,9 @@ Answer: B) Centrifugation
 Technical term after the idea: this is centrifugation — using rapid spinning to separate components based on density.
 
 Analytical hint:
-$$
+```math
 a_\text{centripetal} = \omega^2 r
-$$
+```
 - The effective “pull” grows with the square of spin speed (ω). Double the speed → 4× stronger separation effect.
 
 ---

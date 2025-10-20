@@ -38,10 +38,9 @@ Key idea: both are nonmetals, so they share a pair of electrons → a single cov
 
 Therefore, the formula is one H with one Cl → AB.
 
-$$
+```math
 \text{Balanced reaction from diatomic elements:}\quad H_2 + Cl_2 \rightarrow 2\,HCl
-
-$$
+```
 
 Answer: 4) AB
 

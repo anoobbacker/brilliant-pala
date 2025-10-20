@@ -29,9 +29,9 @@ This is the same inverse-square pattern seen in light intensity from a bulb: dou
 
 ### 3) From proportionality to equation (introducing the constant G)
 Experimentally (Cavendish experiment and planetary motion analysis) we find the exact law:
-$$
+```math
 g(r) = \frac{GM}{r^2}
-$$
+```
 - M is Earth’s mass.
 - G is the universal gravitational constant.
 
@@ -44,21 +44,21 @@ Dimensional check:
 
 ### 4) Use a ratio to avoid unknowns
 Let $R$ be Earth’s radius and $g_0$ be gravity at Earth’s surface:
-$$
+```math
 g_0 = \frac{GM}{R^2} \approx 9.8\ \text{m/s}^2
-$$
+```
 At height $h = R$ above the surface, the distance from Earth’s center is:
-$$
+```math
 r = R + h = R + R = 2R
-$$
+```
 So
-$$
+```math
 g(2R) = \frac{GM}{(2R)^2} = \frac{GM}{4R^2} = \frac{1}{4}\cdot \frac{GM}{R^2} = \frac{g_0}{4}
-$$
+```
 Numerically:
-$$
+```math
 g(2R) = \frac{9.8}{4} = 2.45\ \text{m/s}^2
-$$
+```
 
 Answer: B) 2.45 m/s²
 

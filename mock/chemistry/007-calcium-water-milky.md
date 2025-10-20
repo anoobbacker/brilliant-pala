@@ -29,9 +29,9 @@ Put those ideas together and balance atoms logically:
 - The leftover pieces form calcium hydroxide.
 
 Balanced reaction:
-$$
+```math
 \text{Ca (s)} + 2\,\text{H}_2\text{O (l)} \rightarrow \text{Ca(OH)}_2 \text{(s/aq)} + \text{H}_2 \text{(g)}
-$$
+```
 
 Two key observations:
 - Bubbles: hydrogen gas, H₂.

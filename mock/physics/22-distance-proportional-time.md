@@ -17,21 +17,21 @@ Answer: You’re cruising at a constant speed.
 ## Build from first principles
 
 Let distance be s and time be t. “Directly proportional” means:
-$$
+```math
 s = k\,t \quad \text{for some constant } k
-$$
+```
 - Velocity is “how fast distance changes,” so:
-$$
+```math
 v = \frac{ds}{dt} = k \quad \Rightarrow \quad \text{velocity is constant}
-$$
+```
 - Acceleration is “how fast velocity changes,” so:
-$$
+```math
 a = \frac{dv}{dt} = 0
-$$
+```
 Newton’s second law connects force and acceleration:
-$$
+```math
 F_\text{net} = m\,a = m \times 0 = 0
-$$
+```
 So the net force on the body is zero.
 
 Pick: 2) 0 N

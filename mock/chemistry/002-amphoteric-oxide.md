@@ -33,12 +33,12 @@ So among CaO, MgO, FeO, ZnO — zinc is one of those classic borderliners.
 Amphoteric means: reacts with acids and with bases.
 
 For ZnO:
-$$
+```math
 \text{With acid:}\quad \text{ZnO} + 2\text{HCl} \rightarrow \text{ZnCl}_2 + \text{H}_2\text{O}
-$$
-$$
+```
+```math
 \text{With base (aqueous):}\quad \text{ZnO} + 2\text{NaOH} + \text{H}_2\text{O} \rightarrow \text{Na}_2[\text{Zn(OH)}_4]
-$$
+```
 That complex ion [Zn(OH)4]2− is called “zincate.”
 
 Check others quickly:

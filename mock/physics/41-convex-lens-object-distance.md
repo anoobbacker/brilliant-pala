@@ -20,11 +20,10 @@ These two rays meet at the image. That lets us use similar triangles.
 ### Step 2: Magnification from the center ray
 Look at the straight ray through the center. The triangles formed by the object and image with the lens give:
 
-$$
+```math
 \text{magnification } m \equiv \frac{\text{image height}}{\text{object height}}
 = \frac{h'}{h} = \frac{v}{u}
-
-$$
+```
 
 Here:
 - u = object distance from lens
@@ -40,49 +39,44 @@ Use the parallel-to-axis ray (Ray B). It hits the lens at height h and then goes
 
 Equal slopes give:
 
-$$
+```math
 \frac{h}{f} = \frac{h'}{v - f}
 \quad\Rightarrow\quad
 \frac{h'}{h} = \frac{v - f}{f}
-
-$$
+```
 
 But from Step 2, h'/h = v/u. Set them equal:
 
-$$
+```math
 \frac{v}{u} = \frac{v - f}{f}
 \quad\Rightarrow\quad
 vf = uv - uf
 \quad\Rightarrow\quad
 uv = f(u + v)
-
-$$
+```
 
 Divide both sides by fuv:
 
-$$
+```math
 \frac{1}{f} = \frac{1}{u} + \frac{1}{v}
-
-$$
+```
 
 That’s the thin lens equation — we’ve reconstructed it from ray geometry.
 
 ### Step 4: Apply “same size” condition
 Same size ⇒ v = u (in magnitude). Substitute v = u into the lens equation:
 
-$$
+```math
 \frac{1}{f} = \frac{1}{u} + \frac{1}{u} = \frac{2}{u}
 \quad\Rightarrow\quad
 u = 2f
-
-$$
+```
 
 Given f = 10 cm:
 
-$$
+```math
 u = 2 \times 10 \text{ cm} = 20 \text{ cm}
-
-$$
+```
 
 Answer: 20 cm.
 

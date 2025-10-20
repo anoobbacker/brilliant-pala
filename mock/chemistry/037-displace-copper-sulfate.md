@@ -25,9 +25,9 @@ That “push copper out” is what we call displacement.
   - M gets oxidized (loses electrons): M → M^2+ + 2e−
   - Cu2+ gets reduced (gains electrons): Cu2+ + 2e− → Cu(s)
 - Overall reaction:
-  $$
+  ```math
   \text{M (s)} + \text{CuSO}_4 \text{(aq)} \rightarrow \text{MSO}_4 \text{(aq)} + \text{Cu (s)}
-  $$
+  ```
 - This only happens if M is “more willing” to lose electrons than copper—i.e., M is above copper in the reactivity series.
 
 Plain-language rule:
@@ -57,10 +57,9 @@ We check if each is above Cu in the reactivity series:
 
 So the ones that displace copper are: Mg, Fe, Pb, Zn.
 
-$$
+```math
 \text{Count} = 4
-
-$$
+```
 
 Answer: 4
 

@@ -30,13 +30,12 @@ Technical term introduced:
 - Carboxylic acid: carbonyl with an -OH on the same carbon (–COOH).
 - Alcohol: contains –OH attached to a carbon (no carbonyl involved).
 
-$$
+```math
 \text{ketone: } R{-}CO{-}R' \qquad
 \text{aldehyde: } R{-}CHO \qquad
 \text{carboxylic acid: } R{-}COOH \qquad
 \text{alcohol: } R{-}OH
-
-$$
+```
 
 ---
 

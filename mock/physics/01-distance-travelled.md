@@ -22,18 +22,18 @@ Most literally, “in one second, two seconds, three seconds” means total dist
 - Gravity gives a constant acceleration downward, called g (about 9.8 m/s²).
 - Acceleration means “how much speed changes per second.”
 - Starting from rest (v = 0), after time t, the speed grows linearly:
-  $$
+  ```math
   v(t) = g\,t
-  $$
+  ```
   Units check: g [m/s²] × t [s] = [m/s] → good.
 
 ### 2) How distance grows with time (why s = (1/2) g t²)
 - Distance is the area under the velocity–time graph.
 - For constant acceleration from rest, v–t graph is a straight line from 0 to g t, forming a triangle.
 - Area of triangle = 1/2 × base × height = 1/2 × t × (g t):
-  $$
+  ```math
   s(t) = \frac{1}{2} g t^2
-  $$
+  ```
   Dimensional check: g [m/s²] × t² [s²] = [m] → good.
 
 ---
@@ -42,19 +42,19 @@ Most literally, “in one second, two seconds, three seconds” means total dist
 
 ### A) Cumulative distances after 1 s, 2 s, 3 s
 Compute s(1), s(2), s(3):
-$$
+```math
 s(1) = \tfrac{1}{2} g (1)^2 = \tfrac{1}{2} g
-$$
-$$
+```
+```math
 s(2) = \tfrac{1}{2} g (2)^2 = 2 g
-$$
-$$
+```
+```math
 s(3) = \tfrac{1}{2} g (3)^2 = \tfrac{9}{2} g
-$$
+```
 Now take the ratio:
-$$
+```math
 s(1) : s(2) : s(3) = \tfrac{1}{2} g : 2 g : \tfrac{9}{2} g = 1 : 4 : 9
-$$
+```
 - This matches Option D.
 
 Visual/Intuitive model:
@@ -70,16 +70,16 @@ Now compute distances covered in successive 1-second chunks:
 - Third second: Δs₃ = s(3) − s(2) = (9/2)g − 2g = (5/2)g
 
 Ratio:
-$$
+```math
 \Delta s_1 : \Delta s_2 : \Delta s_3 = \tfrac{1}{2}g : \tfrac{3}{2}g : \tfrac{5}{2}g = 1 : 3 : 5
-$$
+```
 - This matches Option C.
 
 Deeper pattern:
 - These are differences of squares:
-  $$
+  ```math
   s(n) - s(n-1) = \tfrac{1}{2} g \big(n^2 - (n-1)^2\big) = \tfrac{1}{2} g (2n - 1)
-  $$
+  ```
 - The “odd numbers” (1, 3, 5, …) appear because the difference of consecutive squares is an odd number. That’s why each second adds a larger odd multiple of the base distance.
 
 ---
@@ -142,31 +142,31 @@ The essence: Constant acceleration means constant “rate of change of speed,”
 
 - Start from first principles: distance is the area under the velocity–time graph. With constant downward acceleration $g$ and initial downward speed $u$:
   - Velocity grows linearly: 
-    $$
+    ```math
     v(t) = u + g t
-    $$
+    ```
     (units: m/s = m/s + m/s²·s)
   - Distance in time $t$ is area under the straight-line $v(t)$ from 0 to $t$, which is a trapezoid (or “average speed × time”):
-    $$
+    ```math
     s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{2} g t^2
-    $$
+    ```
     (units: m = m/s·s + m/s²·s²)
 
 - Distance covered during the $n$-th second (i.e., between $t=n-1$ and $t=n$):
-  $$
+  ```math
   \Delta s_n = s(n) - s(n-1) 
              = \big[u n + \tfrac{1}{2} g n^2\big] - \big[u(n-1) + \tfrac{1}{2} g (n-1)^2\big]
              = u + \tfrac{1}{2} g \big(n^2 - (n-1)^2\big)
              = u + \tfrac{1}{2} g (2n - 1)
-  $$
+  ```
 
 - What does this mean?
   - If $u = 0$ (dropped from rest): $\Delta s_n \propto (2n-1)$ → 1:3:5.  
   - If $u \neq 0$: each one-second chunk equals “a constant baseline $u$” plus “odd-number growth” from gravity. So the ratios are not exactly 1:3:5; they depend on $u$.
   - The increments are an arithmetic sequence with constant step:
-    $$
+    ```math
     \Delta s_{n+1} - \Delta s_n = g
-    $$
+    ```
     So each second you add the same extra distance compared to the previous second, but only if $u=0$ do those extras start at “1 unit” and line up as 1:3:5.
 
 - Visual intuition (v–t graph):
@@ -182,20 +182,20 @@ The essence: Constant acceleration means constant “rate of change of speed,”
   - Quadratic drag (higher speeds): $F_\text{drag} = c v^2$
 
 - Acceleration becomes smaller over time:
-  $$
+  ```math
   a(t) = \frac{dv}{dt} = g - \frac{F_\text{drag}(v)}{m}
-  $$
+  ```
   As $v$ grows, drag grows, so $a(t)$ decreases. The $v(t)$ curve bends over and approaches a constant “terminal velocity” $v_t$ where drag balances weight.
 
 - Consequences for distance:
   - Early times (small $t$): speed is small, drag is small, so $a \approx g$. You recover the $t^2$ behavior:
-    $$
+    ```math
     s(t) \approx \frac{1}{2} g t^2 \quad \text{for } t \ll \text{(drag timescale)}
-    $$
+    ```
   - Later times: acceleration fades toward 0; velocity approaches a constant $v_t$; distance then grows roughly linearly:
-    $$
+    ```math
     s(t) \approx v_t\, t \quad \text{for } t \gg \text{(drag timescale)}
-    $$
+    ```
 
 - Trend for “successive-seconds” distances:
   - They start by increasing (like 1:3:5 would suggest for no drag).
@@ -212,21 +212,21 @@ The essence: Constant acceleration means constant “rate of change of speed,”
 - If dropped from rest (no initial speed) and still ignoring air resistance (the Moon basically has none):
   - Position after $t$: $s(t) = \tfrac{1}{2} g_\text{Moon} t^2$.
   - Cumulative distances after 1 s, 2 s, 3 s:
-    $$
+    ```math
     s(1) : s(2) : s(3) = 1^2 : 2^2 : 3^2 = 1 : 4 : 9
-    $$
+    ```
     The $g$ cancels in the ratio, so it’s unchanged.
   - Successive one-second chunks:
-    $$
+    ```math
     \Delta s_n = \tfrac{1}{2} g_\text{Moon} (2n-1) \;\Rightarrow\; 1 : 3 : 5
-    $$
+    ```
     Again $g$ cancels in the ratio. The ratios are the same; only the actual distances are smaller.
 
 - If thrown downward with initial speed $u$:
   - Successive seconds:
-    $$
+    ```math
     \Delta s_n = u + \tfrac{1}{2} g_\text{Moon} (2n-1)
-    $$
+    ```
     A smaller $g_\text{Moon}$ means the “odd-number growth” part is weaker compared to $u$. So the three distances become more similar to one another (ratios move closer to 1:1:1 if $u$ dominates). Only when $u=0$ do you recover the exact 1:3:5.
 
 - Summary:

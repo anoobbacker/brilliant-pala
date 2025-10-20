@@ -25,9 +25,9 @@ We want a number that:
 - Adds simply when you stack lenses (two lenses in contact act like one lens whose “strengths” add).
 
 Defining power P as inverse focal length does exactly that, with f in meters:
-$$
+```math
 P = \frac{1}{f} \quad \text{(with f in meters)}
-$$
+```
 Unit: diopter (D), which is just m⁻¹.
 
 - Converging (convex) lens: f > 0 → P > 0
@@ -40,13 +40,13 @@ Dimensional check: P has units 1/m, matching diopters.
 ## Compute for f = 20 cm
 
 Convert to meters:
-$$
+```math
 f = 20\ \text{cm} = 0.20\ \text{m}
-$$
+```
 Now,
-$$
+```math
 P = \frac{1}{0.20} = 5\ \text{D}
-$$
+```
 - If it’s a converging (convex) lens: +5 D
 - If it’s a diverging (concave) lens: −5 D (but that would require f = −20 cm)
 

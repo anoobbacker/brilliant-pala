@@ -11,35 +11,35 @@ Imagine gravity like light from a bulb. As you move away, the light spreads over
 - Farther apart means weaker pull: proportional to 1/r^2.
 
 So the force between two masses must follow:
-$$
+```math
 F \propto \frac{m_1 m_2}{r^2}
-$$
+```
 To turn “proportional to” into “equals,” we introduce a constant G that sets the overall strength:
-$$
+```math
 F = G \frac{m_1 m_2}{r^2}
-$$
+```
 
 ### Derive the unit of G (dimensional reasoning)
 Rearrange:
-$$
+```math
 G = \frac{F\, r^2}{m_1 m_2}
-$$
+```
 Now replace each symbol with its unit:
 - F in newtons (N)
 - r in meters (m)
 - m1, m2 in kilograms (kg)
 
 So the unit of G is:
-$$
+```math
 [G] = \text{N} \cdot \text{m}^2 \cdot \text{kg}^{-2}
-$$
+```
 Which matches option A) Nm2kg-2.
 
 Cross-check in base units:
-$$
+```math
 \text{N} = \text{kg} \cdot \text{m} \cdot \text{s}^{-2}
 \Rightarrow [G] = \text{m}^3 \cdot \text{kg}^{-1} \cdot \text{s}^{-2}
-$$
+```
 Consistent.
 
 Answer: A) Nm2kg-2

@@ -42,16 +42,16 @@ Let p be the forward momentum given to the air by the fan.
 - Impulse on sail (and thus boat) when that air stops on the sail = +p (forward).
 
 Net impulse on boat:
-$$
+```math
 \Delta p_{\text{boat}} = (-p) + (+p) = 0
-$$
+```
 So the boat’s momentum doesn’t change; if it was at rest, it stays at rest.
 
 ### Center-of-mass view (another angle)
 No external force → center-of-mass velocity stays constant:
-$$
+```math
 F_\text{external} = M\,\frac{dV_\text{CM}}{dt} = 0 \Rightarrow V_\text{CM} = \text{constant}
-$$
+```
 Started at rest → remains at rest.
 
 ---

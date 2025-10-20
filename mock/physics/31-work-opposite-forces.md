@@ -22,9 +22,9 @@ Energy added and removed cancel out. That’s the heart of this problem.
 Work is energy transferred by a force when it has a component along the displacement. If the force helps the motion, work is positive; if it opposes, work is negative.
 
 Mathematically,
-$$
+```math
 W = \vec F \cdot \vec s = F\,s\,\cos\theta
-$$
+```
 - θ is the angle between the force and the displacement.
 - Units: N·m = Joule (J).
 
@@ -35,22 +35,22 @@ Two forces act on the same body:
 - Displacement s = 3 m
 
 Work by each:
-$$
+```math
 W_1 = (+3)\times 3 \times \cos 0^\circ = +9\ \text{J}
-$$
-$$
+```
+```math
 W_2 = (3)\times 3 \times \cos 180^\circ = -9\ \text{J}
-$$
+```
 
 Total work (sum of works) is:
-$$
+```math
 W_{\text{total}} = W_1 + W_2 = +9\ \text{J} + (-9\ \text{J}) = 0
-$$
+```
 
 Another way: the net force is zero (3 N − 3 N = 0), so net work by these forces equals work by the resultant force:
-$$
+```math
 W_{\text{net}} = \vec F_{\text{net}} \cdot \vec s = \vec 0 \cdot \vec s = 0
-$$
+```
 
 Therefore, the correct answer is:
 - Option 2) 0

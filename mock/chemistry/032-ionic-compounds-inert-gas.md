@@ -25,9 +25,9 @@ Key idea: After transfer, each ion wants a noble-gas-like electron count. But �
 - Nonmetals gain electrons → become negatively charged (anions) → move forward to the next noble gas.
 
 Compute electrons in an ion by:
-$$
+```math
 \text{Electrons in ion} = Z \pm \text{charge}
-$$
+```
 - Use “−” for cations (lost electrons), “+” for anions (gained electrons).
 - Then match that number to a noble gas: He (2), Ne (10), Ar (18), Kr (36), …
 

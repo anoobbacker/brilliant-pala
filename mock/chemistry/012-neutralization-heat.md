@@ -23,9 +23,9 @@ You can picture:
 - Extra energy “spills out” as heat to the surroundings
 
 ### The simple core reaction
-$$
+```math
 \text{H}^+(aq) + \text{OH}^-(aq) \rightarrow \text{H}_2\text{O}(l) \quad \Delta H \approx -57\ \text{kJ/mol}
-$$
+```
 The negative sign means heat is evolved (released). For strong acids and strong bases, it’s consistently about −57 kJ per mole of water formed.
 
 ### Is oxidation happening?

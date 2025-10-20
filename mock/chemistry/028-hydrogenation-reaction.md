@@ -23,9 +23,9 @@ Mechanism in simple terms:
 - The double bond becomes a single bond (C–C), and each carbon gains a hydrogen.
 
 Symbolically:
-$$
+```math
 R-CH=CH-R' + H_2 \xrightarrow{\text{Ni, Pt}} R-CH_2-CH_2-R'
-$$
+```
 
 That is the definition of an addition reaction: new atoms are added across a multiple bond without removing anything else.
 

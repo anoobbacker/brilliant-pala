@@ -36,51 +36,51 @@ We’ll check how each behaves with acids and bases (or in water).
 
 3) Na₂O (sodium oxide)  
 - Strongly basic (Group 1 metal). Reacts with water to give a strong base:
-  $$
+  ```math
   \mathrm{Na_2O + H_2O \rightarrow 2\,NaOH}
-  $$
+  ```
 
 4) CaO (calcium oxide, quicklime)  
 - Basic (Group 2 metal). Reacts with water to make calcium hydroxide:
-  $$
+  ```math
   \mathrm{CaO + H_2O \rightarrow Ca(OH)_2}
-  $$
+  ```
 
 5) H₂O (water)  
 - Neutral oxide in this classification. (Yes, water can act as an acid or base in acid–base reactions, but as an oxide of hydrogen it’s categorized as neutral, not amphoteric oxide.)
 
 6) ZnO (zinc oxide)  
 - Amphoteric (borderline metal). Reacts with acids and bases:
-  $$
+  ```math
   \mathrm{ZnO + 2\,HCl \rightarrow ZnCl_2 + H_2O}
-  $$
-  $$
+  ```
+  ```math
   \mathrm{ZnO + 2\,NaOH \rightarrow Na_2ZnO_2 + H_2O}
-  $$
+  ```
 
 7) CO₂ (carbon dioxide)  
 - Acidic oxide (nonmetal). Forms carbonic acid in water:
-  $$
+  ```math
   \mathrm{CO_2 + H_2O \rightarrow H_2CO_3}
-  $$
+  ```
 
 8) NO₂ (nitrogen dioxide)  
 - Acidic oxide. Forms acids in water (nitric and nitrous acids), overall acidic behavior.
 
 9) Al₂O₃ (aluminum oxide)  
 - Amphoteric. Reacts with both acids and bases:
-  $$
+  ```math
   \mathrm{Al_2O_3 + 6\,HCl \rightarrow 2\,AlCl_3 + 3\,H_2O}
-  $$
-  $$
+  ```
+  ```math
   \mathrm{Al_2O_3 + 2\,NaOH \rightarrow 2\,NaAlO_2 + H_2O}
-  $$
+  ```
 
 10) CuO (copper(II) oxide)  
 - Basic oxide. Reacts with acids (e.g., HCl) to form salts, but not with bases:
-  $$
+  ```math
   \mathrm{CuO + 2\,HCl \rightarrow CuCl_2 + H_2O}
-  $$
+  ```
 
 ---
 

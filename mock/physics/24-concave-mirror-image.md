@@ -26,10 +26,9 @@ Start from the simplest question: How does image size compare to object size?
 
 So the linear magnification m (how many times taller the image is compared to the object) equals the ratio of image distance to object distance (measured from the mirror):
 
-$$
+```math
 m = \frac{\text{image height}}{\text{object height}} = \frac{v}{u}
-
-$$
+```
 
 We’ll use magnitudes here since we only need sizes. The inversion (upside-down image) just gives a minus sign, which doesn’t affect height.
 
@@ -44,17 +43,15 @@ Let:
 
 Now apply m = v/u:
 
-$$
+```math
 \frac{v}{u} = 3 \quad \Rightarrow \quad \frac{D}{D - 300} = 3
-
-$$
+```
 
 Solve:
 
-$$
+```math
 D = 3(D - 300) \Rightarrow D = 3D - 900 \Rightarrow 2D = 900 \Rightarrow D = 450 \text{ cm}
-
-$$
+```
 
 Answer: 450 cm (Option 2)
 
@@ -68,11 +65,10 @@ Quick physical check: If D = 450 cm, then u = 450 − 300 = 150 cm and v = 450 c
 
 If you also use the mirror formula for consistency:
 
-$$
+```math
 \frac{1}{f} = \frac{1}{u} + \frac{1}{v} = \frac{1}{150} + \frac{1}{450} = \frac{4}{450}
 \Rightarrow f = 112.5 \text{ cm}
-
-$$
+```
 
 So a concave mirror with focal length 112.5 cm would do this when placed 450 cm from the wall. (You weren’t asked for f, but it’s a good self-check.)
 

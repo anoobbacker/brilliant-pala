@@ -13,9 +13,9 @@ D) $ \frac{4}{9} \text{ g/cm}^3 $
 
 ## First Principles: Why floating happens (Archimedes from scratch)
 Imagine the fluid’s pressure increases with depth because fluid at lower levels supports more weight. The pressure at depth h in a fluid is proportional to the depth and the fluid’s density:
-$$
+```math
 P = \rho_{\text{fluid}} g h
-$$
+```
 - Units check: [ρ] = kg/m³, [g] = m/s², [h] = m → [P] = kg/(m·s²) = N/m² (Pascal). Good.
 
 Now consider a submerged object. Pressure on the bottom (deeper) is higher than on the top (shallower). Adding up these pressure forces over the whole surface gives a net upward force. A simple way to “see” this: 
@@ -26,19 +26,19 @@ Now consider a submerged object. Pressure on the bottom (deeper) is higher than 
 - That upward force must equal the weight of the displaced fluid.
 
 This is Archimedes’ principle derived logically:
-$$
+```math
 F_{\text{buoyant}} = \rho_{\text{fluid}}\, g\, V_{\text{submerged}}
-$$
+```
 For a floating object (not sinking or rising), forces balance:
-$$
+```math
 \text{Upthrust} = \text{Weight of object}
 \quad\Rightarrow\quad
 \rho_{\text{fluid}}\, g\, V_{\text{sub}} = \rho_{\text{object}}\, g\, V_{\text{total}}
-$$
+```
 Cancel g and define the fraction submerged f = V_sub / V_total:
-$$
+```math
 f = \frac{V_{\text{sub}}}{V_{\text{total}}} = \frac{\rho_{\text{object}}}{\rho_{\text{fluid}}}
-$$
+```
 This is a powerful proportional statement: the denser the object compared to the fluid, the larger the fraction submerged.
 
 ---
@@ -47,17 +47,17 @@ This is a powerful proportional statement: the denser the object compared to the
 1) In water:
 - 1/3 outside → 2/3 submerged → f_water = 2/3.
 - Take density of water as 1 g/cm³ (standard for these problems).
-$$
+```math
 \frac{2}{3} = \frac{\rho_{\text{object}}}{\rho_{\text{water}}} \Rightarrow \rho_{\text{object}} = \frac{2}{3} \times 1 = \frac{2}{3}\ \text{g/cm}^3
-$$
+```
 
 2) In the other liquid:
 - 3/4 outside → 1/4 submerged → f_liquid = 1/4.
-$$
+```math
 \frac{1}{4} = \frac{\rho_{\text{object}}}{\rho_{\text{liquid}}}
 \Rightarrow
 \rho_{\text{liquid}} = \frac{\rho_{\text{object}}}{1/4} = \frac{2}{3} \times 4 = \frac{8}{3}\ \text{g/cm}^3
-$$
+```
 
 Answer: 8/3 g/cm³ → Option B.
 
@@ -65,13 +65,13 @@ Answer: 8/3 g/cm³ → Option B.
 
 ## Quick proportional shortcut (same logic, fewer steps)
 From f = ρ_object / ρ_fluid:
-$$
+```math
 \frac{\rho_{\text{liquid}}}{\rho_{\text{water}}}
 = \frac{\rho_{\text{object}}/f_{\text{liquid}}}{\rho_{\text{object}}/f_{\text{water}}}
 = \frac{f_{\text{water}}}{f_{\text{liquid}}}
 = \frac{2/3}{1/4}
 = \frac{8}{3}
-$$
+```
 Since ρ_water = 1 g/cm³, ρ_liquid = 8/3 g/cm³.
 
 ---
@@ -91,9 +91,9 @@ Since ρ_water = 1 g/cm³, ρ_liquid = 8/3 g/cm³.
 ---
 
 ## Dimensional check of the key equation
-$$
+```math
 [\rho g V] = \left[\frac{\text{kg}}{\text{m}^3}\right]\left[\frac{\text{m}}{\text{s}^2}\right]\left[\text{m}^3\right] = \left[\frac{\text{kg}\cdot \text{m}}{\text{s}^2}\right] = [\text{N}]
-$$
+```
 Matches force units, so the buoyant force expression is dimensionally consistent.
 
 ---

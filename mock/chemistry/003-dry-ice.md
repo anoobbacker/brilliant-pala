@@ -20,10 +20,9 @@ Have you seen “stage fog” rolling along the floor at concerts? That spooky m
 Technical term:
 - Sublimation = solid → gas without becoming liquid in between.
 
-$$
+```math
 \text{CO}_2(s) \;\longrightarrow\; \text{CO}_2(g)
-
-$$
+```
 
 Why does CO₂ do this at room conditions? Because at normal atmospheric pressure (about 1 atm), CO₂ doesn’t have a stable liquid state. On its phase diagram, the “triple point” (where solid, liquid, and gas can all exist) is at about 5.1 atm. Since everyday air pressure is below that, warming solid CO₂ crosses the sublimation line, not the melting line.
 
@@ -43,9 +42,9 @@ Only CO₂ at 1 atm cleanly sublimes in everyday conditions, which is why “dry
   - Vigorous bubbling (CO₂ gas escaping).
   - A white fog forms above the water. That fog is tiny water droplets from the air, cooled by the very cold CO₂ gas—not “CO₂ smoke.”
 - Pass the gas into limewater:
-  $$
+  ```math
   \text{CO}_2(g) + \text{Ca(OH)}_2(aq) \rightarrow \text{CaCO}_3(s) + \text{H}_2\text{O}(l)
-  $$
+  ```
   The limewater turns milky due to calcium carbonate—proof the gas is CO₂.
 
 ---

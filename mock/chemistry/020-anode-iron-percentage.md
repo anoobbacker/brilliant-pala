@@ -13,9 +13,9 @@ So let’s first anchor what “anode” means in real life.
 
 - Everyday picture: When a bike rusts, tiny spots act like “anodes” where iron atoms lose electrons and dissolve.
 - Scientific definition: Anode = site of oxidation.
-  $$
+  ```math
   \text{Fe} \rightarrow \text{Fe}^{2+} + 2e^-
-  $$
+  ```
 
 Now, different topics use different “anodes,” so the iron percentage (% Fe) varies a lot.
 

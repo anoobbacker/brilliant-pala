@@ -13,10 +13,9 @@ Let’s apply that idea to moving a 5 kg mass down by 2 m.
 ### Rebuild from first principles: what is “work”?
 Work is “force causing displacement.” In symbols:
 
-$$
+```math
 W = \vec{F} \cdot \vec{s} = F\,s\,\cos\theta
-
-$$
+```
 
 - F is the force size.
 - s is how far you move.
@@ -29,17 +28,15 @@ Here:
 
 So:
 
-$$
+```math
 W_\text{gravity} = (mg)(2)\cos 0^\circ = mg \cdot 2
-
-$$
+```
 
 Plug in m = 5 kg and g = 10 m/s²:
 
-$$
+```math
 W_\text{gravity} = 5 \times 10 \times 2 = 100\ \text{J}
-
-$$
+```
 
 Sign: positive, because gravity and motion are in the same direction.
 
@@ -52,20 +49,20 @@ N·m = (kg·m/s²)·m = kg·m²/s² = J. Good.
 
 ### Energy viewpoint (same conclusion)
 Gravitational potential energy decreases when you go down:
-$$
+```math
 \Delta U = m g \Delta h = 5 \times 10 \times (-2) = -100\ \text{J}
-$$
+```
 Work done by gravity is the negative of the change in potential energy:
-$$
+```math
 W_\text{gravity} = -\Delta U = +100\ \text{J}
-$$
+```
 
 ---
 
 ### Answer
-$$
+```math
 \boxed{100\ \text{J (positive, by gravity)}}
-$$
+```
 
 ---
 
@@ -91,9 +88,9 @@ $$
 
 ## Experimental view
 Drop the 5 kg mass through 2 m from rest. At the bottom:
-$$
+```math
 mgh = \tfrac{1}{2} m v^2 \ \Rightarrow\ v = \sqrt{2gh} = \sqrt{2 \cdot 10 \cdot 2} \approx 6.3\ \text{m/s}
-$$
+```
 The 100 J of gravitational work became 100 J of kinetic energy.
 
 ---

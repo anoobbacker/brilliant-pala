@@ -19,17 +19,15 @@ Electric charges (tiny particles like electrons) move through a wire. Current te
 - Intuitive: “How many coulombs pass this spot each second?”
 - Technical: Current is the rate of flow of charge.
 
-$$
+```math
 I = \frac{\text{charge}}{\text{time}} = \frac{Q}{t}
-
-$$
+```
 
 If the flow isn’t steady, we use the calculus version (still the same idea—rate!):
 
-$$
+```math
 I = \frac{dQ}{dt}
-
-$$
+```
 
 Unit check (dimensional reasoning):
 - Q in coulombs (C)
@@ -42,10 +40,9 @@ Unit check (dimensional reasoning):
 
 Given: 50 C of charge flows in 10 s.
 
-$$
+```math
 I = \frac{Q}{t} = \frac{50\ \text{C}}{10\ \text{s}} = 5\ \text{A}
-
-$$
+```
 
 Answer: 5 A
 

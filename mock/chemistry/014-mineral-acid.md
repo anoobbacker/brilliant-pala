@@ -35,9 +35,9 @@ A quick trick: write formulas in the standard C H O order to spot familiar molec
 - D) H₂CO₃ → H₂CO₃. That’s carbonic acid, formed from CO₂ and H₂O.
 
 From first principles: non-metal (acidic) oxides plus water give mineral acids. For carbon dioxide:
-$$
+```math
 \mathrm{CO_2 + H_2O \rightleftharpoons H_2CO_3}
-$$
+```
 Therefore, H₂CO₃ is a mineral (inorganic) acid.
 
 Answer: D) H₂CO₃

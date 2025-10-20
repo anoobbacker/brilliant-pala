@@ -18,28 +18,28 @@ Think of pH like a loudness knob: each step is 10×, not 1×. That’s why we us
 ### Step 1: Define pH in plain words, then in math
 - Plain idea: pH measures how many free H+ ions are in the water.
 - Technical definition (ideal solution):
-  $$
+  ```math
   \text{pH} = -\log_{10} [\text{H}^+]
-  $$
+  ```
   where [H+] is the concentration of hydrogen ions in moles per liter (mol L⁻¹).
 
 ### Step 2: What does hydrochloric acid do in water?
 - Everyday picture: HCl “falls apart” in water into H+ and Cl⁻ like a LEGO block splitting into two pieces.
 - Technical reaction:
-  $$
+  ```math
   \text{HCl (aq)} \rightarrow \text{H}^+ (aq) + \text{Cl}^- (aq)
-  $$
+  ```
   Hydrochloric acid is a strong acid, meaning it dissociates essentially completely in water.
 
 ### Step 3: Link concentration to pH
 If the solution is 1.0 M HCl, and it fully dissociates, then:
-$$
+```math
 [\text{H}^+] \approx 1.0 \text{ M}
-$$
+```
 So
-$$
+```math
 \text{pH} = -\log_{10}(1.0) = 0
-$$
+```
 
 Answer: pH = 0.
 

@@ -26,9 +26,9 @@ An acid like H3PO4 is formed by adding H+ (hydrogen ions) to a negative ion unti
 - Let x be the number of H+ ions we must add.
 
 Charge balance:
-$$
+```math
 (+x) + (-3) = 0 \Rightarrow x = 3
-$$
+```
 So we need 3 hydrogens: H3PO4.
 
 Textual diagram: Picture PO4 as a tetrahedral group with “three missing-charge plugs.” Each H+ is like a plug that neutralizes one negative charge. Three plugs fill all three gaps → neutral molecule H3PO4.

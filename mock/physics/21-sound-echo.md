@@ -28,19 +28,19 @@ For an echo to be heard as a separate sound:
 - The return time must be at least 0.1 s.
 
 So we set:
-$$
+```math
 \text{Echo condition:}\quad \frac{2d}{v} \ge 0.1
-$$
+```
 
 Solve for d:
-$$
+```math
 d \ge \frac{v \times 0.1}{2}
-$$
+```
 
 With v = 340 m/s:
-$$
+```math
 d_{\min} = \frac{340 \times 0.1}{2} = \frac{34}{2} = 17\ \text{m}
-$$
+```
 
 Answer: 17 m
 
