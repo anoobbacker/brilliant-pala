@@ -145,13 +145,13 @@ The essence: Constant acceleration means constant “rate of change of speed,”
 ```math
 v(t) = u + g t
 ```
-(units: m/s = m/s + m/s²·s)
+  (units: m/s = m/s + m/s²·s)
 
 - Distance in time $t$ is area under the straight-line $v(t)$ from 0 to $t$, which is a trapezoid (or “average speed × time”):
 ```math
 s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{2} g t^2
 ```
-(units: m = m/s·s + m/s²·s²)
+  (units: m = m/s·s + m/s²·s²)
 
 - Distance covered during the $n$-th second (i.e., between $t=n-1$ and $t=n$):
 ```math
@@ -165,9 +165,11 @@ s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{
   - If $u = 0$ (dropped from rest): $\Delta s_n \propto (2n-1)$ → 1:3:5.  
   - If $u \neq 0$: each one-second chunk equals “a constant baseline $u$” plus “odd-number growth” from gravity. So the ratios are not exactly 1:3:5; they depend on $u$.
   - The increments are an arithmetic sequence with constant step:
+
 ```math
 \Delta s_{n+1} - \Delta s_n = g
 ```
+
     So each second you add the same extra distance compared to the previous second, but only if $u=0$ do those extras start at “1 unit” and line up as 1:3:5.
 
 - Visual intuition (v–t graph):
@@ -183,20 +185,20 @@ s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{
   - Quadratic drag (higher speeds): $F_\text{drag} = c v^2$
 
 - Acceleration becomes smaller over time:
-  ```math
-  a(t) = \frac{dv}{dt} = g - \frac{F_\text{drag}(v)}{m}
-  ```
+```math
+a(t) = \frac{dv}{dt} = g - \frac{F_\text{drag}(v)}{m}
+```
   As $v$ grows, drag grows, so $a(t)$ decreases. The $v(t)$ curve bends over and approaches a constant “terminal velocity” $v_t$ where drag balances weight.
 
 - Consequences for distance:
   - Early times (small $t$): speed is small, drag is small, so $a \approx g$. You recover the $t^2$ behavior:
-    ```math
-    s(t) \approx \frac{1}{2} g t^2 \quad \text{for } t \ll \text{(drag timescale)}
-    ```
+```math
+s(t) \approx \frac{1}{2} g t^2 \quad \text{for } t \ll \text{(drag timescale)}
+```
   - Later times: acceleration fades toward 0; velocity approaches a constant $v_t$; distance then grows roughly linearly:
-    ```math
-    s(t) \approx v_t\, t \quad \text{for } t \gg \text{(drag timescale)}
-    ```
+```math
+s(t) \approx v_t\, t \quad \text{for } t \gg \text{(drag timescale)}
+```
 
 - Trend for “successive-seconds” distances:
   - They start by increasing (like 1:3:5 would suggest for no drag).
@@ -213,21 +215,21 @@ s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{
 - If dropped from rest (no initial speed) and still ignoring air resistance (the Moon basically has none):
   - Position after $t$: $s(t) = \tfrac{1}{2} g_\text{Moon} t^2$.
   - Cumulative distances after 1 s, 2 s, 3 s:
-    ```math
-    s(1) : s(2) : s(3) = 1^2 : 2^2 : 3^2 = 1 : 4 : 9
-    ```
+```math
+s(1) : s(2) : s(3) = 1^2 : 2^2 : 3^2 = 1 : 4 : 9
+```
     The $g$ cancels in the ratio, so it’s unchanged.
   - Successive one-second chunks:
-    ```math
-    \Delta s_n = \tfrac{1}{2} g_\text{Moon} (2n-1) \;\Rightarrow\; 1 : 3 : 5
-    ```
+```math
+\Delta s_n = \tfrac{1}{2} g_\text{Moon} (2n-1) \;\Rightarrow\; 1 : 3 : 5
+```
     Again $g$ cancels in the ratio. The ratios are the same; only the actual distances are smaller.
 
 - If thrown downward with initial speed $u$:
   - Successive seconds:
-    ```math
-    \Delta s_n = u + \tfrac{1}{2} g_\text{Moon} (2n-1)
-    ```
+```math
+\Delta s_n = u + \tfrac{1}{2} g_\text{Moon} (2n-1)
+```
     A smaller $g_\text{Moon}$ means the “odd-number growth” part is weaker compared to $u$. So the three distances become more similar to one another (ratios move closer to 1:1:1 if $u$ dominates). Only when $u=0$ do you recover the exact 1:3:5.
 
 - Summary:
