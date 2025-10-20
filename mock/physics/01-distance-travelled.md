@@ -170,7 +170,7 @@ s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{
 \Delta s_{n+1} - \Delta s_n = g
 ```
 
-    So each second you add the same extra distance compared to the previous second, but only if $u=0$ do those extras start at “1 unit” and line up as 1:3:5.
+So each second you add the same extra distance compared to the previous second, but only if $u=0$ do those extras start at “1 unit” and line up as 1:3:5.
 
 - Visual intuition (v–t graph):
   - With $u=0$, the area in each second is “odd-number chunks” of triangle area → 1, 3, 5…
@@ -188,7 +188,8 @@ s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{
 ```math
 a(t) = \frac{dv}{dt} = g - \frac{F_\text{drag}(v)}{m}
 ```
-  As $v$ grows, drag grows, so $a(t)$ decreases. The $v(t)$ curve bends over and approaches a constant “terminal velocity” $v_t$ where drag balances weight.
+
+As $v$ grows, drag grows, so $a(t)$ decreases. The $v(t)$ curve bends over and approaches a constant “terminal velocity” $v_t$ where drag balances weight.
 
 - Consequences for distance:
   - Early times (small $t$): speed is small, drag is small, so $a \approx g$. You recover the $t^2$ behavior:
