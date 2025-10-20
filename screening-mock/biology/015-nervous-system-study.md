@@ -8,9 +8,6 @@ The study of nervous system and its disorders is called
 3. Neuroglia
 4. Neurology
 
-## Answer
-4) Neurology
-
 ## Reasoning from first principles (built from everyday meaning)
 - Start with an intuition: Your body has “wires” (nerves) that carry signals so you can sense, think, and move. When those wires or the central hub (brain/spinal cord) have problems, a medical specialty studies and treats them.
 - Language encodes that idea:
@@ -36,6 +33,9 @@ The study of nervous system and its disorders is called
   - Cable support/insulation (neuroglia) are helper components, not the department.
 - Medical-language pattern:
   - Cardiology (heart), Dermatology (skin), Endocrinology (hormones), Neurology (nervous system). “-logy” = study of system + disorders.
+
+## Answer
+4) Neurology
 
 ## Multiple approaches to the answer
 - Linguistic analysis: “Neuro-” + “-logy” = study of nerves.

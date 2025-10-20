@@ -8,10 +8,6 @@ If a person cannot walk in a straight line or cannot balance a ride on bicycle, 
 3. Cerebellum
 4. Hypothalamus
 
-## Short Answer
-3) Cerebellum
-
----
 
 ## Understand It From First Principles
 
@@ -57,6 +53,9 @@ When the cerebellum is damaged or not working:
 - Hypothalamus: Regulates temperature, hunger, hormones, sleep rhythms—vital for homeostasis, not moment-to-moment balance control.
 
 Therefore, the most probable part not working properly is the cerebellum.
+
+## Answer
+3) Cerebellum
 
 ---
 

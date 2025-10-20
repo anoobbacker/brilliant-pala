@@ -8,9 +8,6 @@ Menopause is the stage in female when
 3. Reproduction capacity arrested
 4. Ovaries enlarges
 
-## Correct choice
-3) Reproduction capacity arrested
-
 ## From first principles: why this is the correct meaning of menopause
 
 ### 1) Start with everyday life stages
@@ -50,6 +47,8 @@ The brain tries to “turn up the volume”:
 E_2 \downarrow \Rightarrow \text{FSH} \uparrow
 ```
 But with near-zero responsive follicles, nothing happens. The system winds down.
+
+Answer: Option 3) Reproduction capacity arrested
 
 ### 4) Definition of menopause (what scientists/clinicians use)
 - Natural menopause: 12 consecutive months with no menstruation, not due to pregnancy, illness, or medical treatment.

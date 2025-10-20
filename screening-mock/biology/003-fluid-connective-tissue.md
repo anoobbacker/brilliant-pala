@@ -1,6 +1,5 @@
 ## Question
-Which one of the following is a fluid connective
-tissue?
+Which one of the following is a fluid connective tissue?
 
 **Options:**
 

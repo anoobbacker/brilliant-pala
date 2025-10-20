@@ -8,8 +8,6 @@ Physical appearance of an individual is called
 3. Monohybrid cross
 4. None of these
 
-## Answer (with first-principles reasoning)
-Correct option: 1) Phenotype
 
 ### Why?
 - Start from what we can actually observe in everyday life: eye color, height, flower color, blood type test results, whether a pea seed looks round or wrinkled. These are visible or measurable features — the outward expression. This observable set of traits is called the phenotype.
@@ -46,6 +44,9 @@ This separates:
 - Monohybrid cross: the experimental setup focusing on one trait.
 
 ---
+
+## Answer (with first-principles reasoning)
+Correct option: 1) Phenotype
 
 ## Why the other options are not correct
 - Genotype: genetic makeup (invisible directly); it determines potential, not the visible outcome by itself.

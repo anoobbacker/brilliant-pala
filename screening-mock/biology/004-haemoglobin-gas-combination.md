@@ -1,6 +1,5 @@
 ## Question
-Which of the following gases makes the most
-stable combination with the haemoglobin of red blood cells?
+Which of the following gases makes the most stable combination with the haemoglobin of red blood cells?
 
 **Options:**
 
@@ -9,8 +8,6 @@ stable combination with the haemoglobin of red blood cells?
 3. $\mathrm{O}_2$
 4. $\mathrm{N}_2$
 
-## Final Answer
-- Correct option: 2) CO (carbon monoxide)
 
 ## Build-up from First Principles
 
@@ -71,6 +68,8 @@ stable combination with the haemoglobin of red blood cells?
 
 - N2 (nitrogen)
   - Essentially inert: it doesn’t bind meaningfully to hemoglobin in normal conditions. It’s nonreactive and just dissolves a little in blood.
+
+Answer: 2) CO (carbon monoxide)
 
 ### 5) Molecular intuition: Why CO is extra sticky
 - Hemoglobin’s heme has an iron atom that likes small diatomic molecules.

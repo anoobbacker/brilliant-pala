@@ -8,14 +8,7 @@ How many chambers are present in human heart?
 3. 4
 4. 6
 
-## Final Answer
-Option 3: 4 chambers
-
-- Names: Right atrium, Right ventricle, Left atrium, Left ventricle
-
----
-
-## Why must the human heart have 4 chambers? A first-principles build-up
+## Why must the human heart have chambers? A first-principles build-up
 
 ### 1) Start from the job to be done: move oxygen to every cell efficiently
 - Your cells constantly burn fuel to stay warm and active (humans are warm-blooded with high metabolism).
@@ -72,6 +65,8 @@ Option 3: 4 chambers
 - Right atrium (receives from body) → Right ventricle (pumps to lungs)
 - Left atrium (receives from lungs) → Left ventricle (pumps to body)
 - Total = 4 chambers.
+
+Answer - Option 3: 4 chambers; Names: Right atrium, Right ventricle, Left atrium, Left ventricle
 
 ### 7) Cross-check with nature (comparative anatomy)
 - Fish: 2 chambers (1 atrium, 1 ventricle) → single circuit → lower pressure system, suits ectotherms.

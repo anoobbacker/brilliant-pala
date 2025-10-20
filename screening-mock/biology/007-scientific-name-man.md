@@ -8,13 +8,6 @@ What is the scientific name of 'Man'?
 3. Adam domesticus
 4. Homosapiens
 
-## Final Answer
-- Correct option: 4  
-- Proper scientific name: Homo sapiens  
-  - Note: It is two words, with the genus capitalized and the species in lowercase, both italicized in print: Homo sapiens.
-
----
-
 ## Building the answer from first principles
 
 ### 1) Why do scientists use special names?
@@ -56,6 +49,13 @@ Within genus Homo, our species is sapiens (Latin for “wise” or “discerning
 - Historical taxonomy: Linnaean system, governed by the International Code of Zoological Nomenclature (ICZN).
 - Fossil record: multiple Homo species (H. habilis, H. erectus, H. neanderthalensis). Modern humans are H. sapiens.
 - Genetics: strong agreement between molecular phylogenies and the placement of humans in genus Homo.
+
+---
+
+## Final Answer
+- Correct option: 4  
+- Proper scientific name: Homo sapiens  
+  - Note: It is two words, with the genus capitalized and the species in lowercase, both italicized in print: Homo sapiens.
 
 ---
 

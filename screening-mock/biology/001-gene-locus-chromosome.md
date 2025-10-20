@@ -8,7 +8,6 @@ Site of gene (allele) on a chromosome is called
 3. locus
 4. target
 
-## Correct Answer: 3) locus
 
 ### Build-up from first principles: why “locus” is the right idea
 
@@ -52,6 +51,7 @@ Site of gene (allele) on a chromosome is called
 - “target” means a goal or thing aimed at, not the fixed genomic address.
 - Therefore, the correct technical term for the site of a gene (allele) on a chromosome is “locus.”
 
+Correct Answer: 3) locus
 ---
 
 ## Why this matters (cause-effect connections)

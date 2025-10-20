@@ -9,12 +9,6 @@ D. Golgi apparatus produces lysosomes.
 
 How many statements are wrong?
 
-## Short answer
-1 statement is wrong.
-
-- Wrong: C
-- Correct: A, B, D
-
 ## Why this is true — built from first principles
 
 ### A. Chromatin condenses to form chromosomes during cell division — Correct
@@ -43,6 +37,13 @@ How many statements are wrong?
 - Cell reality: Digestive enzymes are made in the rough ER and sent to the Golgi. The Golgi tags them (notably with mannose-6-phosphate — like an address label) and buds off vesicles that become primary lysosomes. These fuse with endosomes to form active lysosomes with acidic interiors, safely breaking down waste.
 - Medical evidence: If the Golgi tagging step fails (e.g., I-cell disease), enzymes don’t reach lysosomes, proving the Golgi’s role in lysosome production.
 - Conclusion: D is correct.
+
+
+## Short answer
+1 statement is wrong.
+
+- Wrong: C
+- Correct: A, B, D
 
 ## Final count
 - Wrong statements: 1 (only C)

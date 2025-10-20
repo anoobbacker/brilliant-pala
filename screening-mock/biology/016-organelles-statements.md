@@ -9,9 +9,6 @@ D. Cell wall is present in all cells.
 
 How many statements are correct?
 
-## Short answer
-2 statements are correct (B and C).
-
 ## Step-by-step reasoning from first principles
 
 Let’s build from everyday experience. Think of a cell like a miniature city:
@@ -61,6 +58,9 @@ Now evaluate each statement by asking: What problem is the cell solving, and wha
 - Correct: B, C
 - Incorrect: A, D
 - Number of correct statements: 2
+
+## Answer
+2 statements are correct (B and C).
 
 ## Multiple approaches (how we know)
 - Experimental: Electron microscopy shows ribosomes without membranes; mitochondria and chloroplasts have double membranes with visible internal structures (cristae, thylakoids).

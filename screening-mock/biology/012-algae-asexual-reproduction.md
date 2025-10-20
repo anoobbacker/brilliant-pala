@@ -8,9 +8,6 @@ The algae reproduce asexually by
 3. Layering
 4. Binary fission
 
-## Answer (with first-principles reasoning)
-Correct option: 1. Fragmentation
-
 ### Why this makes sense from first principles
 - Start with a mental picture: Many common algae (like Spirogyra) are long, simple filaments—chains of similar cells. Unlike complex plants with roots, stems, and specialized tissues, these algal cells are largely alike and self-sufficient: each has a nucleus (to copy instructions), chloroplasts (to make food), and can divide.
 - If you gently swirl a clump of filamentous algae in water, the strands often break into pieces. Because every piece still contains living cells that can do photosynthesis and mitosis, each fragment can continue growing into a full new filament. That’s asexual reproduction by fragmentation: no fusion of gametes, just one parent splitting into parts that regrow.
@@ -37,6 +34,10 @@ So, breaking and regrowing is not only possible; in simple, aquatic, cell-simila
 - Most familiar (filamentous) algae: asexual reproduction mainly by fragmentation.
 - Some unicellular algae: may divide by binary fission, but that’s not the typical blanket answer for “algae” in general.
 - Budding and layering: not characteristic for algae.
+
+
+## Answer (with first-principles reasoning)
+Correct option: 1. Fragmentation
 
 ---
 

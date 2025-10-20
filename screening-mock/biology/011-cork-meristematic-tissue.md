@@ -8,10 +8,6 @@ Cork is formed from the meristematic tissue known as
 3. Phloem
 4. Periderm
 
-## Final Answer
-2. Cambium — specifically the cork cambium (phellogen), which produces cork (phellem)
-
----
 
 ## Reasoning from first principles
 
@@ -55,8 +51,10 @@ Together, these three form the periderm:
 
 Therefore, the meristematic tissue that forms cork is the cork cambium (phellogen). Among the given choices, that corresponds to “Cambium.”
 
----
+## Final Answer
+2. Cambium — specifically the cork cambium (phellogen), which produces cork (phellem)
 
+---
 ## Quick mental model
 - Think of “cambium” as a 3D printer ring inside the stem.
   - One printer (vascular cambium) prints wood and inner bark.

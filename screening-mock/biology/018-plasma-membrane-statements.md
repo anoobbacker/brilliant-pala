@@ -9,10 +9,6 @@ D. It provides rigidity to the plant cell.
 
 How many statements are correct?
 
-## Answer in one line
-2 statements are correct: B and C.
-
----
 
 ## Rebuilding the idea from first principles
 
@@ -41,6 +37,9 @@ This explains, from simple water–oil behavior, why membranes are made of lipid
 Therefore:
 - Plasma membrane: flexible, oily, dynamic, with protein gates.
 - Cell wall (plants, fungi, bacteria): rigid, mainly cellulose in plants.
+
+## Answer in one line
+2 statements are correct: B and C.
 
 ---
 
