@@ -142,32 +142,32 @@ The essence: Constant acceleration means constant “rate of change of speed,”
 
 - Start from first principles: distance is the area under the velocity–time graph. With constant downward acceleration $g$ and initial downward speed $u$:
 - Velocity grows linearly: 
-  ```math
-  v(t) = u + g t
-  ```
-  (units: m/s = m/s + m/s²·s)
+```math
+v(t) = u + g t
+```
+(units: m/s = m/s + m/s²·s)
 
 - Distance in time $t$ is area under the straight-line $v(t)$ from 0 to $t$, which is a trapezoid (or “average speed × time”):
-  ```math
-  s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{2} g t^2
-  ```
-  (units: m = m/s·s + m/s²·s²)
+```math
+s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{2} g t^2
+```
+(units: m = m/s·s + m/s²·s²)
 
 - Distance covered during the $n$-th second (i.e., between $t=n-1$ and $t=n$):
-  ```math
-  \Delta s_n = s(n) - s(n-1) 
-             = \big[u n + \tfrac{1}{2} g n^2\big] - \big[u(n-1) + \tfrac{1}{2} g (n-1)^2\big]
-             = u + \tfrac{1}{2} g \big(n^2 - (n-1)^2\big)
-             = u + \tfrac{1}{2} g (2n - 1)
-  ```
+```math
+\Delta s_n = s(n) - s(n-1) 
+            = \big[u n + \tfrac{1}{2} g n^2\big] - \big[u(n-1) + \tfrac{1}{2} g (n-1)^2\big]
+            = u + \tfrac{1}{2} g \big(n^2 - (n-1)^2\big)
+            = u + \tfrac{1}{2} g (2n - 1)
+```
 
 - What does this mean?
   - If $u = 0$ (dropped from rest): $\Delta s_n \propto (2n-1)$ → 1:3:5.  
   - If $u \neq 0$: each one-second chunk equals “a constant baseline $u$” plus “odd-number growth” from gravity. So the ratios are not exactly 1:3:5; they depend on $u$.
   - The increments are an arithmetic sequence with constant step:
-    ```math
-    \Delta s_{n+1} - \Delta s_n = g
-    ```
+```math
+\Delta s_{n+1} - \Delta s_n = g
+```
     So each second you add the same extra distance compared to the previous second, but only if $u=0$ do those extras start at “1 unit” and line up as 1:3:5.
 
 - Visual intuition (v–t graph):
