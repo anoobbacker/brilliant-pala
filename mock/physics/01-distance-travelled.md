@@ -141,16 +141,17 @@ The essence: Constant acceleration means constant “rate of change of speed,”
 ### 1) If an object is thrown downward with an initial speed, do the “successive-seconds” distances still follow 1:3:5? Why or why not?
 
 - Start from first principles: distance is the area under the velocity–time graph. With constant downward acceleration $g$ and initial downward speed $u$:
-  - Velocity grows linearly: 
-    ```math
-    v(t) = u + g t
-    ```
-    (units: m/s = m/s + m/s²·s)
-  - Distance in time $t$ is area under the straight-line $v(t)$ from 0 to $t$, which is a trapezoid (or “average speed × time”):
-    ```math
-    s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{2} g t^2
-    ```
-    (units: m = m/s·s + m/s²·s²)
+- Velocity grows linearly: 
+  ```math
+  v(t) = u + g t
+  ```
+  (units: m/s = m/s + m/s²·s)
+
+- Distance in time $t$ is area under the straight-line $v(t)$ from 0 to $t$, which is a trapezoid (or “average speed × time”):
+  ```math
+  s(t) = \text{avg speed} \times t = \frac{u + (u + g t)}{2}\, t = u t + \frac{1}{2} g t^2
+  ```
+  (units: m = m/s·s + m/s²·s²)
 
 - Distance covered during the $n$-th second (i.e., between $t=n-1$ and $t=n$):
   ```math
