@@ -20,9 +20,9 @@ Correct option: 4) zero
 
 ### Step 1: What creates “g”?
 Gravitational acceleration g at a point is just how strongly Earth pulls per kilogram at that point. Outside a spherical planet, we often use:
-```math
+$$
 g = \frac{GM}{r^2}
-```
+$$
 where r is your distance from the center.
 
 But that formula only applies outside the sphere. Inside the Earth, the mass “above you” isn’t all below your feet—it surrounds you. So we need to think more carefully.
@@ -39,21 +39,21 @@ So if you stand at some distance r from the center inside Earth:
 Assume uniform density ρ to see the pattern (the conclusion at the center holds even if density isn’t uniform).
 
 - Mass enclosed within radius r:
-```math
+$$
 M_{\text{enclosed}} = \rho \cdot \frac{4}{3}\pi r^3
-```
+$$
 - Gravitational acceleration at radius r (due to that enclosed mass):
-```math
+$$
 g(r) = \frac{G M_{\text{enclosed}}}{r^2}
      = \frac{G \left(\rho \cdot \frac{4}{3}\pi r^3\right)}{r^2}
      = \frac{4}{3}\pi G \rho \, r
-```
+$$
 So inside a uniform sphere, g is directly proportional to r. That means:
 - At the surface (r = R), you get the usual surface g.
 - At the center (r = 0), you get:
-```math
+$$
 g(0) = 0
-```
+$$
 
 Even if Earth’s density isn’t uniform, symmetry guarantees g = 0 at the center because all directions pull equally.
 

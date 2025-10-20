@@ -18,37 +18,37 @@ A satellite with a tiny air drag is like that ball: drag slowly “steals” ene
 
 ### Step 1: What keeps a satellite in a circular path?
 Gravity provides the inward (centripetal) force:
-```math
+$$
 \frac{G M m}{r^2} = \frac{m v^2}{r}
-```
+$$
 So the circular speed is
-```math
+$$
 v^2 = \frac{G M}{r} \quad \Rightarrow \quad v = \sqrt{\frac{G M}{r}}
-```
+$$
 Smaller r ⇒ larger v. This is the key pattern.
 
 ### Step 2: Kinetic energy in a circular orbit
-```math
+$$
 K = \frac{1}{2} m v^2 = \frac{1}{2} m \cdot \frac{G M}{r} = \frac{G M m}{2 r}
-```
+$$
 Smaller r ⇒ larger K.
 
 Total mechanical energy for a circular orbit (useful for intuition):
-```math
+$$
 E_\text{total} = K + U = \frac{G M m}{2 r} - \frac{G M m}{r} = - \frac{G M m}{2 r}
-```
+$$
 As r decreases, E_total becomes more negative (energy is lost), even though K increases.
 
 ### Step 3: Period of revolution
-```math
+$$
 T = \frac{2 \pi r}{v} = 2 \pi \sqrt{\frac{r^3}{G M}}
-```
+$$
 Smaller r ⇒ smaller T (shorter period).
 
 ### Step 4: Gravitational force size
-```math
+$$
 F_g = \frac{G M m}{r^2}
-```
+$$
 Smaller r ⇒ larger F_g.
 
 ---

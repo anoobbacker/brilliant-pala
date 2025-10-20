@@ -26,9 +26,9 @@ In 1 second:
 - The wave advances by “number of cycles” × “distance per cycle” = n × λ.
 
 So the speed v (distance per second) must be:
-```math
+$$
 v = n \, \lambda
-```
+$$
 
 This is not a formula to memorize; it’s just “how many steps per second” times “length of each step.”
 
@@ -37,14 +37,14 @@ This is not a formula to memorize; it’s just “how many steps per second” t
 ## Apply it to the question
 
 Initial: frequency = n, speed = v. So wavelength initially is:
-```math
+$$
 \lambda_1 = \frac{v}{n}
-```
+$$
 
 Frequency becomes 4n. In the same medium, the speed of sound stays set by the medium. So:
-```math
+$$
 v = (4n)\,\lambda_2 \quad \Rightarrow \quad \lambda_2 = \frac{v}{4n} = \frac{\lambda_1}{4}
-```
+$$
 
 Conclusion: the wavelength shrinks to one-quarter, but the speed v stays the same.
 

@@ -59,32 +59,32 @@ Let S_A(T) and S_B(T) be distances of A and B up to time T.
   3) t20 + 1 → 100: since v_B(t) = v_A(t − 1), a 1-second shift in time turns this area into A’s area from t = t20 to t = 99.
 
 So:
-```math
+$$
 S_B(100) \;=\; \int_0^{t_{20}} v_A(t)\,dt \;+\; 20 \;+\; \int_{t_{20}}^{99} v_A(u)\,du
 \;=\; \int_0^{99} v_A(t)\,dt \;+\; 20.
-```
+$$
 
 A’s distance is just:
-```math
+$$
 S_A(100) \;=\; \int_0^{100} v_A(t)\,dt.
-```
+$$
 
 Therefore the difference is:
-```math
+$$
 \Delta s \;=\; S_A(100) - S_B(100)
 \;=\; \int_{99}^{100} v_A(t)\,dt \;-\; 20.
-```
+$$
 
 Now use the given graph fact: v_A(t) = 50 m/s for 95 s ≤ t ≤ 100 s.
 So the last 1-second area for A is simply:
-```math
+$$
 \int_{99}^{100} v_A(t)\,dt \;=\; 50 \times 1 \;=\; 50\;\text{m}.
-```
+$$
 
 Thus:
-```math
+$$
 \Delta s \;=\; 50 - 20 \;=\; 30\;\text{m}.
-```
+$$
 
 Answer: 2) Δs = 30 m.
 
@@ -139,9 +139,9 @@ Hint: Use the same formula: Δs = A’s last-1-second area − 20.
 Hint: Replace “20” with “25” in the difference.
 
 3) Generalize: If B pauses for τ seconds at speed v_p and then follows A with a τ-second delay, show that
-```math
+$$
 \Delta s = \int_{100-\tau}^{100} v_A(t)\,dt - \tau\, v_p.
-```
+$$
 
 ---
 

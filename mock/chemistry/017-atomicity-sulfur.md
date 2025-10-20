@@ -28,9 +28,10 @@ So for the sulfur you meet in school labs, the molecule is S8.
 ### Step 1: What each sulfur atom “wants”
 Sulfur has 16 electrons. Its outer-shell (valence) electrons are 6.
 
-```math
+$$
 \text{S: } 1s^2\,2s^2\,2p^6\,3s^2\,3p^4 \quad \Rightarrow \quad \text{6 valence e}^-
-```
+
+$$
 
 - With 6 valence electrons, sulfur “needs” 2 more to complete an octet.
 - Easiest way to gain 2 is to share 2 pairs of electrons → make two single covalent bonds.

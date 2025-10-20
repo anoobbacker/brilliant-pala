@@ -25,35 +25,36 @@ Now we’ll express the same physical acceleration in different-sized rulers and
 ### Key idea: Same physical thing, different labels
 If the physical acceleration is a, its numerical value changes when you change the unit. The relation is:
 
-```math
+$$
 \text{New number} \times (\text{new unit}) = \text{Old number} \times (\text{old unit})
-```
+
+$$
 
 So,
-```math
+$$
 N_{\text{km/h}^2} \times \left(\frac{\text{km}}{\text{h}^2}\right)
 = N_{\text{m/s}^2} \times \left(\frac{\text{m}}{\text{s}^2}\right)
-```
+$$
 
 Therefore,
-```math
+$$
 N_{\text{km/h}^2}
 = N_{\text{m/s}^2} \times
 \frac{\text{m}/\text{s}^2}{\text{km}/\text{h}^2}
 = N_{\text{m/s}^2} \times \left(\frac{\text{m}}{\text{km}}\right)\left(\frac{\text{h}^2}{\text{s}^2}\right)
-```
+$$
 
 Now plug in the facts:
 - m/km = 1/1000 = 0.001 (because 1 km = 1000 m)
 - h/s = 3600, so h²/s² = 3600² = 12,960,000
 
 Given g = 10 m/s²,
-```math
+$$
 N_{\text{km/h}^2}
 = 10 \times 0.001 \times (3600)^2
 = 10 \times 0.001 \times 12{,}960{,}000
 = 129{,}600
-```
+$$
 
 Answer: 129,600 km/h² → Option 3.
 
@@ -68,12 +69,12 @@ Answer: 129,600 km/h² → Option 3.
 
 ## Analytical view (unit-cancellation method)
 Write it as a clean chain so units cancel visibly:
-```math
+$$
 10\ \frac{\text{m}}{\text{s}^2}
 \times \frac{1\ \text{km}}{1000\ \text{m}}
 \times \frac{(3600\ \text{s})^2}{(1\ \text{h})^2}
 = 129{,}600\ \frac{\text{km}}{\text{h}^2}
-```
+$$
 All m cancel, all s² cancel, leaving km/h².
 
 ---

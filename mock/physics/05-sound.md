@@ -14,13 +14,13 @@ A) λ  B) 2λ  C) 3λ  D) 4λ
 
 ### 2) How do speed, wavelength, and frequency connect?
 Imagine watching one crest move. In one period T, one crest travels forward exactly one wavelength λ. So distance/time = speed:
-```math
+$$
 v = \frac{\text{distance in one period}}{\text{time for one period}} = \frac{\lambda}{T}
-```
+$$
 Since f = 1/T, this becomes:
-```math
+$$
 v = f\,\lambda
-```
+$$
 Dimensional check:
 - [v] = L/T
 - [f] = 1/T
@@ -43,16 +43,16 @@ This is like cars entering a wider road: if cars per second (frequency) stays th
 - In medium 2: speed v₂ = 4V, wavelength λ₂ = ?, same frequency f.
 
 Use v = fλ in both media:
-```math
+$$
 v_1 = f \lambda_1 \quad \Rightarrow \quad f = \frac{v_1}{\lambda_1} = \frac{V}{\lambda}
-```
-```math
+$$
+$$
 v_2 = f \lambda_2 \quad \Rightarrow \quad \lambda_2 = \frac{v_2}{f} = \frac{4V}{V/\lambda} = 4\lambda
-```
+$$
 Or directly by ratio with f constant:
-```math
+$$
 \frac{\lambda_2}{\lambda_1} = \frac{v_2}{v_1} = \frac{4V}{V} = 4
-```
+$$
 So λ₂ = 4λ.
 
 Answer: D) 4λ

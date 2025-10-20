@@ -36,20 +36,20 @@ In series:
 - Parallel: same voltage across each component; currents add up.
 
 Mathematically:
-```math
+$$
 \text{Ohm’s Law: } V = IR
 \quad\text{and}\quad
 P = VI = \frac{V^2}{R}
-```
+$$
 
 - In parallel (fixed V from mains), each appliance gets the correct V, so its power is:
-```math
+$$
 P = \frac{V^2}{R} \quad \text{(works as designed)}
-```
+$$
 - In series, each gets only part of V. If two identical bulbs share 230 V, each gets about 115 V, so:
-```math
+$$
 P = \frac{(115)^2}{R} = \frac{1}{4}\frac{(230)^2}{R}
-```
+$$
 Each bulb would be about a quarter as bright. That’s not how house lights behave.
 
 ### Experimental view

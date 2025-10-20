@@ -14,48 +14,48 @@ If you push sideways while the cart moves forward, that sideways part doesn’t 
 ## Build from first principles
 
 Work done in a tiny move:
-```math
+$$
 dW = \vec F \cdot d\vec r
-```
+$$
 
 Power is “rate of doing work”:
-```math
+$$
 P = \frac{dW}{dt} = \vec F \cdot \frac{d\vec r}{dt} = \vec F \cdot \vec v
-```
+$$
 
 So the instantaneous power is the dot product (alignment measure) of force and velocity.
 
 - Vector form:
-  ```math
+  $$
   P = \vec F \cdot \vec v
-  ```
+  $$
 - Magnitude-angle form:
-  ```math
+  $$
   P = F\,v \cos\theta
-  ```
+  $$
   where θ is the angle between force and velocity.
 - Component form:
-  ```math
+  $$
   P = F_x v_x + F_y v_y + F_z v_z
-  ```
+  $$
 
 Unit check (dimensional reasoning):
-```math
+$$
 [\text{N}]\,[\text{m/s}] = (\text{kg m/s}^2)(\text{m/s})=\text{kg m}^2/\text{s}^3 = \text{W}
-```
+$$
 
 ---
 
 ## The answer format (since numbers are missing)
 
 - If you have vectors, compute their dot product:
-  ```math
+  $$
   P = F_x v_x + F_y v_y + F_z v_z \quad \text{(Watts)}
-  ```
+  $$
 - If you only have magnitudes and the angle:
-  ```math
+  $$
   P = F v \cos\theta \quad \text{(Watts)}
-  ```
+  $$
 
 Please share the actual force and velocity (components or the angle between them) if you want a numeric value.
 

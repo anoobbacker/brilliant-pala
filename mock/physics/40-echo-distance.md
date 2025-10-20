@@ -15,14 +15,14 @@ So if you want the one-way distance to the reflection point (on the mountain), y
 - For an echo, the sound covers twice the one-way distance d in time t.
 
 So:
-```math
+$$
 \text{Round-trip distance} = 2d = v \cdot t \quad \Rightarrow \quad d = \frac{v\,t}{2}
-```
+$$
 
 Now plug in v = 340 m/s and t = 1 s:
-```math
+$$
 d = \frac{340 \times 1}{2} = 170 \text{ m}
-```
+$$
 
 Answer: 170 m.
 

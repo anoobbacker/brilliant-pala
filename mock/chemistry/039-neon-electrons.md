@@ -11,9 +11,9 @@ Think of electrons as students filling floors of a building (shells). You fill t
 - Period 2 has 8 elements (Li to Ne) → second shell can hold 8.
 
 So the first two shells can hold 2, then 8. A more formal rule (for later) is:
-```math
+$$
 \text{Max electrons in shell } n = 2n^2
-```
+$$
 For n=1 → 2, for n=2 → 8.
 
 ---
@@ -27,9 +27,9 @@ For n=1 → 2, for n=2 → 8.
 So Neon’s arrangement is 2, 8. The second shell is the outermost shell here.
 
 Analytical view (electron configuration):
-```math
+$$
 \text{Ne: } 1s^2\, 2s^2\, 2p^6
-```
+$$
 All 8 electrons in the outer shell (n=2).
 
 ---

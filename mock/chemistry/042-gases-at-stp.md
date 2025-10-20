@@ -23,9 +23,9 @@ At room-like conditions (1 atm, about 27°C = 300 K), small molecules with weak 
 
 ### The core criterion (built from first principles)
 - Thermal energy scale at temperature T is roughly:
-  ```math
+  $$
   E_{\text{thermal}} \sim k_B T
-  ```
+  $$
   At 300 K, this is enough to separate weakly attracting molecules like N₂, O₂, CO₂, but nowhere near enough to break the strong bonding in metals or diamond.
 
 - Practical test for exams: Compare 300 K to the substance’s boiling point (or sublimation point at 1 atm).  

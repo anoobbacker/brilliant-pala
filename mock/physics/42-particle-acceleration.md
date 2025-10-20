@@ -16,13 +16,13 @@ That story is the heart of Newton’s idea: a push (force) causes acceleration, 
 - Observation 2: Heavier object → smaller acceleration for the same push. So, a ∝ 1/m.
 
 Combine both ideas:
-```math
+$$
 a \propto \frac{F}{m}
-```
+$$
 We choose units so the proportionality constant is 1. That gives the famous relation:
-```math
+$$
 F = m\,a \quad \Rightarrow \quad a = \frac{F}{m}
-```
+$$
 Here, 1 newton (N) is defined so that 1 N = 1 kg·m/s², making the equation consistent.
 
 ---
@@ -34,9 +34,9 @@ Given:
 - Force F = 50 N (this is the net force, i.e., overall unbalanced push)
 
 Compute the acceleration:
-```math
+$$
 a = \frac{F}{m} = \frac{50\ \text{N}}{2\ \text{kg}} = 25\ \text{m/s}^2
-```
+$$
 
 ### Unit check (dimensional reasoning)
 N/kg = (kg·m/s²)/kg = m/s² — correct.

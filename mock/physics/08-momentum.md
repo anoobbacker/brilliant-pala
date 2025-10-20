@@ -17,32 +17,32 @@ We’ll derive this from first principles (not by memorizing formulas).
 
 ## Derivation 1: From Newton’s laws and Work (first principles)
 1. Work done by a force is the force times distance moved in its direction:
-   ```math
+   $$
    W=\int F\,ds
-   ```
+   $$
 2. Newton’s second law: $F = ma$. Also, $a=\frac{dv}{dt}$ and $v=\frac{ds}{dt}$.
 3. Substitute into the work integral:
-   ```math
+   $$
    W=\int m\frac{dv}{dt}\,ds=\int m\frac{dv}{dt}\,v\,dt=\int m v\,dv=\frac{1}{2} m v^2
-   ```
+   $$
    This work becomes the kinetic energy:
-   ```math
+   $$
    K=\frac{1}{2} m v^2
-   ```
+   $$
 
 Now connect kinetic energy to momentum. Momentum is $p=mv$, so $v=\frac{p}{m}$. Substitute into $K$:
-```math
+$$
 K=\frac{1}{2} m\left(\frac{p}{m}\right)^2=\frac{p^2}{2m}
-```
+$$
 Key result: For fixed momentum $p$, kinetic energy is inversely proportional to mass:
-```math
+$$
 K\propto \frac{1}{m}\quad \text{(if } p \text{ is the same)}
-```
+$$
 
 So for masses $m_1=1$ and $m_2=4$ with equal $p$:
-```math
+$$
 \frac{K_1}{K_2}=\frac{p^2/(2m_1)}{p^2/(2m_2)}=\frac{m_2}{m_1}=\frac{4}{1}=4:1
-```
+$$
 
 Answer: A) 4 : 1.
 
@@ -51,13 +51,13 @@ Answer: A) 4 : 1.
 ## Derivation 2: Directly from $dK = v\,dp$ (clean momentum-energy link)
 - Work-energy idea at an instant: $dK = F\,dx$.
 - Use $F=\frac{dp}{dt}$ and $dx = v\,dt$:
-  ```math
+  $$
   dK = \frac{dp}{dt}\,v\,dt = v\,dp
-  ```
+  $$
 - With constant mass, $v = \frac{p}{m}$, so:
-  ```math
+  $$
   K = \int_0^{p} v\,dp' = \int_0^{p} \frac{p'}{m}\,dp' = \frac{p^2}{2m}
-  ```
+  $$
 Same conclusion: at fixed $p$, $K \propto \frac{1}{m}$ → ratio 4:1.
 
 ---
@@ -66,9 +66,9 @@ Same conclusion: at fixed $p$, $K \propto \frac{1}{m}$ → ratio 4:1.
 - Momentum units: $[p]=\mathrm{kg\cdot m/s}$.
 - Energy units: $[K]=\mathrm{kg\cdot m^2/s^2}$.
 - The only way to build energy from $p$ and $m$ is $p^2/m$:
-  ```math
+  $$
   \frac{[p]^2}{[m]}=\frac{(\mathrm{kg^2\cdot m^2/s^2})}{\mathrm{kg}}=\mathrm{kg\cdot m^2/s^2}
-  ```
+  $$
 So $K$ must be proportional to $p^2/m$; the ratio for equal $p$ depends only on the inverse of mass → 4:1.
 
 ---
