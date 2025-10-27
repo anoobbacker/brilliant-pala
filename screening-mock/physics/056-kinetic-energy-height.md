@@ -1,4 +1,4 @@
-## Question
+# Question
 A body of mass 5 kg is thrown vertically up with a kinetic energy of 490 J . The height at which KE of the body becomes half of original value is
 
 **Options:**
@@ -7,6 +7,22 @@ A body of mass 5 kg is thrown vertically up with a kinetic energy of 490 J . The
 2. 10 m
 3. 7.5 m
 4. 5 m
+
+# Answer
+## Quick visual solution
+- Picture energy moving: at launch it’s all “motion energy.” As the body rises, that energy pours into “height energy.” Gravity pulls with nearly the same strength the whole way up, so height gained grows in straight step with energy spent.
+- “Half the motion energy left” means “half the starting energy has been spent lifting.” So you must be halfway up the total rise the object will ever reach.
+- The full 490 units of motion energy would carry a 5 kg mass to about 10 meters at the top. Halfway up is therefore 5 meters.
+
+Answer: 5 m (Option 4)
+
+## Creative twists
+- Thinking “half the energy” means “half the speed” or “half the time.” Energy drains into height steadily with height, not with time or speed.
+- Forgetting gravity’s pull is essentially constant here, so height gained is directly in step with energy spent.
+- Trying to compute speeds; you only need the idea that halfway energy loss means halfway in height.
+- Roller coaster: from the top, halfway down in height means half the potential energy has turned into motion energy.
+- Car coasting uphill: when it has lost half its initial “oomph,” it has climbed halfway to the point where it would just stop.
+- Engineering: An elevator lifting a fixed load—energy used is directly proportional to the floors climbed; half the energy buys half the floors.
 
 ## Solve it from first principles
 
@@ -28,20 +44,24 @@ We can show why KE depends on $v^2$:
 - Start from Newton: $F = m a$ with constant $F$.
 - If the object starts from rest and moves a distance $s$ to reach speed $v$, then
   - Use the chain between acceleration and distance: $a = \frac{dv}{dt}$ and $v = \frac{ds}{dt}$, so
-    ```math
+
+```math
     a = \frac{dv}{dt} = \frac{dv}{ds}\frac{ds}{dt} = v \frac{dv}{ds}.
     ```
   - Plug into $F = m a$:
-    ```math
+
+```math
     F = m\, v \frac{dv}{ds} \quad \Rightarrow \quad F\, ds = m v\, dv.
     ```
   - Integrate from start (rest, $v=0$) to some speed $v$ over distance $0$ to $s$:
-    ```math
+
+```math
     \int_0^s F\, ds = \int_0^v m v\, dv
     \Rightarrow F s = \frac{1}{2} m v^2.
     ```
 - The left side is the work done by the net force. So the change in kinetic energy is
-  ```math
+
+```math
   \Delta K = \frac{1}{2} m v^2.
   ```
 That’s why $K = \tfrac{1}{2} m v^2$.
@@ -51,14 +71,16 @@ That’s why $K = \tfrac{1}{2} m v^2$.
 - If you slowly lift a mass $m$ by height $h$ at constant speed, your upward force is $mg$, so the work you do is $W_{\text{you}} = mg\,h$.
 - Gravity does negative work $W_g = -mg\,h$ over the same rise.
 - This energy $mg h$ is stored as gravitational potential energy difference:
-  ```math
+
+```math
   \Delta U = +mg h.
   ```
 Dimensional check: $mg h$ has units N·m = J (joules), as energy should.
 
 #### Energy bookkeeping when thrown up
 - When the ball rises by height $h$, gravity removes kinetic energy equal to $mg h$:
-  ```math
+
+```math
   K(h) = K(0) - mg h.
   ```
 
@@ -87,26 +109,31 @@ Answer: 5 m → Option 4.
 ### 4) Quick alternative (derived kinematics)
 - From the earlier derivation, $K \propto v^2$, so “half KE” means $v^2$ halves.
 - For constant downward acceleration $-g$, one can derive
-  ```math
+
+```math
   v^2 = u^2 + 2 a s
   ```
   by the same chain-rule step: $a = v\, dv/ds$. With $a = -g$ and upward displacement $h$:
-  ```math
+
+```math
   v^2 = u^2 - 2 g h.
   ```
 - Half KE ⇒ $v^2 = \tfrac{1}{2} u^2$. Then
-  ```math
+
+```math
   \tfrac{1}{2} u^2 = u^2 - 2 g h \Rightarrow h = \frac{u^2}{4 g}.
   ```
 - Find $u^2$ from initial KE: $490 = \tfrac{1}{2} m u^2 \Rightarrow u^2 = \frac{2 \cdot 490}{5} = 196$.
 - Hence
-  ```math
+
+```math
   h = \frac{196}{4 \cdot 9.8} = \frac{196}{39.2} = 5\ \text{m}.
   ```
 
 ### 5) Sanity check
 - The maximum height occurs when all KE converts to PE:
-  ```math
+
+```math
   h_{\max} = \frac{K(0)}{mg} = \frac{490}{49} = 10\ \text{m}.
   ```
 - Half KE lost corresponds to half of this height: 5 m. This matches our result.
@@ -124,7 +151,8 @@ Answer: 5 m → Option 4.
 3. If instead the speed halves (not KE), at what height would that happen? Compare to the half-KE height and explain using $K \propto v^2$.
 4. If air resistance is significant, would the half-KE height be greater or smaller than 5 m? Why?
 5. Generalize: if we want the KE to drop to a fraction $k$ of its original value ($0<k<1$), show that
-   ```math
+
+```math
    h = (1 - k)\,\frac{K(0)}{mg}.
    ```
 

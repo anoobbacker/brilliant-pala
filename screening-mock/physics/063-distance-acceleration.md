@@ -1,6 +1,23 @@
 ## Question
 A body starts from rest and has an acceleration of $20 \mathrm{~cm} / \mathrm{s}^2$. The distance covered by the body in first 8 s in cm is :
 
+---
+# Answer
+## Quick visual solution
+- Picture speed climbing like a straight ramp: it rises by 20 cm/s every second, starting at 0. After 8 s, the top of the ramp is 160 cm/s.
+- Distance is the “area under” this speed–time ramp.
+- Pair the first and last seconds: the tiny triangle at the start (0→20) and the tall sliver at the end (140→160) fit together into a perfect 1-second-wide rectangle of height 160.
+- Do the same for seconds (2+7), (3+6), (4+5). You get 4 identical rectangles, each 1 s wide and 160 cm/s tall.
+- Each rectangle covers 160 cm, so total distance = 4 rectangles × 160 cm = 640 cm.
+
+Answer: 640 cm
+
+## Creative twists
+- Confusing acceleration with speed: 20 cm/s² means the speed grows by 20 cm/s each second, not that the speed is 20.
+- Forgetting the start from rest: you can’t take “final speed × time”; that would double-count. The ramp shape reminds you it starts at zero.
+- Unit slip: everything is already in cm and s, so no conversion is needed.
+- Same pairing trick works for any steady growth: stacking books from 1 to 8 cm thickness—pair first and last to get equal stacks.
+- Nature/engineering echo: a car smoothly accelerating from a stop—distance covered is the “triangle under the speed ramp,” or equivalently, built from paired strips into rectangles. This also explains why cruising at top speed the whole time would go twice as far as accelerating from rest for the same time.
 
 ## Understand the situation (build from everyday thinking)
 - Imagine a trolley that starts from rest on a smooth, gentle slope. Each second, its speed increases by the same amount. That steady “gain in speed per second” is called acceleration.
@@ -64,7 +81,8 @@ Answer: 640 cm.
 ## Multiple approaches (for deeper trust)
 - Graph/area method: We used area under the v–t graph (triangle).
 - Calculus method: If $a = \frac{dv}{dt}$ and $a$ is constant, integrate:
-  ```math
+
+```math
   \frac{dv}{dt} = a \Rightarrow v = a t \quad (\text{using } v(0)=0)
   ```
   Distance is $s = \int_0^t v \, dt = \int_0^t a t \, dt = \frac{1}{2} a t^2$.

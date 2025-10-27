@@ -1,4 +1,4 @@
-## Question
+# Question
 Acceleration time graph of a particle moving along a straight line is as shown in figure. Initial velocity of the particle is $10 \mathrm{~m} / \mathrm{s}$. The velocity of the particle at $5^{\text {th}}$ second is
 
 ![A diagram of a line AI-generated content may be...](https://d3e4y8hquds3ek.cloudfront.net/institute/brilliantpalaelearn/questions/8cf74b78dce14b1a810a89ce1bed8e1c.png)
@@ -9,6 +9,24 @@ Acceleration time graph of a particle moving along a straight line is as shown i
 2. [ ] $10 \mathrm{~m} / \mathrm{s}$
 3. [✓] $25 \mathrm{~m} / \mathrm{s}$
 4. [ ] $30 \mathrm{~m} / \mathrm{s}$
+
+---
+# Answer
+## Quick visual solution
+- Look at the acceleration–time picture: it’s a straight line sloping down from a positive value at the start to zero at 5 seconds. That makes a right triangle under the line between 0 and 5 seconds.
+- Think of acceleration as how fast “speed is being poured in” each moment. The total speed gained is the area under that line. A triangle gives half the “fill” of the full rectangle with the same base and height.
+- Base is 5 seconds; starting height is the marked value on the graph. So the full rectangle would pour in “5 by that height”; the triangle gives half of that. From the scale shown, that half-rectangle adds up to 15 units of speed.
+- Start with 10 m/s and pour in 15 m/s more by 5 seconds.
+
+Answer: 25 m/s
+
+## Creative twists
+- Confusing height with total: reading the acceleration at 5 s (which is zero) and thinking velocity is zero. Height is instant effect; area is the accumulated effect.
+- Forgetting the triangle is half the rectangle: counting the whole rectangle instead of half.
+- Ignoring sign: if the graph dipped below time axis, that area would reduce speed, not increase.
+- Water-flow analogy: flow rate vs time; the water collected is the area under the graph. Here, flow rate is acceleration; collected water is the velocity change.
+- Car feel: a push that steadily eases off to zero over 5 seconds still increases speed; the total “push” felt over time is the area, not the final push.
+
 
 ## Understand the situation (from everyday intuition)
 - Think of the accelerator in a car. Pressing it changes how quickly your speed increases — that “how quickly” is called acceleration.
@@ -25,19 +43,22 @@ From the figure:
 ### What does “acceleration” do to velocity?
 - Acceleration is the rate at which velocity changes:
   
-  ```math
+
+```math
   a = \frac{dv}{dt}
   ```
 
 - Rearranged for a tiny time slice dt:
   
-  ```math
+
+```math
   dv = a \, dt
   ```
 
 - To get the total change in velocity from t = 0 to t = 5 s, add up (integrate) all these tiny contributions:
   
-  ```math
+
+```math
   \Delta v = \int_{0}^{5} a(t) \, dt
   ```
 
@@ -51,7 +72,8 @@ So: Change in velocity = area under the a–t graph.
   - Height = 6 m/s²
 - Area of a triangle = 1/2 × base × height:
   
-  ```math
+
+```math
   \text{Area} = \frac{1}{2} \times 5 \times 6 = 15 \ \text{(m/s)}
   ```
 
@@ -64,7 +86,8 @@ This area is the total increase in velocity over 5 s.
 - Increase Δv = 15 m/s
 - Therefore:
   
-  ```math
+
+```math
   v(5\ \text{s}) = v_0 + \Delta v = 10 + 15 = 25 \ \text{m/s}
   ```
 

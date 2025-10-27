@@ -1,6 +1,29 @@
 ## Question
 Consider two spherical planets of same average density. Planet 2 is 8 times as massive as planet. The ratio of the acceleration due to gravity on the second planet to that on the first is
 
+---
+# Answer
+## Quick visual solution
+
+- Picture planet 2 as a scaled-up twin of planet 1, made of the same stuff (same “crowdedness” of material).  
+  Eight times the mass means you’ve scaled every length by 2, because doubling height, width, and depth multiplies “stuff” by 2×2×2 = 8.
+
+- Gravity at the surface is like the crowding of invisible pull-threads coming out of the planet.
+  - More stuff → more threads: 8 times as many.
+  - But the surface you stand on is now a bigger skin. Doubling size makes the skin area 4 times larger (twice as tall and twice as wide).
+  - Thread crowding at the surface = threads spread over skin = eight divided by four = two times as dense.
+
+- More thread-crowding means stronger pull. So surface gravity doubles.
+
+Answer: g on planet 2 : g on planet 1 = 2 : 1.
+
+## Creative twists
+- Seeing “8 times mass” and forgetting you’re also standing farther out on a bigger planet.
+- Mixing up how area and volume scale: doubling size makes volume 8× but area only 4×.
+- Thinking “same density ⇒ same gravity” without noticing the larger radius.
+- Light analogy: A bigger lantern with 8 times more bulbs but a globe twice as big spreads light over 4× the surface—brightness at the surface doubles.
+- Field-line picture in engineering: More source (mass/charge) gives more lines; enlarging the object spreads lines over a bigger skin. Line density at the surface tells you the “pull” or “push.”
+
 ## Restating the problem in simple words
 Two spherical planets are made of the same “stuff” (same average density). Planet 2 has 8 times the mass of Planet 1. How many times stronger is the surface gravity on Planet 2 compared to Planet 1?
 

@@ -1,4 +1,4 @@
-## Question
+# Question
 The spring balance does not read properly after its long use because
 
 **Options:**
@@ -7,6 +7,22 @@ The spring balance does not read properly after its long use because
 2. The elasticity of spring decreases
 3. Its plastic power decreases
 4. Its plastic power increases
+
+# Answer
+### Visual reasoning (stepwise)
+- Picture a brand-new spring: pull it, it stretches a bit and snaps right back. The scale’s markings are drawn to match that “bounce-back” behavior.
+- After long use, the spring gets “tired”: like an old rubber band, it becomes a little baggy and doesn’t return fully.
+- Now, for the same pull, it stretches more than before. The pointer goes too far, the zero can shift, and the whole scale reads off.
+- That means its “ability to spring back” has weakened — elasticity has decreased.
+
+## Creative twists
+- Mixing up “elastic” with “stretchy.” Elastic means returns to original shape well; stretchy without recovery is actually less elastic.
+- Being tempted by “plastic power.” “Plastic” means it stays deformed; “power” isn’t what a spring scale depends on. The issue is the spring’s bounce-back, not some rate of doing work.
+- Nature/Everyday: A trampoline or mattress sags with age — it still stretches, but doesn’t rebound crisply, so jumps feel “dead.” That’s decreased elasticity.
+- Engineering: Old car suspension sits lower and bottoms out more easily; the spring’s rebound weakens, throwing off ride height — just like a spring scale’s pointer reading going wrong.
+- Lab gear: A pen’s click-spring after many clicks feels soft and doesn’t push the tip out firmly — the same loss of springiness that ruins scale calibration.
+
+Correct option: 2. The elasticity of spring decreases.
 
 ## Core idea
 A spring balance measures weight by how much its spring stretches. When it’s new, a certain pull makes a predictable stretch. After long use, the spring doesn’t “snap back” as strongly—its elastic behavior weakens—so the same pull causes more stretch than before. Since the scale was calibrated assuming the original spring strength, it now reads wrong.

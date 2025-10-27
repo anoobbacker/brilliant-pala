@@ -16,6 +16,24 @@ Diagram:
 (V) = Volmeter
 (A) = Ammeter
 
+---
+# Answer
+## Quick visual solve
+
+- See the ammeter as a thick, almost perfect wire. It “bridges” across the 5Ω, so current prefers the ammeter. The 5Ω is effectively bypassed and does nothing.
+- The voltmeter is a nearly closed gate (hardly any current through it). So the whole loop current is almost zero.
+- With almost no current, the 3Ω above can’t “lose” any push across it (no noticeable drop). The only thing that sets a push between the left and right rails is the 3V source.
+- The voltmeter is effectively connected across those two rails. So it “feels” almost the full battery push.
+
+Answer: close to 3 V.
+
+## Creative twists
+- Thinking the 5Ω matters: it’s shorted by the ammeter. Spot any fat-wire bypasses; the bypassed part is irrelevant.
+- Assuming a resistor always “uses up” some voltage: if no current flows (voltmeter draws almost none), a resistor causes almost no drop.
+- Forgetting what a voltmeter is: it measures the push between two points; it doesn’t need big current to read the source value.
+- Water analogy: a pump (battery) in series with a smooth pipe (resistor) feeding a nearly closed tap (voltmeter). With almost no flow, there’s almost no friction loss in the pipe; the full pressure shows at the tap.
+- Real-life check: measuring a battery with a digital voltmeter (very high resistance) gives nearly the battery’s true voltage because it draws almost no current.
+
 ## Understanding the circuit (from first principles)
 
 Imagine electricity like water in pipes:
@@ -48,7 +66,7 @@ So, the voltmeter reading will be close to 0 V.
 - Voltage is electrical “pressure difference” between two points. A voltmeter compares the electric potential of one point to another.
 - Experimentally, for many materials (called ohmic), current through them is proportional to the applied voltage. That proportionality constant is resistance:
 
-  ```math
+```math
   V \propto I \quad \Rightarrow \quad V = I R
   ```
 
@@ -56,7 +74,7 @@ So, the voltmeter reading will be close to 0 V.
 
 - Consequence: If R is extremely small (like a good wire or an ideal ammeter), then for any finite current I, the voltage drop V across it is tiny:
 
-  ```math
+```math
   V = I \cdot (\text{very small}) \approx 0
   ```
 

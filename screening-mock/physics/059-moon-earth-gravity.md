@@ -1,4 +1,4 @@
-## Question
+# Question
 The mass of moon is $1 \%$ of the mass of earth. The ratio of gravitational pull of the earth on moon to  that of the moon on earth will be
 
 **Options:**
@@ -7,6 +7,24 @@ The mass of moon is $1 \%$ of the mass of earth. The ratio of gravitational pull
 2. $1: 10$
 3. $1: 100$
 4. $2: 1$
+
+---
+# Answer
+## Fast visual reasoning
+- Picture two ice skaters holding a rope. The rope’s pull is the same at both hands. The lighter skater zips back more; the heavier barely moves—but the pull is equal on both.
+- Gravity is just an invisible rope between Earth and Moon. So the pull Earth feels from the Moon equals the pull the Moon feels from Earth.
+- The “1% mass” only changes how much each one moves (their response), not how hard they tug on each other.
+
+Answer: 1:1 (Option 1)
+
+## Typical visual traps
+- Thinking “bigger object pulls harder.” Spot it: if it’s a direct interaction between two bodies (like a rope or magnet), the pulls come as equal-and-opposite pairs. The difference shows up in motion, not in the force.
+- Mixing up “weights on different worlds” with “mutual pull.” Weight changes by where you are, but the mutual tug between two bodies is equal on both.
+
+## Creative twists
+- Tug-of-war rope: tension is the same at both ends—no matter who’s stronger.
+- Gun and bullet: the push is equal; the lighter bullet speeds up more, the heavier gun recoils less.
+- Earth and Sun: they pull equally; the Sun moves a little, Earth dances a lot more. Same idea, different scale.
 
 ## Big idea in plain words
 When two things interact, the “pull” or “push” is a partnership: each object affects the other equally strongly but in opposite directions. You feel the wall push you as hard as you push the wall. Gravity is just this mutual pull acting at a distance. So Earth and Moon pull on each other with equal force. What differs is how much each one accelerates (lighter objects accelerate more under the same force).
@@ -62,7 +80,8 @@ Therefore, the gravitational pull of Earth on Moon and of Moon on Earth have equ
 - Given: Moon’s mass is 1% of Earth’s mass ($M_M = 0.01 M_E$).
 - That affects accelerations, not force:
   - Same force on both, but $a = F/m$, so
-    ```math
+
+```math
     \frac{a_{\text{Moon}}}{a_{\text{Earth}}} = \frac{M_E}{M_M} \approx 100.
     ```
   - The Moon accelerates about 100 times more than Earth, which is why Earth only “wobbles” slightly while the Moon orbits.

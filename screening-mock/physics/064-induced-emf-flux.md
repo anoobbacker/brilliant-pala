@@ -1,5 +1,25 @@
-## Question 
+# Question 
 The average induced emf produced in a closed loop in 2 s is 5 V . The magnitude of change in flux in SI unit is
+
+---
+# Answer
+## Quick visual solve
+- Picture magnetic flux as “threads” crossing the loop.
+- The induced push (5 volts) tells how fast those threads are being added/removed. Think “5 thread-changes each second on average.”
+- Over 2 seconds, that stacks up to 5 per second for 2 seconds → 10 thread-changes.
+- The SI unit for this total change is weber.
+
+Answer: 10 weber (Wb)
+
+## Typical visual traps
+- Forgetting turns: If not told otherwise, a single loop is implied. More turns would spread the same push over more loops.
+- Mixing up “flux” with “field strength”: Flux is the total threads through the loop, not how tightly they’re packed at a point.
+- Overcomplicating “closed loop”: It just means the loop can feel the induced push; it doesn’t change the counting of flux threads.
+
+## Creative twists
+- Same push for longer time → more total thread-change. Halving the time halves the change.
+- Many turns coil: The same push can come from smaller per-turn thread-changes because each turn contributes; the coil multiplies the effect.
+- Everyday mirror: Move a magnet through a ring. Move it twice as long at the same average “hustle,” you’ve swept through twice as many magnetic threads, so twice the total change.
 
 ## Understand the situation in everyday terms
 - Imagine a metal loop (a closed wire ring). If the magnetic “traffic” through the loop changes (like field lines going through the loop increasing or decreasing), the charges in the wire feel a push around the loop and start moving—this is a current.

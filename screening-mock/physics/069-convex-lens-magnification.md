@@ -1,6 +1,8 @@
 ## Question
 A convex lens of focal length 30 cm produces a real image three times the size of the object. The magnitude of object distance (in cm) from the lens is
 
+---
+# Answer
 ## Big picture
 A convex lens bends light rays so that rays coming in parallel to its axis meet at a point called the focus. This happens because light slows down in glass, and the curved surfaces steer edge rays more than central rays. If an object is placed in front of such a lens, two easy-to-track rays help us predict where the image forms:
 - A ray through the lens’s center goes straight (almost undeviated).

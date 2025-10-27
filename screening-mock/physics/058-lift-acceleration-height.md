@@ -22,6 +22,36 @@ A lift starts from rest. Its acceleration is plotted against time in the followi
 3. 32
 4. 164
 
+---
+# Answer
+## Quick visual solution
+
+- Read the acceleration bars:
+  - From 0 to 4 s: constant upward push (+4). Speed climbs in a straight line.
+  - From 4 to 8 s: no push (0). Speed stays flat.
+  - From 8 to 12 s: equal downward push (−4). Speed drops in a straight line back to zero.
+  - So it starts and ends at rest (the up-push area equals the down-push area).
+
+- Picture the speed-time graph this creates: a “roof” — ramp up (0–4), flat top (4–8), ramp down (8–12).
+
+- Height gained = area under that roof:
+  - First 4 s (ramp up): a triangle under a straight slope. That’s half of the matching rectangle. The matching rectangle is 4 wide by the top speed. The top speed comes from the first acceleration block: 4 high for 4 s → speed rises to 16. So this triangle is half of 4×16 → 32.
+  - Middle 4 s (flat): full height 16 for 4 s → 16×4 → 64.
+  - Last 4 s (ramp down): same triangle as the start → 32.
+
+- Total height = 32 + 64 + 32 = 128 meters.
+
+Answer: 128
+
+## Typical visual traps
+- Mixing graphs: thinking “area under acceleration” gives height directly. It first gives speed; height is area under the speed graph.
+- Missing the symmetry: equal +4 and −4 blocks over equal times means the lift returns to rest at 12 s.
+- Forgetting triangles are “half the rectangle” when the speed changes linearly.
+
+## Creative twists
+- Same roof idea works for any accelerate–cruise–brake trip (car, train, elevator). Count the “speed roof” area for distance.
+- In engineering, this is how motion profiles are planned: ramps (triangles) to avoid jerks, flats for cruising — the area under speed is the travel.
+
 ## Understand the story the graph is telling
 
 - Think of riding a lift (elevator). A smooth ride feels like this:

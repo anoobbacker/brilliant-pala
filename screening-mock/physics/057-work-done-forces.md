@@ -1,4 +1,4 @@
-## Question
+# Question
 Total work done by all the forces on a body is equal to
 
 **Options:**
@@ -8,10 +8,26 @@ Total work done by all the forces on a body is equal to
 3. Change in kinetic energy
 4. -(Change in potential energy)
 
-## Answer in one line
-Option 3: Change in kinetic energy.
-
 ---
+# Answer
+## Why (visual)
+- Picture a skateboarder. Add up every push and pull along their path—friends pushing, gravity on a slope, friction, air drag. The combined effect decides only one thing: how their speed changes.
+- Faster or slower is the “motion-energy” of the skateboarder. That’s kinetic energy. So the total push-along-the-motion changes kinetic energy.
+
+## Why not the others
+- Change in potential energy: That’s the “height/spring” store. Only certain forces (like gravity or a spring) swap this with motion-energy. But “all forces” includes friction and engines too, so it’s not just potential.
+- Negative change in potential energy: That matches the work of those special forces alone (like gravity), not all forces.
+- Change in mechanical energy (kinetic + potential): This shifts mainly when non-conservative forces (like friction) act. But the total of all forces directly shows up as a change in speed—kinetic—not the sum.
+
+Answer - 3. Change in kinetic energy
+
+## Creative twists
+- Seeing “all forces” and thinking “all energies,” picking mechanical energy.
+- Thinking gravity’s role (height change) always tells the whole story, ignoring friction or engines.
+- Forgetting sideways forces (like a tight turn) don’t speed you up—they just steer, so no change in kinetic energy from them.
+- Car braking: All resisting forces together slow the car; the motion-energy drops—kinetic changes.
+- Roller coaster: With no friction, gravity’s push trades height for speed, but the total push still shows up as speed change.
+- Rocket thrust in space: No height change, yet thrust changes speed—kinetic shifts directly.
 
 ## Build-up from first principles (for deep understanding)
 

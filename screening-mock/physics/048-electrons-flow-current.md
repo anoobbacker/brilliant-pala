@@ -1,7 +1,5 @@
-## Question
-If I is the current through a wire and e is the
-charge of electron, then the number of electrons flows in ' $t$ ' second will
-be given by:
+# Question
+If I is the current through a wire and e is the charge of electron, then the number of electrons flows in ' $t$ ' second will be given by:
 
 **Options:**
 
@@ -9,6 +7,26 @@ be given by:
 2. Ite
 3. $\frac{\mathrm{e}}{\mathrm{It}}$
 4. $\frac{I t}{e}$
+
+# Answer
+## Fast visual reasoning
+- Picture a conveyor belt carrying identical packets (electrons). Each packet has “size” e (charge per electron).
+- The belt’s “thickness of stuff” passing each second is I (how much charge per second).
+- Watch it for t seconds: the total “stuff” that passes grows with both I and t.
+- How many packets is that? Number = total stuff divided by size per packet.
+- So it must grow with I and t, but shrink if each packet is bigger (e is larger).
+
+Therefore: number of electrons ∝ I × t ÷ e → Option 4: It/e.
+
+## Typical visual traps
+- Multiplying by e instead of dividing: Bigger packets mean fewer packets needed for the same flow—so e should be in the denominator.
+- Dividing by t: More time means more packets pass, so t must multiply, not divide.
+- Dividing by I: Stronger flow means more packets per second, so I must multiply.
+
+## Creative twists
+- Water analogy: A faucet pours at I “liters per second.” Each drop is e “liters.” In t seconds, drops counted = (flow × time) ÷ drop size.
+- Photons in a beam: Power is like flow; energy per photon is like packet size. Count in time t is flow × time ÷ packet size.
+- Factory line: Boxes of weight e on a belt delivering total weight per second I. Boxes in t seconds = total delivered weight divided by weight per box.
 
 ## Idea in plain words
 

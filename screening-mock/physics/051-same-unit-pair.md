@@ -1,4 +1,4 @@
-## Question
+# Question
 Which of the following pair have same unit?
 
 **Options:**
@@ -8,10 +8,33 @@ Which of the following pair have same unit?
 3. Work and energy
 4. Work and power
 
-## Answer with first-principles reasoning
-Correct option: 3. Work and energy
+---
+# Answer
+## Fast visual reasoning
 
-### Start from base ideas and build up units
+- Velocity vs momentum
+  - Picture a bicycle and a truck rolling at the same speed. They “look” equally fast (same velocity), but the truck is much harder to stop (more momentum because it includes mass). Since one includes “how heavy,” they can’t share the same unit.
+
+- Force vs power
+  - Push hard on a wall: big push, nothing moves. You feel effort (force), but nothing gets done per second (power is effectively none). One is “how hard you push,” the other is “how fast you spend effort.” Not the same unit.
+
+- Work vs energy
+  - Lift a box onto a shelf. The “effort you paid” to raise it is exactly the “ability to do things” the box now has by being higher. Work is the transfer; energy is the stored result. Same kind of “currency,” so same unit.
+
+- Work vs power
+  - Moving a box slowly vs quickly to the same shelf: same total done, different “how fast.” Amount versus rate—different units.
+
+Answer: 3. Work and energy
+
+## Creative twists
+- Mixing up force and power because both feel like “effort.” Quick test: can you push hard with nothing happening? If yes, force exists without power; so units differ.
+- Confusing velocity and momentum because both involve motion. Quick test: swap a bike for a truck at the same speed—stopping difficulty changes, so units differ.
+- Thinking “work” and “power” sound alike. Quick test: same job done slowly or quickly; total stays same, only the pace changes.
+- Nature: A falling apple’s stored “up-high” ability turns into motion; the “paid” lift (work) and the “stored” ability (energy) are the same currency changing pockets.
+- Engineering: A battery powering a motor—the energy in the battery equals the work the motor can deliver. Power is just how fast the battery spends that energy.
+
+
+## Start from base ideas and build up units
 In physics we reduce complex ideas to a few “base quantities” we can measure directly:
 - Length (metre, m)
 - Mass (kilogram, kg)

@@ -1,8 +1,27 @@
 ## Question
 A bulb rated $200 \mathrm{~V}, 100 \mathrm{~W}$ is connected to a potential difference of 100 V . The power consumed by the bulb in watt will be
 
-## Goal
+---
+# Answer
 Find the power consumed by a bulb rated “200 V, 100 W” when it is connected to a 100 V supply — using first principles and clear cause-effect reasoning.
+
+## Quick visual reasoning
+- Picture the bulb as a fixed-width water pipe. Voltage is the “push” and current is the “flow.”
+- At 200 V, it’s designed to use 100 W.
+- If you halve the push to 100 V, the flow through the same “pipe” also halves (same thickness, same material).
+- Power is like “push × flow.” Half the push and half the flow → the turning effect (power) becomes one-quarter.
+- One-quarter of 100 W is 25 W.
+
+## Final answer
+25 W
+
+## Creative twists
+- Thinking “half the voltage gives half the power.” That ignores that both push and flow drop together, making it a quarter.
+- Forgetting we’re treating the bulb like a fixed resistor here. Real filaments cool at lower voltage and change resistance, but exam-style reasoning keeps the “pipe width” fixed.
+- Mixing up ratings: 200 V, 100 W is the designed operating point, not what always happens.
+- Dimmer switch via a lower voltage: like lowering a waterfall’s height—each bucket of water has less energy and fewer buckets pass per second, so the wheel turns much more gently.
+- Electric heater on a lower supply warms much slower for the same reason: both the “push” and the “flow” drop, making heat production about a quarter.
+- In engineering, step-down transformers dim incandescent bulbs steeply because of this double reduction effect.
 
 ---
 
@@ -20,7 +39,8 @@ Find the power consumed by a bulb rated “200 V, 100 W” when it is connected 
 - If charges flow at a rate of $I$ coulombs per second (that’s current), then in 1 second, $Q = I \times 1$ flows.
 - Power is energy per second, so:
   
-  ```math
+
+```math
   P = \frac{\text{energy}}{\text{time}} = \frac{VQ}{t} = V\frac{Q}{t} = VI
   ```
 
@@ -31,7 +51,8 @@ Find the power consumed by a bulb rated “200 V, 100 W” when it is connected 
 ## Step 3: Introduce resistance and relate V, I, and R
 - For many metal conductors (like a bulb filament at a given temperature), doubling the push (V) doubles the flow (I). This proportionality is captured by Ohm’s Law:
   
-  ```math
+
+```math
   V = IR
   ```
 
@@ -39,13 +60,15 @@ Find the power consumed by a bulb rated “200 V, 100 W” when it is connected 
 
 - Combine with $P = VI$ to get two useful power forms:
   
-  ```math
+
+```math
   P = VI = I(IR) = I^2R
   ```
   
   and
   
-  ```math
+
+```math
   P = VI = V\left(\frac{V}{R}\right) = \frac{V^2}{R}
   ```
 
@@ -86,7 +109,8 @@ So the bulb consumes 25 W at 100 V.
 - From $P = V^2/R$ (with fixed $R$), power scales with the square of voltage.
 - Halving the voltage (from 200 V to 100 V) reduces power to one quarter:
   
-  ```math
+
+```math
   P' = P \left(\frac{V'}{V}\right)^2 = 100\ \text{W} \times \left(\frac{100}{200}\right)^2 = 100 \times \frac{1}{4} = 25\ \text{W}
   ```
 

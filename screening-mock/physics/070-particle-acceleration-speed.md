@@ -1,4 +1,4 @@
-## Question
+# Question
 A particle is initially at rest, it is subjected to a linear acceleration ' $a$ ', as shown in the figure. The maximum speed attained by the particle in $\mathrm{m} / \mathrm{s}$ is
 
 ```
@@ -19,6 +19,24 @@ A particle is initially at rest, it is subjected to a linear acceleration ' $a$ 
      0            11
 ```
 
+---
+# Answer
+## Quick visual solution
+- Picture the acceleration graph as a ramp: starts high at 10 and slides linearly down to 0 by 11 s.
+- Each 1-second strip under this curve adds a “chunk” of speed. All chunks stacked make a triangle. That triangle’s area is the total speed gained.
+- A straight ramp has a perfectly even “rise-and-fall,” so its average height is halfway between top and bottom: halfway between 10 and 0 is 5.
+- So it’s as if you had a flat strip of height 5 that lasts the whole 11 s. Stacking 11 equal strips of height 5 gives a speed gain of 5 × 11 = 55.
+- Acceleration never goes negative before 11 s, so speed keeps climbing until then. That’s the maximum.
+
+Answer: 55 m/s
+
+## Creative twists
+- Reading the graph as speed vs time and doing 10 × 11 = 110 (forgetting it’s acceleration, and the shape is a triangle, not a rectangle).
+- Missing that a straight ramp averages to the midpoint height (5 here).
+- Thinking speed keeps increasing after acceleration hits zero. With zero push, speed stops changing—so the top speed is exactly at 11 s.
+- If the line dipped below the axis later, the top speed would occur where the curve crosses zero (area stops growing and starts shrinking).
+- Same idea in real life: a tap’s flow fading steadily while filling a bucket—the total water added equals the “area under the flow-time graph.” A steady half-strength flow for the whole time gives the same fill as a linearly fading flow.
+
 ## Idea in one line
 Speed grows when acceleration is positive and shrinks when it’s negative. The graph shows acceleration starting at 10 and decreasing linearly to 0 at 11 s, so the speed is largest exactly when the acceleration hits zero. That maximum speed equals the area under the acceleration–time graph up to 11 s (a triangle).
 
@@ -36,15 +54,18 @@ So: change in velocity = area under the acceleration–time graph.
   - Velocity is rate of change of position: $v = \frac{\Delta x}{\Delta t}$ (in the small-time limit).
   - Acceleration is rate of change of velocity: $a = \frac{\Delta v}{\Delta t}$ (in the small-time limit).
 - Over a tiny interval $\Delta t$, velocity changes by approximately:
-  ```math
+
+```math
   \Delta v \approx a(t)\,\Delta t
   ```
 - Add these tiny changes from $t=0$ to $t=T$:
-  ```math
+
+```math
   \Delta v \approx \sum a(t)\,\Delta t
   ```
 - In the limit of very small slices, this sum becomes the area (integral):
-  ```math
+
+```math
   v(T) - v(0) = \int_{0}^{T} a(t)\,dt
   ```
 - Unit check (dimensional analysis):
@@ -72,7 +93,8 @@ v_{\max} = \Delta v = \frac{1}{2}\times 11 \times 10 = 55\ \text{m/s}
 ### 1) Average-acceleration reasoning (since it’s linear)
 - For a straight-line change from 10 to 0, the average acceleration over 0–11 s is the midpoint: $(10 + 0)/2 = 5$ m/s².
 - Change in velocity = average acceleration × time:
-  ```math
+
+```math
   \Delta v = (5\ \text{m/s}^2)\times (11\ \text{s}) = 55\ \text{m/s}
   ```
 
@@ -80,7 +102,8 @@ v_{\max} = \Delta v = \frac{1}{2}\times 11 \times 10 = 55\ \text{m/s}
 First write the linear function for $a(t)$:
 - Slope = fall/rise in time = $-10/11$ m/s³.
 - So:
-  ```math
+
+```math
   a(t) = 10 - \frac{10}{11}t
   ```
 Integrate from 0 to 11 s:

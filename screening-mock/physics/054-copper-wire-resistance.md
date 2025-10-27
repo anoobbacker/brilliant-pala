@@ -1,4 +1,4 @@
-## Question
+# Question
 Two copper wires, one of length 1 m and the other
 of length 9 m have the same resistance. The diameters are in the ratio
 
@@ -8,6 +8,28 @@ of length 9 m have the same resistance. The diameters are in the ratio
 2. $1: 3$
 3. $9: 1$
 4. $1: 9$
+
+# Answer
+## Fast visual reasoning
+
+- Picture each wire as a road for electrons.
+- Making the road 9 times longer makes travel 9 times harder.
+- To keep the “difficulty” the same, give the longer road 9 times more lanes.
+- Lanes come from the face of the wire (how many tiny straws fit across it). That’s the area.
+- How do you get 9 times as many straws? Make the circle’s diameter 3 times bigger: 3 across and 3 up gives a 3-by-3 grid → 9 times as many straws.
+
+So the 9 m wire must be 3 times thicker. Therefore:
+- diameters (1 m wire : 9 m wire) = 1 : 3
+
+Answer: 1:3 (Option 2)
+
+## Creative twists
+- Mixing up area and diameter: thinking “9 times area means 9 times diameter.” No—tripling diameter gives nine times the circle’s area.
+- Getting the order wrong: the longer wire must be the thicker one.
+- Forgetting same material: only shape/size matters here, not the metal type.
+- Garden hose: a hose 9 times longer needs a much wider hose to keep the same ease of water flow.
+- Highways: a detour 9 times longer needs many more lanes to keep traffic moving just as easily.
+- Electrical cables: long extension cords use thicker wire to avoid extra resistance—same idea.
 
 ## Thinking from first principles
 
