@@ -7,7 +7,20 @@ Chemical formula of phosphoric acid
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture how acids behave in water: they carry “loose” front hydrogen atoms that can peel off easily. So acid names usually look like they start with H.
+- Look at the choices:
+  - Ca(OH)₂ and NaOH both show a metal hugging an OH group. That pair makes solutions feel slippery/soapy — classic base behavior, the opposite of acids.
+  - Only H₃PO₄ starts with H and also contains P for “phosphor-,” matching “phosphoric.”
+- So the only option that is both an acid (front H’s) and contains phosphorus is H₃PO₄.
 
+## Create twists
+- Visual trap: “It has O and H, so it’s an acid.” Not if a metal is holding OH like a spatula (NaOH, Ca(OH)₂) — that’s a base.
+- Different-looking problem: “Sulfuric acid.” Use the same eyes: start-with-H for acid and look for S for “sulfur-.” Pick the one with H and S (plus O), not metal–OH.
+- In the world: 
+  - Phosphoric acid shows up in rust removers and some colas (sour bite).
+  - NaOH (drain cleaner) and Ca(OH)₂ (lime) feel slippery and neutralize acids — confirming which side they’re on.
+  
 ## Which formula is phosphoric acid?
 
 ### Start with a simple question

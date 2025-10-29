@@ -27,6 +27,7 @@ statements?
 3. I and III only
 4. III and IV only
 
+---
 ## Big picture: How do we “read” a displacement table from first principles?
 
 Think of metals as people holding onto their electrons like shoppers holding items. Some shoppers grip tightly (less reactive), others let go easily (more reactive). In a solution like CuSO4, the copper is already “let go” as Cu²⁺ ions, floating around, while the sulfate (SO₄²⁻) is just a spectator, like a shopping bag holding the ions together. If a metal strip Y is dipped into CuSO₄:

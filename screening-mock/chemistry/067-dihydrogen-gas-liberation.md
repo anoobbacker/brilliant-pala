@@ -1,4 +1,4 @@
-## Question
+# Question
 How many elements among the following liberate dihydrogen gas from dilute hydrochloric acid at 298 K ?
 
 i) Lead (Pb)
@@ -10,6 +10,32 @@ vi) Mercury (Hg)
 vii) Magnesium (Mg)
 viii) Sodium ( Na )
 ix) Potassium (K)
+
+---
+# Answer
+## Quick visual reasoning
+- Imagine dropping each metal into a beaker of dilute hydrochloric acid and just watching: if you see fizzing (tiny bubbles), that’s hydrogen being pushed out by the metal.
+- Which metals are “pushy” enough to shove hydrogen away from the acid?
+  - Sodium, Potassium: they’re so eager they fizz violently even with water, so with acid they’ll certainly make lots of bubbles.
+  - Magnesium: known to be lively; in acid it fizzes clearly.
+  - Iron: not flashy with water, but acids clean iron by visible fizzing—so yes.
+  - Lead: starts to fizz, then quickly grows a thin, whitish crust that chokes the reaction; but the initial bubbles mean it does liberate hydrogen.
+- Which ones stay calm (no bubbles)?
+  - Copper, Silver, Gold: used for coins/jewelry because they don’t get eaten by mild acids—no fizz.
+  - Mercury: sits as a shiny liquid and needs a stronger, “biting” acid to react—no fizz with dilute hydrochloric acid.
+
+So the ones that do liberate hydrogen: Pb, Fe, Mg, Na, K → total 5.
+
+## Create twists
+- Visual traps:
+  - “Lead looks coated, so it must not react.” Spot the initial fizz before the crust forms—brief bubbles still count.
+  - “Copper is a metal, acids dissolve metals.” Watch: copper sits there in dilute hydrochloric acid—no bubbles. Coins don’t fizz in mild acid.
+- Same idea, different look:
+  - If a metal fizzes with cold water (like Na, K), it will certainly fizz with dilute acid.
+  - If a metal is used for jewelry or coins (Cu, Ag, Au), expect no fizz in dilute acid.
+- Nature/engineering echoes:
+  - Descaling iron with acid produces tiny bubbles—hydrogen—proving iron pushes hydrogen out of acids.
+  - Lead pipes can resist by forming a protective crust; scratch it and you may see a brief return of fizz, showing the underlying tendency.
 
 ## Big Idea (start from what you’ve seen)
 - When some metals touch dilute acid, we see bubbles. Those bubbles are hydrogen gas, H2.

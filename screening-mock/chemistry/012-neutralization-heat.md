@@ -7,7 +7,21 @@ In neutralization reaction
 
 ---
 # Answer
+## Quick visual reasoning
+- Imagine acid as pieces with sharp hooks and a base as pieces with matching loops. When you mix them, the hooks and loops snap together cleanly.
+- That snap is like two magnets clicking into place: the “tension” is released as warmth. If you hold the beaker, it feels warmer after mixing.
+- No rusting or burning look appears, so it’s not oxidation.
+- So, heat is evolved. Answer: B.
 
+## Create twists
+- Visual trap 1: “It felt cool, so heat was absorbed.” Cooling can come from evaporation or gas bubbling. The core hook-loop snap of neutralization itself gives off warmth.
+- Visual trap 2: “Oxidation” sounds like “oxygen,” so you might think it happens. Oxidation shows browning/rusting/burning vibes; neutralization just calms acid and base into a stable liquid and warms slightly.
+- Visual trap 3: Fizzing (like vinegar and baking soda) can feel cold due to gas escape and evaporation, hiding the warm snap underneath.
+
+- Same idea elsewhere:
+  - Antacids calming stomach acid: the “snap” tames the acid and can release a bit of warmth.
+  - Lab practice: adding acid to base slowly—because the mix heats up and can splatter if rushed.
+  - Wastewater treatment: when balancing acidic and basic streams, tanks often get slightly warmer from the snap-together neutralization.
 
 ## What really happens in a neutralization reaction?
 

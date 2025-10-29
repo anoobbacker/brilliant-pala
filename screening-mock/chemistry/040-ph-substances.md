@@ -11,6 +11,33 @@ vi) Lemon juice
 ---
 # Answer
 
+## Quick visual reasoning
+Think “pH ≥ 7” as “neutral or basic.” Use everyday feel: sour → acid; slippery/soapy/antacid → base; plain → neutral.
+
+- Gastric juice: sharp, sour stomach acid → below neutral → no.
+- Blood: body keeps it slightly on the basic side to safely cancel small acids → yes.
+- Aqueous sodium hydroxide: classic slippery, drain-cleaner base → yes.
+- Pure water: plain neutral → equals neutral → yes.
+- Milk of magnesia: antacid that calms stomach acid → must be basic → yes.
+- Lemon juice: sour citrus → acid → no.
+
+Count with pH equal to or more than neutral: 4 (blood, NaOH solution, pure water, milk of magnesia).
+
+## Create twists
+- Visual traps:
+  - “Milk of magnesia” isn’t milk; it’s an antacid base.
+  - Neutral water won’t turn red litmus blue (no change), yet it still counts as “≥ neutral.”
+  - Blood isn’t acidic; it’s kept slightly basic to buffer everyday acids.
+
+- Same idea, different look:
+  - “Which would calm stomach acid?” → antacids and bases: milk of magnesia, NaOH (though not for consumption), and blood’s buffering; water is neutral.
+  - “Which taste/feel?” Sour → acid (lemon, gastric). Slippery/soapy or chalky-antacid → base (NaOH, milk of magnesia). Plain → neutral (water).
+
+- Nature/engineering echoes:
+  - Antacid tablets (like milk of magnesia) neutralize excess stomach acid.
+  - Drain cleaners (strong bases) break greasy clogs.
+  - Oceans and blood use mild basicity to buffer added acids.
+
 ## Think first: sour vs. slippery.
 - Sour things (lemon juice, stomach acid) are acidic → pH < 7.
 - Slippery/soapy things (NaOH, milk of magnesia) are basic → pH > 7.

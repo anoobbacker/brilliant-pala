@@ -8,10 +8,28 @@ Dry ice is
 ---
 # Answer
 
-### Start with a real-world clue
-Have you seen “stage fog” rolling along the floor at concerts? That spooky mist often comes from dry ice. Notice there’s no puddle left behind when it “melts.” That’s the hint: it doesn’t actually melt into a liquid at normal air pressure—so it’s “dry.”
+## Quick visual reasoning
+- Picture a white block that vanishes without leaving a puddle, making a thick, low-lying fog that spills off a table. That “fog” hugs the ground and snuffs candles.
+- That means: the solid turns straight into a heavy gas that pushes air away. The same gas makes fizzy bubbles in drinks.
+- Carbon dioxide fits this picture perfectly: a chunk becomes the same stuff that makes soda fizz and the fog blanket used on stage.
+- The others don’t match the look-and-feel:
+  - Solid ammonia would reek sharply and makes things wet because it loves water—hardly “dry.”
+  - Solid sulfur dioxide is a harsh, choking gas—unsafe for stage or shipping food.
+  - Nitrogen is usually seen as a boiling liquid in labs, not handy white blocks that “smoke.”
 
----
+So the only substance that behaves like “dry ice” is solid carbon dioxide.
+
+## Create twists
+- Visual traps to avoid:
+  - “Dry” means “colder than regular ice, so it must be nitrogen.” But nitrogen shows up as a splashing, boiling liquid; dry ice is a solid block that vanishes with no puddle.
+  - “That fog is smoke from burning.” It’s actually water from the air condensing in the cold carbon dioxide cloud.
+- Same idea, different-looking problems:
+  - Which gas extinguisher makes “snow” that blankets flames? The one that forms a heavy cloud: carbon dioxide.
+  - Which solid can carbonate water by itself? The one that turns into the same bubbles in soda: carbon dioxide.
+- Where it appears in nature/engineering:
+  - Stage effects and haunted-house fog.
+  - Shipping ice cream without drips—blocks that disappear cleanly.
+  - Filling a jar with the cold cloud puts out a candle—air gets pushed out by carbon dioxide.
 
 ### Intuitive idea first
 - Ordinary ice (frozen water) turns into liquid water when warmed.
@@ -42,7 +60,8 @@ Only CO₂ at 1 atm cleanly sublimes in everyday conditions, which is why “dry
   - Vigorous bubbling (CO₂ gas escaping).
   - A white fog forms above the water. That fog is tiny water droplets from the air, cooled by the very cold CO₂ gas—not “CO₂ smoke.”
 - Pass the gas into limewater:
-  ```math
+
+```math
   \text{CO}_2(g) + \text{Ca(OH)}_2(aq) \rightarrow \text{CaCO}_3(s) + \text{H}_2\text{O}(l)
   ```
   The limewater turns milky due to calcium carbonate—proof the gas is CO₂.

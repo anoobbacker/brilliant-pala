@@ -8,6 +8,47 @@ In which among the following electrovalent compounds both cation and anion posse
 ---
 # Answer
 
+## Quick visual reasoning
+Think of each row of the periodic table as a shelf with a “full stop” at the far right (the noble gas). Metals on the left roll backward to the last full stop; nonmetals near the right roll forward to the next full stop.
+
+Check each compound by seeing where each ion lands:
+
+- Calcium fluoride (CaF2)
+  - Calcium is two spots past argon, so Ca2+ rolls back to argon.
+  - Fluorine is one spot before neon, so F− rolls forward to neon.
+  - Different full stops → not the same.
+
+- Sodium chloride (NaCl)
+  - Sodium is just past neon, so Na+ rolls back to neon.
+  - Chlorine is just before argon, so Cl− rolls forward to argon.
+  - Different full stops → not the same.
+
+- Sodium oxide (Na2O)
+  - Sodium is just past neon, so Na+ rolls back to neon.
+  - Oxygen is two before neon, so O2− rolls forward to neon.
+  - Same full stop (both neon) → match.
+
+- Magnesium chloride (MgCl2)
+  - Magnesium is two past neon, so Mg2+ rolls back to neon.
+  - Chlorine is one before argon, so Cl− rolls forward to argon.
+  - Different full stops → not the same.
+
+Answer: Sodium oxide (Na2O).
+
+## Create twists
+- Typical traps
+  - “If the ratio is 1:1, they must match.” Not true—NaCl is 1:1 but lands on neon vs argon.
+  - “If both elements are in the same row, they match.” Often the opposite: the metal falls back, the nonmetal moves forward to different noble gases (as in NaCl).
+  - “Bigger charge means same ending.” Charge size doesn’t tell you which noble gas; positions on the shelf do.
+
+- Use the idea on different-looking problems
+  - Quick spot rule: A metal just after a noble gas paired with a nonmetal just before that same noble gas will match. Examples:
+    - NaF and MgO → both end up neon-like.
+    - KCl and CaS → both end up argon-like.
+
+- Seen in nature/engineering
+  - Ions that “finish” on the same noble-gas shell often build very similar crystal patterns (like many rock-salt–type solids). That repeating, sturdy lattice is nature’s way of showing those filled shells are especially stable.
+
 ## Goal
 Find which ionic compound has both its cation and anion ending up with the same noble gas (inert gas) electron configuration.
 

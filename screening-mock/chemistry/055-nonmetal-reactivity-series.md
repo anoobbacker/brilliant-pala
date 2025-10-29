@@ -8,6 +8,7 @@ The only non- metal included in the reactivity series of metals, is:
 3. He
 4. Br
 
+---
 ## Answer: H (Hydrogen)
 
 ## Why this makes sense — built from first principles

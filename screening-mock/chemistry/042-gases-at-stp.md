@@ -6,8 +6,34 @@ iii) Gold (Au)
 iv) Nitrogen (N₂)  
 v) Silver (Ag)  
 vi) Oxygen (O₂)
+
 ---
 # Answer
+
+## Quick visual reasoning
+- Carbon dioxide (CO2): Think of soda bubbles and your breath—both escape into the air. Dry ice left on a table doesn’t leave a puddle; it vanishes into the air. That means at room conditions it’s a gas.
+- Diamond (carbon): A gemstone that sits in a ring—clearly a solid.
+- Gold (Au): Jewelry stays put on your finger; not drifting around the room—solid.
+- Nitrogen (N2): When people make “liquid nitrogen,” they must chill it a lot. So at ordinary room conditions it’s a gas.
+- Silver (Ag): Spoons, jewelry—solid at room conditions.
+- Oxygen (O2): The gas from an oxygen cylinder feeds flames and lungs. To make it liquid you must chill it a lot—so at room conditions it’s a gas.
+
+Gases here: CO2, N2, O2 → 3.
+
+## Create twists
+- Visual trap: “Dry ice is solid, so CO2 must be solid.” Fix: Watch dry ice in a warm room—no puddle, only fog that fades. It’s not stable as a solid at room conditions; it becomes gas.
+- Trap: “Heavy things can’t be gases.” Fix: Some gases are heavier than air but still float around the room; they just sink lower, yet remain gases.
+- Trap: “Carbon in CO2 means it behaves like diamond.” Fix: Same element, different bonding—diamond is a rigid network; CO2 is tiny separate molecules that move freely as gas.
+
+- Same idea, different problem: Chlorine, bromine, iodine at room conditions—chlorine drifts as a pungent greenish gas, bromine sloshes as a red-brown liquid, iodine sits as a shiny purple solid that slowly gives off violet vapor. Use what you’d see or smell in a lab, not formulas.
+
+- Nature/engineering echoes:
+  - Soda fizz and fire extinguishers: CO2 escapes as gas.
+  - Oxygen cylinders feed flames and breathing—gas at room conditions.
+  - “Liquid nitrogen” shows you must cool it a lot; otherwise it’s a gas.
+  - Metals like gold and silver make sturdy objects—clearly solids unless heated in a furnace.
+
+Final count: 3 gases.
 
 ## Which of these are gases at 1 atm and 300 K?
 
@@ -23,7 +49,8 @@ At room-like conditions (1 atm, about 27°C = 300 K), small molecules with weak 
 
 ### The core criterion (built from first principles)
 - Thermal energy scale at temperature T is roughly:
-  ```math
+
+```math
   E_{\text{thermal}} \sim k_B T
   ```
   At 300 K, this is enough to separate weakly attracting molecules like N₂, O₂, CO₂, but nowhere near enough to break the strong bonding in metals or diamond.

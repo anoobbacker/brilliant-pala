@@ -1,4 +1,4 @@
-## Question
+# Question
 Vinegar on reaction with baking soda produces a gas which when passed through lime water turns it milky. The milkiness is due to the formation of
 
 **Options:**
@@ -8,8 +8,25 @@ Vinegar on reaction with baking soda produces a gas which when passed through li
 3. Calcium carbonate
 4. Calcium bicarbonate
 
-## Short answer
-Option 3: Calcium carbonate.
+---
+# Answer
+## Quick visual reasoning
+- Vinegar on baking soda fizzes like a soda drink — that gas is the same one that makes bubbles in fizzy drinks.
+- Bubble this gas through clear limewater: it suddenly turns cloudy, like diluted milk. That means tiny solid particles have formed and are floating around.
+- What solid forms when this gas meets the calcium in limewater? Think chalk: a fine white, cloudy solid. Chalk is calcium carbonate.
+- So the new milky solid is calcium carbonate.
+
+Answer: 3. Calcium carbonate
+
+## Create twists
+- Visual trap 1: “Calcium hydroxide” is already in limewater. Since the limewater was clear before the gas, it can’t be the cause of new milkiness.
+- Visual trap 2: “Calcium bicarbonate” usually stays dissolved; in fact, if you keep bubbling the gas for long, the milkiness can fade because the chalk dissolves into this form. So the first milkiness isn’t bicarbonate.
+- Same idea, different look:
+  - Blow into limewater with a straw: it turns milky — breath contains the same fizz gas.
+  - Drop acid on a seashell or limestone: it fizzes; the gas bubbled into limewater turns it milky — again, chalk forms.
+- In nature/engineering:
+  - Caves: water with the fizz gas dissolves rock; later the gas escapes and chalky rock (calcium carbonate) reappears as stalactites.
+  - Concrete surfaces slowly form a chalky skin when the fizz gas in air reacts with the calcium in concrete.
 
 ## Derive it from first principles (clear, causal, connected)
 
@@ -68,7 +85,8 @@ Therefore, the milkiness is due to calcium carbonate.
 ### 4) Why not the other options?
 - Calcium hydroxide (option 2) is the original limewater; it’s dissolved and clear. It doesn’t cause milkiness—CO2 consumes it to make CaCO3.
 - Calcium bicarbonate (option 4), Ca(HCO3)2, is soluble. In fact, bubbling excess CO2 can dissolve the CaCO3 milkiness by forming Ca(HCO3)2:
-  ```math
+
+```math
   \mathrm{CaCO_3\,(s) + CO_2 + H_2O \to Ca(HCO_3)_2\,(aq)}
   ```
   So bicarbonate clears the milkiness, it doesn’t cause it.

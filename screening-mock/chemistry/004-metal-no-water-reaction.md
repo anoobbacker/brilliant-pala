@@ -7,6 +7,20 @@ The metal which does not react with water
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture a clear bowl of water. Drop each metal in your mind:
+- Sodium: a soft silvery blob skates, hisses, and may flame on the surface — very reactive.
+- Potassium: does the same, even wilder — clearly reacts.
+- Calcium: a small bit sinks and slowly releases tiny bubbles; water turns slightly cloudy over time — slow reaction.
+- Nickel: think of a coin sitting in a glass of water for days — no bubbles, no cloudiness, no change.
+
+Therefore, the one that does not react with water is C) Ni.
+
+## Create twists
+- Typical trap: “All metals react with water.” Quick check: coins in fountains don’t fizz — many don’t react.
+- Typical trap: Mixing up slow with none. Calcium’s faint bubbles and cloudiness show it’s reacting, just gently.
+- Same idea, different look: Choosing materials for pipes or tanks? Favor coin-like, hard, shiny metals (nickel/stainless) that sit quietly in water.
+- Nature/engineering check: Sodium/potassium must be stored under oil because water sets them off; nickel-containing alloys are used where water contact is constant, proving water leaves nickel alone.
 
 ## Why? Think like this:
 - What does “react with water” mean? The metal gives electrons to water molecules, making hydrogen gas bubble out and forming a metal hydroxide in the water.

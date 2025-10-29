@@ -1,6 +1,27 @@
-## Question
+# Question
 How many different products are produced when electricity is passed through an aqueous solution of sodium chloride in chlor-alkali process?
 
+---
+# Answer
+## Quick visual reasoning
+- Picture salty water with two rods and a battery.
+- At the positive rod, the salt’s “chloride” parts crowd in, meet in pairs, and leave as a sharp-smelling, greenish gas: chlorine. That’s product 1.
+- At the negative rod, the water itself is tugged apart; the lightest part escapes as quick, fine bubbles: hydrogen gas. That’s product 2.
+- What’s left in the water? The “sodium” from the salt teams up with the leftover “alkaline” part from the torn water, making a slippery, soapy-feel liquid: sodium hydroxide solution. That’s product 3.
+
+Answer: 3 products — chlorine gas, hydrogen gas, and sodium hydroxide solution.
+
+## Create twists
+- Typical trap: “Sodium metal forms.” In water, any shiny sodium would instantly fizz away; you never see a metal coating. So instead you get an alkaline solution.
+- Typical trap: “Oxygen forms at the positive rod.” In salty water, the crowded chloride leaves first; you notice the pool-bleach smell and color clue of chlorine, not the scentless oxygen.
+- Typical trap: Counting ions as extra products. The new things are two gases and the liquid turning alkaline, not the original ions themselves.
+
+- Same idea in different clothes:
+  - If the salt were melted with no water: you’d get two products only — a shiny metal at one side and a green gas at the other.
+  - If it were just water with a little acid: both gases come from water, giving a pair of different gases, no alkaline solution left behind.
+
+- Seen in the real world:
+  - Factories co-make chlorine and caustic soda (the slippery alkali) in one tank, while the bubbling hydrogen is collected as a clean fuel.
 ## Short answer
 Three different products are formed: chlorine gas (Cl2), hydrogen gas (H2), and sodium hydroxide solution (NaOH).
 

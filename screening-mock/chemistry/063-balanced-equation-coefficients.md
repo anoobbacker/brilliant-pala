@@ -1,5 +1,29 @@
-## Question
+# Question
 The sum of smallest whole number co-efficients $x, y$ and $z$ in the balanced equation $\mathrm{xH}_{2(\mathrm{~g})}+\mathrm{yO}_{2(\mathrm{~g})} \longrightarrow \mathrm{ZH}_2 \mathrm{O}_{(\ell)}$ is .......
+
+---
+# Answer
+## Quick visual reasoning
+- See each water as a “V”: two H hands holding one O head.
+- Left side supplies pieces in pairs: H2 is H–H, O2 is O–O.
+- Making just one water would use only one O and leave its twin unused. So make waters in pairs to use both O’s together.
+- Two waters need four H’s total. That’s exactly two H2 pairs.
+- So the neat, no-leftover build is: 2 H2 + 1 O2 → 2 H2O.
+- Sum of coefficients: 2 + 1 + 2 = 5.
+
+## Create twists
+- Visual traps to avoid:
+  - Building one water: leaves a lonely O behind. Oxygen arrives two-at-a-time; make an even number of waters.
+  - Forgetting H2 is also paired. Luckily, each water needs exactly two H’s, so one H2 per water fits perfectly.
+  - Using “half an O2”: if you ever imagine that, double everything to keep whole molecules.
+
+- Same idea, different look:
+  - H2 + Cl2 → HCl: both are pairs; each HCl uses one H and one Cl. Make two HCl so both pairs are fully used: 1 H2 + 1 Cl2 → 2 HCl.
+  - N2 + H2 → NH3: nitrogen comes as a pair; build ammonia in a batch that uses both N’s with no leftovers—force an even count of NH3 so both N atoms are used.
+
+- Nature/engineering echo:
+  - In water electrolysis, you see two hydrogen bubbles for every one oxygen bubble—the pairing logic in reverse.
+  - Rocket exhaust making steam follows the same “no leftovers” pairing: the gases meet in exact whole-pair amounts to form only water.
 
 ## Understanding the problem from first principles
 
@@ -26,7 +50,8 @@ Let’s count hydrogen and oxygen atoms on both sides.
   Left side has 2 per H2, and there are x of them → total hydrogen = 2x.
   Right side has 2 per H2O, and there are z of them → total hydrogen = 2z.
   Conservation demands:
-  ```math
+
+```math
   2x = 2z \quad \Rightarrow \quad x = z
   ```
 
@@ -34,7 +59,8 @@ Let’s count hydrogen and oxygen atoms on both sides.
   Left side has 2 per O2, and there are y of them → total oxygen = 2y.
   Right side has 1 per H2O, and there are z of them → total oxygen = z.
   Conservation demands:
-  ```math
+
+```math
   2y = z
   ```
 
@@ -72,11 +98,13 @@ Our equations gave x = 2k, y = k, z = 2k. Any k = 2, 3, … would simply scale a
 
 - Fraction method (alternate balancing strategy):
   Start with:
-  ```math
+
+```math
   \mathrm{H_2} + \tfrac{1}{2}\mathrm{O_2} \to \mathrm{H_2O}
   ```
   Multiply entire equation by 2 to clear the fraction:
-  ```math
+
+```math
   2\mathrm{H_2} + 1\mathrm{O_2} \to 2\mathrm{H_2O}
   ```
 

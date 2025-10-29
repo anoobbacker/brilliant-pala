@@ -8,6 +8,17 @@ Rust is chemically
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture two nails: one in a dry cupboard, one in rain. Only the rainy one grows that fluffy, reddish crust. So water isn’t just a helper — it’s part of the rust itself.
+- Rust swells and flakes like a damp sponge. That “puffy” look signals water trapped inside the oxide — a hydrated oxide.
+- The chloride option would need chlorine (salty/acidic conditions). Everyday rust forms without salt, so not a chloride.
+- The option with a methyl group is organic; air and rain don’t supply that, so it can’t be rust.
+- Therefore choose the hydrated iron oxide option: B (C is identical text).
+
+## Create twists
+- Typical trap: “Rust is just dry oxide.” Quick check: gently heating rust drives off steam and it darkens — proof water sits in it.
+- Different-looking problem solved the same way: “Why does rust lift paint?” The water-filled oxide bulks up like a swelling sponge, prying paint off.
+- In nature/engineering: Red soils and iron bridges show the same story — keep water out (paint, oil, stainless’ tight film) and you block the “sponge” from forming.
 
 ### Start with a real-world picture
 

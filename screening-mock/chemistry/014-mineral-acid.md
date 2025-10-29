@@ -7,7 +7,25 @@ Which of the following is a mineral acid?
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture two families:
+  - Mineral acids: feel like a gas dissolving in water (a bubble meets a droplet), no carbon–hydrogen “backbone.”
+  - Organic acids: look like a tiny carbon chain “body” clothed with hydrogens, with an acidic “claw” at the end.
+- Scan each:
+  - H₂CO₂: one carbon with some hydrogens around it → tiny carbon body → organic look.
+  - H₄C₂O₂: two carbons with more hydrogens → small chain → organic vibe (vinegar-like family).
+  - H₆C₂O₂: two carbons soaked in hydrogens, hardly any oxygen → more like an alcohol-type body, not an acid feel.
+  - H₂CO₃: imagine a CO₂ bubble slipping into water and becoming an acid inside fizz → no C–H chain → mineral.
+- So the mineral acid is D) H₂CO₃.
 
+## Create twists
+- Visual traps to avoid:
+  - “If it has carbon, it must be organic.” Not always. If there’s no carbon–hydrogen backbone (like the fizz-from-CO₂-in-water acid), it’s mineral.
+  - “More hydrogens means stronger acid.” Strength isn’t about how many H’s are printed; it’s about how the structure lets them leave.
+- Use the same idea elsewhere:
+  - Given a list, quickly sort by sight: those with a carbon chain (C’s hugged by H’s) are organic; those that look like a gas-in-water product (no C–H chain) are mineral.
+- Nature/engineering check:
+  - Soda fizz and cave formation: CO₂ dissolves in water to make a short-lived acid—mineral in character. That’s the same pattern as H₂CO₃.
 
 ## Which of these is a mineral (inorganic) acid?
 

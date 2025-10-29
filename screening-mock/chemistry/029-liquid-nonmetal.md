@@ -7,6 +7,31 @@ The liquid non-metal at room temperature ($298\,\text{K}$) is
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture each element as you’d meet it in a lab:
+  - Chlorine: yellow-green suffocating gas kept in heavy cylinders. Gas, not liquid.
+  - Mercury: shiny, mirror-like puddle that flows. Liquid, but it’s a metal.
+  - Bromine: dark reddish-brown, sloshes like thick liquid and gives off colored fumes. Liquid and not metallic.
+  - Phosphorus: waxy solid pieces (often kept under water). Solid, not liquid.
+
+So the only liquid non-metal at room conditions here is Bromine.  
+Answer: 3) Bromine
+
+## Create twists
+- Common trap: picking Mercury because it’s a famous liquid. But its shiny, mirror look screams metal; the question asks for a non-metal.
+- Another trap: thinking “chlorine water” means liquid chlorine. That’s just gas dissolved in water; the element itself is a gas at room conditions.
+- Quick pattern to spot: as you move from light to heavier non-metals in the same family (like chlorine → bromine → iodine), they go gas → liquid → solid because heavier particles cling together more strongly, so they flow less and settle into liquid or solid.
+
+Use the same idea elsewhere:
+- “Which is a gas here?” → Chlorine.
+- “Which is a solid non-metal here?” → Phosphorus.
+- “Which liquid here is a metal?” → Mercury.
+
+In the real world:
+- Chlorine: stored in gas cylinders for water treatment.
+- Bromine: stored in sealed bottles; you can see the dark liquid and fumes.
+- Mercury: the silvery liquid once used in thermometers.
+- Phosphorus: waxy chunks stored under water to prevent it catching fire.
 
 ## Start with a simple question
 Why is water liquid, air a gas, and ice solid at the same room temperature? Because there’s a tug-of-war between:

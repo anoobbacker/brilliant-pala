@@ -8,6 +8,27 @@ On treating with aqueous sodium hydroxide which is an alkali, ester is converted
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture an ester as two pieces snapped together by a clip: an “acid tail” and an “alcohol head.”
+- Drop it into watery alkali (sodium hydroxide). The alkali acts like soap-making lye: it pries open the clip.
+- The acid tail grabs the sodium and becomes a soap-like salt; the other piece is released as an alcohol.
+- That’s exactly the classic “boil fat with lye to make soap” story — hence the name saponification.
+
+Why the others don’t fit:
+- Esterification: the opposite direction — snapping the clip together (acid + alcohol join), not breaking it.
+- Neutralisation: just acid + base to make salt and water; no big molecule being split into alcohol plus an organic salt.
+- Dehydration: removing water from something; here the molecule is being opened up in wet alkali.
+
+Answer: 2) Saponification
+
+## Create twists
+- Trap: Seeing “alkali” and thinking “neutralisation.” Spot the giveaway: a large molecule splits and one fragment becomes an organic sodium salt — that’s soap-like.
+- Trap: The word “ester” nudges “esterification.” Check the direction: building vs breaking. If it breaks into alcohol plus sodium carboxylate, it’s saponification.
+
+Use the same idea elsewhere:
+- Fats (which are esters) cooked with lye give soap and glycerol — everyday saponification.
+- In digestion, enzymes do a gentler version: they also unclip esters into acid parts and alcohol parts.
+
 ## Think from real life first:
 - Traditional soap is made by boiling fats or oils with lye (sodium hydroxide). Fats and many oils are esters. Lye is a strong alkali (NaOH). The reaction breaks the ester into:
   - an alcohol (from the “alcohol part” of the ester), and

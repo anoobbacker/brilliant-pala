@@ -8,6 +8,21 @@ Butanone is a four carbon compound with the functional group of which class of c
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture a 4-bead carbon chain: bead–bead–bead–bead.
+- “Butanone” ends with “-one.” Think “one eye in the middle”: a double-bonded oxygen sticking to an inside bead, not the end.
+- If the double-oxygen is on an inside carbon with carbons on both sides, that’s a ketone.
+- Aldehyde would have the double-oxygen on an end bead with a hydrogen there.
+- Carboxylic acid would look like a fork at the end: one double-oxygen plus an -OH.
+- Alcohol would be just an -OH on any bead, no double-oxygen.
+
+Answer: 1) Ketone.
+
+## Create twists
+- Common trap: mixing “-one” and “-ol.” “-one” = middle double-oxygen (ketone). “-ol” = just -OH (alcohol).
+- Butanal vs butanone: “-al” means the double-oxygen sits at the end (aldehyde). “-one” means it sits in the middle (ketone).
+- Different-looking problem: “Propanone” uses the same picture—3 beads with the double-oxygen on the center bead → ketone.
+- In the real world: Nail-polish remover (acetone) is a classic ketone—oxygen double-bond on a middle carbon, balanced by carbons on both sides.
 
 ## What does “butanone” really tell us?
 

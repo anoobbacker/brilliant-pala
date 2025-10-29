@@ -8,6 +8,7 @@ Plaster of Paris on mixing with water changes to
 3. Bleaching powder
 4. Quicklime
 
+---
 ## Answer with First-Principles Reasoning
 
 Plaster of Paris is the white powder used to make casts and sculptures. When you add water, it quickly turns into a hard solid. Why?
@@ -21,7 +22,8 @@ Most common building salts are “hydrated” — they have water locked into th
 
 - Gypsum (a natural mineral) has the formula:
   
-  ```math
+
+```math
   \text{Gypsum: } CaSO_4 \cdot 2H_2O
   ```
   
@@ -29,13 +31,15 @@ Most common building salts are “hydrated” — they have water locked into th
 
 - If you gently heat gypsum (about 120–180°C), some of that water is removed, but not all. The crystal becomes “half-hydrated,” called Plaster of Paris:
   
-  ```math
+
+```math
   CaSO_4 \cdot 2H_2O \xrightarrow{\text{heat}} CaSO_4 \cdot \tfrac{1}{2}H_2O + \tfrac{3}{2}H_2O \uparrow
   ```
   
   So Plaster of Paris is:
   
-  ```math
+
+```math
   \text{Plaster of Paris (POP): } CaSO_4 \cdot \tfrac{1}{2}H_2O
   ```
 

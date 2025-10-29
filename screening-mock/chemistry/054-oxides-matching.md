@@ -16,6 +16,7 @@ appropriate match from the choices given:
 $(\mathrm{c}) \rightarrow(\mathrm{i}),(\mathrm{q})$
 4. (a) $\rightarrow$ (i), (q) (b) $\rightarrow$ (ii), (r) (c) $\rightarrow$ (iii),(p)
 
+---
 ## Think like a chemist: what does an oxide “do” in water or with acids/bases?
 
 Start from what you’ve seen:
@@ -44,7 +45,8 @@ We’ll use these ideas plus simple experiments to match each oxide.
 - What does O²⁻ do in water? It pulls H⁺ from water, making OH⁻. So it creates a base.
   
   Experimentally:
-  ```math
+
+```math
   \text{CaO (s) + H}_2\text{O (l)} \rightarrow \text{Ca(OH)}_2 \text{ (aq)}
   ```
   - The aqueous solution of Ca(OH)₂ is called “lime water” (clear, mildly basic).
@@ -57,13 +59,15 @@ We’ll use these ideas plus simple experiments to match each oxide.
 ### (c) CO₂ — a nonmetal oxide
 - Nature: CO₂ is a covalent molecule (nonmetal + oxygen).
 - In water, CO₂ forms carbonic acid:
-  ```math
+
+```math
   \text{CO}_2 \text{ (g) + H}_2\text{O (l)} \rightleftharpoons \text{H}_2\text{CO}_3 \text{ (aq)}
   ```
   That’s acidic behavior (it can release H⁺).
 
 - Classic test: Bubble CO₂ through lime water (Ca(OH)₂). It turns milky due to CaCO₃ precipitate:
-  ```math
+
+```math
   \text{Ca(OH)}_2 \text{ (aq) + CO}_2 \text{ (g)} \rightarrow \text{CaCO}_3 \text{ (s) + H}_2\text{O (l)}
   ```
   The white CaCO₃ makes the milky appearance.
@@ -75,17 +79,20 @@ We’ll use these ideas plus simple experiments to match each oxide.
 ### (a) ZnO — a “borderline” metal oxide
 - Zinc is a metal, but Zn²⁺ is small and fairly polarizing. This gives ZnO some covalent character and an “in-between” behavior.
 - Test with an acid (acts basic):
-  ```math
+
+```math
   \text{ZnO (s) + 2HCl (aq)} \rightarrow \text{ZnCl}_2 \text{ (aq) + H}_2\text{O (l)}
   ```
 - Test with a base (acts acidic), forming zincate:
-  ```math
+
+```math
   \text{ZnO (s) + 2NaOH (aq) + H}_2\text{O (l)} \rightarrow \text{Na}_2[\text{Zn(OH)}_4] \text{ (aq)}
   ```
   (In simpler notation you’ll also see: ZnO + 2NaOH → Na₂ZnO₂ + H₂O.)
 
 - Industrial origin: ZnO is formed by roasting zinc sulfide (ZnS) in oxygen — a common metallurgy step (removing sulfur as SO₂):
-  ```math
+
+```math
   2\text{ZnS (s) + 3O}_2 \text{ (g)} \rightarrow 2\text{ZnO (s) + 2SO}_2 \text{ (g)}
   ```
 

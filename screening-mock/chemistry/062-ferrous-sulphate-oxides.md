@@ -1,10 +1,32 @@
-## Question
+# Question
 How many different oxides are formed when anhydrous ferrous sulphate is heated in a dry boiling tube over a flame?
 
-## Answer in one line
-Three different oxides are formed: iron(III) oxide (Fe2O3), sulfur dioxide (SO2), and sulfur trioxide (SO3).
-
 ---
+# Answer
+Three oxides: a brown solid iron oxide, plus two sulfur oxides (the sharp choking one and the mist-forming one).
+
+## Quick visual reasoning
+- Imagine the salt as “iron stuck to a sulfur-oxygen bundle.”
+- Heat snaps it apart. The heavy iron prefers to stay and hug oxygen, settling as a rusty-brown powder (iron oxide).
+- The sulfur side flies off as fumes. You see two behaviors:
+  - A sharp, choking gas like a burning match.
+  - A harsher vapor that instantly makes a white mist with moist air.
+- So you’ve got one solid oxide (iron) and two gaseous oxides (sulfur): total three.
+
+Names: iron(III) oxide, sulfur dioxide, sulfur trioxide.
+
+## Create twists
+- Typical visual traps:
+  - Counting steam: If crystals had water or the tube was damp, steam would appear; water is also an oxide. The question avoids this by saying anhydrous and dry.
+  - Assuming only one sulfur gas: Look for two clues—choking smell versus instant mist with moisture—showing two different sulfur oxides.
+
+- Use the same idea elsewhere:
+  - Heating a metal carbonate: the metal stays as a dull metal oxide; the non‑metal part escapes as one gas that snuffs flames.
+  - Roasting sulfide/sulfate ores in smelters: metals end as oxides; sulfur leaves as sulfur oxides.
+
+- In nature/engineering:
+  - The brown residue is the same stuff as rust—iron grabbing oxygen.
+  - Industry turns the sharp sulfur gas into the mist-forming one to make acid, matching the two gases seen here.
 
 ## Build-up from first principles
 

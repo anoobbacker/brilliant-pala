@@ -8,6 +8,31 @@ Which statement among the following is incorrect?
 ---
 # Answer
 
+## Quick visual reasoning
+- Pick the odd one out by “what it looks like.”
+- Alloys are like melted metals stirred together into a shiny uniform metal. Ores/compounds are rock-like crystals with fixed recipes.
+
+1) Cinnabar: picture a bright red mineral crystal in rocks. That’s a fixed crystal of mercury locked with sulphur, not a shiny metal mix. Also, an amalgam is mercury mixed with a metal; sulphur isn’t a metal. So this statement is wrong.
+
+2) 22-carat gold: imagine soft pure gold stiffened by a pinch of silver/copper for strength. That’s an alloy. True.
+
+3) Brass: think of copper’s smooth “highway” for charge flow now dotted with zinc “pillars.” It still conducts, but more sluggishly than copper. Calling it “not a good conductor” (compared to pure copper) is acceptable. True in intent.
+
+4) Solder: picture a thin wire that melts easily and flows to join parts—exactly why we use it. True.
+
+Incorrect statement: 1
+
+## Create twists
+- Visual trap: “Anything with mercury is an amalgam.” Spot it by asking: is the partner a metal and does it look like a metal mix? Cinnabar is a red rock-like crystal, not metallic.
+- Visual trap: “All alloys conduct well.” Many alloys add “bumps” to the path, so they conduct worse than their pure metals—even though they’re still metals.
+
+- Same idea, new look:
+  - Ore vs alloy check: ore looks like a mineral/rock with a fixed crystal recipe; alloy looks metallic, often tougher or easier to shape.
+  - Joining metals: low-melting alloys (like solder) flow and wet surfaces; high-melting pure metals don’t.
+
+- In the real world:
+  - Wires are copper (smooth highway). Connectors often use brass (sturdier but less conductive). Dental fillings are mercury amalgams with metals—never with non-metals like sulphur.
+
 ## Start with a simple idea: mixing vs reacting
 
 Think of two kitchen stories:

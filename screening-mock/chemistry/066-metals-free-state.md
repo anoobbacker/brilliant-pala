@@ -1,4 +1,4 @@
-## Question
+# Question
 Earth's crust is the major source of metals. Some metals are found in the earth's crust in the free state. How many of the following are examples of metals that are found in free state?
 
 i) Nickel
@@ -13,6 +13,31 @@ ix)Aluminium
 x)Lithium
 xi) Gold
 xii) Magnesium
+
+---
+# Answer
+## Quick visual reasoning
+- Imagine each metal buried in damp soil for years. If it comes out shiny, it can survive alone (free). If it turns dull, crusty, or powdery, it prefers to stay locked in rocks (combined).
+- Gold: stays bright → free.
+- Platinum: stays bright → free.
+- Silver: slowly dulls but can occur as nuggets → free.
+- Copper: slowly turns green but is found as lumps → free.
+- Iron: quickly rusts → not free (except meteorites, not crustal).
+- Nickel: buddies with iron; not free in crust → not free.
+- Zinc, Lead, Tin: skin over quickly; usually in sulfides/oxides → not free.
+- Aluminium: instantly skins; never free.
+- Lithium, Magnesium: react eagerly with air/water → never free.
+
+Count = 4 (Copper, Silver, Platinum, Gold).
+
+## Create twists
+- Trap: “Iron is strong, so it must be free.” Strength doesn’t matter; its eagerness to rust does.
+- Trap: “Silver tarnishes, so not free.” Tarnish is slow; silver still forms native wires/nuggets.
+- Trap: “Lead is soft, so safe.” Soft doesn’t mean unreactive; lead prefers sulfide (galena).
+
+Use the same idea elsewhere:
+- Jewelry that stays shiny without coating? Gold and platinum pass the “bury test.”
+- River sands with heavy shiny nuggets after floods? Typically gold or platinum—both resist corrosion and survive as free grains.
 
 ## Big idea in plain language
 If you leave different metals out in the open (air, moisture, soil), most of them quickly react with the environment and turn into compounds like oxides (with oxygen), sulfides (with sulfur), or carbonates (with carbon dioxide and water). Only a few metals are so “uninterested” in reacting that they can stay as pure, shiny metal for millions of years. Those are the ones we find “in the free (native) state” in the Earth’s crust.
@@ -33,10 +58,12 @@ Why? Because oxygen and sulfur “want” electrons strongly, and most metals ar
 
 - Simple redox picture:
   
-  ```math
+
+```math
   \text{Metal oxidation: } M \to M^{n+} + n e^-
   ```
-  ```math
+
+```math
   \text{Oxygen reduction (in moist air): } O_2 + 4 e^- + 2 H_2O \to 4 OH^-
   ```
   If combining these gives a big energy drop, the metal won’t stay free.

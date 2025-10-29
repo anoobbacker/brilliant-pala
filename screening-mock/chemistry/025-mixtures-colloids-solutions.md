@@ -13,6 +13,36 @@ Which of the following is correct about A, B, C and D?
 ---
 # Answer
 
+## Quick visual reasoning
+- Think of shining a torch:
+  - If the beam is visible, light is being bounced sideways by tiny bits suspended in it (like headlights in fog or dust).
+  - If the beam is invisible, it’s truly clear (like pure salt water).
+
+- Think of leaving the mixture still:
+  - If specks sink, they’re big and heavy enough to settle (like muddy water).
+  - If nothing settles, the bits are too tiny to drop (fog/milk/true solution).
+
+- Think of your eyes:
+  - If you can see specks, they’re large (muddy water).
+  - If you can’t, they’re tiny (milk/fog/salt water).
+
+Now match each:
+- A: beam visible + settles + specks seen → big bits that sink → suspension.
+- B and D: beam visible + no settling + no specks seen → tiny bits that scatter light but don’t sink → colloids.
+- C: beam invisible + no settling + no specks seen → truly clear → solution.
+
+Correct choice: 1) A is a suspension, B and D are colloids, C is a solution.
+
+## Create twists
+- Trap: “If particles are invisible, it must be a solution.” Not always—milk’s particles are invisible but still scatter light, so it’s a colloid.
+- Trap: “If nothing settles, it’s a solution.” Colloids also don’t settle.
+- Quick checks in disguise:
+  - Fog vs clear air: torch beam visible in fog (colloid), invisible in clear air (solution).
+  - River water after a night: mud settles (suspension); milk never settles (colloid).
+- Same idea elsewhere:
+  - Water treatment: settling tanks remove suspensions; colloids need coagulation because they don’t settle.
+  - Car headlights: beam “cuts through” clear air (solution) but becomes a bright shaft in fog (colloid).
+
 ## Classifying Mixtures from First Principles
 
 ### Start with a real-world question

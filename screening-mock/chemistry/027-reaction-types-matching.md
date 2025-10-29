@@ -23,6 +23,36 @@ Choose the most appropriate answer from the options given below:
 ---
 # Answer
 
+## Quick visual reasoning
+- i) “A compound breaks into its elements”  
+  Picture a two-color Lego brick splitting into two single-color bricks. One thing becomes simpler pieces. That’s decomposition → q.
+
+- ii) “A metal and a non‑metal react to form one ionic compound”  
+  Imagine a plus-magnet and a minus-magnet snapping together into one block. Two separate pieces become one. That’s combination → p.
+
+- iii) “A hydrogen–carbon compound reacts with oxygen to give carbon dioxide and water”  
+  Think of a fuel flame: it gulps air, makes invisible gas and mist, releasing heat and light. Classic burning. That’s combustion → t.
+
+- iv) “Silver ion meets bromide ion and a solid forms”  
+  Two dancing pairs in solution swap partners; one new pair is so tightly bound it falls out as a cloudy solid. That’s double displacement → s.
+
+So the matches are:
+(i - q); (ii - p); (iii - t); (iv - s)
+
+Correct option: 1
+
+## Create twists
+- Common trap: Calling (ii) displacement. Spot the difference: displacement is “one kicks another out.” Here no one gets kicked out; they simply join → combination.
+- Common trap: Mixing up (iv) with single displacement. In single displacement, one element replaces another. Here, two ions swap partners and a solid appears → double displacement.
+- Don’t confuse (i) with the reverse of (ii): direction matters. One thing splitting is decomposition; many becoming one is combination.
+- Combustion clue: presence of oxygen, flame/heat, and products that are “invisible gas” plus “water.”
+
+Use the same lens elsewhere:
+- Seeing gas bubbles when heating a single solid → likely decomposition.
+- Metal plus oxygen making an oxide layer → combination.
+- Candle/petrol burning to foggy water on a cold surface and invisible gas → combustion.
+- Mixing two clear salt solutions and getting milkiness/solid flakes → double displacement (precipitation), used in water treatment and lab tests.
+
 ## Match Reaction Types — think like patterns in everyday life
 
 Start with a simple picture: chemistry is like LEGO for atoms. Sometimes a big model breaks into pieces (decomposition). Sometimes small pieces snap together to make a bigger model (combination). Sometimes two pairs swap partners (double displacement). And sometimes a fuel reacts with oxygen to release energy as flame (combustion).

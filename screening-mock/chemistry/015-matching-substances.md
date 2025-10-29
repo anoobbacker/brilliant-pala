@@ -25,7 +25,34 @@ D) (1) - (c), (2) - (a), (3) - (ii) (b)
 
 ---
 # Answer
+## Quick visual reasoning
+- Air: Open a window—what comes in is a blend of many gases that still look invisible. Blending without a fixed recipe = mixture; looks clear = colourless.
+- Chlorine: In a jar, it has a faint green-yellow tint you can actually see. One kind of basic substance = element; tint = greenish yellow.
+- Rust: On old iron, the flaky brown layer isn’t metallic anymore—new stuff formed after reacting, with a fixed look and feel = compound; colour = brown.
 
+Matches:
+- 1) Air → mixture (c) and colourless (a)
+- 2) Chlorine → element (a) and greenish yellow (c)
+- 3) Rust → compound (b) and brown (b)
+
+Correct option: B
+
+## Create twists
+- Visual traps to avoid:
+  - “All gases are colourless” → chlorine isn’t; in sunlight, its green-yellow tint shows in a jar.
+  - “Air is a compound” → its proportions change place to place; mixtures vary, compounds don’t.
+  - “Rust is just iron mixed with oxygen” → it’s a new substance with different look and no metallic shine—so a compound.
+
+- Same idea, different look:
+  - Salt water: variable saltiness → mixture, colourless.
+  - Copper metal: one basic kind → element, reddish.
+  - Copper sulfate crystals: new fixed substance → compound, blue.
+
+- Nature/engineering check:
+  - Air is split into oxygen and nitrogen in industry—shows it’s a mixture.
+  - Chlorine’s greenish gas used for disinfection.
+  - Brown rust coats bridges and ships—clear sign of a new compound.
+  
 ## Match the substance, its type, and its colour — by thinking from first principles
 
 ### Start with a simple question

@@ -9,7 +9,7 @@ v) Copper
 vi) Zinc
 vii)Aluminium
 
-
+---
 ## Big idea first
 When you hammer a metal into a thin sheet without it cracking, you’re testing its malleability. Gold is famously used to make gold leaf so thin that light passes through it — that’s a clue that gold lets its atomic layers slide past each other very easily.
 

@@ -10,6 +10,31 @@ vi) Carbonic acid
 ---
 # Answer
 
+## Quick visual reasoning
+Think “Does it feel like a soft, molecule-from-life or like a mineral/pure carbon?”
+
+- Ammonium cyanate: behaves like a salt (crystalline, splits into ions in water) → mineral-like → not organic.
+- Fullerene: a soccer-ball cage made of only carbon atoms → it’s just the element carbon, not a compound → not an organic compound.
+- Acetic acid: vinegar smell, typical small carbon-based molecule from fermentation → organic.
+- Sodium bicarbonate: baking soda, part of the carbonate family (chalk/limestone vibes, makes fizz with acids) → mineral salt → not organic.
+- Urea: a simple biological molecule (from urine, used as fertilizer), soft molecular solid → organic.
+- Carbonic acid: the “fizz acid” of sparkling water, directly tied to carbon dioxide → mineral acid → not organic.
+
+Answer: 2 (acetic acid and urea).
+
+## Create twists
+- Visual traps to spot:
+  - “Contains carbon, so it’s organic.” Trap! Carbonates, bicarbonates, carbonic acid, and pure carbon forms feel mineral or elemental, not organic.
+  - “Must have carbon–hydrogen bonds.” Trap! Some clear organics (like urea) don’t show an obvious carbon–hydrogen handshake but are still organic by behavior and origin.
+  - “Fullerene looks like a fancy molecule, so organic.” Trap! It’s only carbon—an element—not a compound.
+
+- Same idea on a different-looking problem:
+  - Sugar vs limestone: sugar (soft, burns/caramelizes) → organic; limestone (rocky, gives fizz with acid) → inorganic.
+  - Ethanol vs carbon dioxide: ethanol (smelly liquid from fermentation) → organic; carbon dioxide (gas from combustion/fizz) → inorganic.
+
+- In nature/engineering:
+  - Vinegar and urea are classic “life-linked” molecular substances → organic.
+  - Baking soda, carbonic acid, and carbon structures (diamond/graphite/fullerene) sit in the mineral/element world → inorganic.
 
 ## What really makes something “organic” in chemistry?
 

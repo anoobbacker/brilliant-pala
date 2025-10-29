@@ -1,4 +1,4 @@
-## Question
+# Question
 Chlorine gas is liberated from HCl by the action of
 
 **Options:**
@@ -7,6 +7,34 @@ Chlorine gas is liberated from HCl by the action of
 2. ZnO
 3. MnO₂
 4. MgO
+
+---
+# Answer
+## Quick visual reasoning
+- Picture HCl as tiny pairs: H holding hands with Cl in water.
+- To see green chlorine gas, the H partners must be pulled away so two Cl’s can pair up and leave as a gas.
+- What each option does in acid:
+  - Fe: Metals steal the Cl partner for themselves, kicking H out as a colorless gas. So you get hydrogen, not chlorine.
+  - ZnO and MgO: Chalk-like basic oxides. They just calm the acid into water and dissolved salts—no gas.
+  - MnO2: A dark, oxygen-rich mineral that “grabs” hydrogen to make water. That strips H off H–Cl, leaving free Cl’s that quickly pair and bubble out as green chlorine.
+- So the one that liberates chlorine from HCl is MnO2.
+
+Answer: 3. MnO2
+
+## Create twists
+- Typical visual traps:
+  - “Any oxide + acid makes gas.” Most basic oxides just neutralize—quiet, no bubbles.
+  - “Metal + acid gives chlorine.” Metals push out hydrogen, not chlorine—bubbles are colorless, not green.
+
+- Same idea in a different look:
+  - From HBr, an oxidizer like MnO2 can pull off H so Br’s pair and leave as brown bromine vapor.
+  - Quick rule of thumb by sight:
+    - Metal wants the chloride partner → hydrogen gas.
+    - Oxygen-rich oxidizer wants hydrogen → halogen gas.
+
+- Seen in real life:
+  - Dry cell batteries use MnO2 to pull electrons—same “oxidizing” habit that lets it strip hydrogen here.
+  - Pool chlorination/bleach: oxidizers free reactive chlorine species—same core move of pulling something off so chlorine can show up.
 
 ## Intuitive starting point
 - To get chlorine gas (Cl₂) out of hydrochloric acid (HCl), the chloride ion in HCl (which is Cl⁻) must be “pulled up” to elemental chlorine (Cl₂).  

@@ -8,7 +8,29 @@ This milky appearance is due to the formation of
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture dropping a bit of calcium into water: tiny bubbles appear and a white cloud blooms around the metal.
+- Clear water means whatever forms dissolves completely. Cloudy, milky water means tiny solid particles are floating and scattering light, like diluted paint.
+- The very first thing water makes with calcium is the “slaked lime” solid that only partly dissolves, so you see that white cloud right away.
+- A carbonate would need carbon dioxide from air or breath to appear; that’s a second step, not the first moment calcium meets water.
+- Chloride needs chloride present (like salt), which plain water doesn’t have. Oxide is what you get when calcium meets oxygen, not water.
 
+So the milky look at the start is from calcium hydroxide.
+
+## Create twists
+- Common trap: mixing up two “milky” scenes.
+  - Calcium + water → immediate milky due to calcium hydroxide.
+  - Blowing into clear limewater → turns milky later due to calcium carbonate.
+  Spot it: Ask “Where did carbon dioxide come from?” If none was added, it’s the hydroxide.
+
+- Same idea in a different-looking problem:
+  - Sodium in water often leaves the liquid clear because its product dissolves well—no milkiness.
+  - Magnesium with hot water gives faint cloudiness because its product barely dissolves.
+  Use the “clear vs cloudy” test: clear = dissolves well; cloudy = tiny undissolved solid.
+
+- In nature/engineering:
+  - Whitewash: mixing water with quicklime makes a milky slurry of slaked lime—the same cloudy look you saw with calcium in water. This confirms the identity of the white cloud.
+  
 ## Why does water look milky when calcium is added?
 
 Start with a simple observation: Milk looks white because tiny particles scatter light. Clear water looks clear because there are no floating particles big enough to scatter light.

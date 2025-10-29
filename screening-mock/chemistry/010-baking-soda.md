@@ -7,6 +7,20 @@ Which is called baking soda?
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture baking: you add a white powder that gently fizzes with lemon or yogurt and makes tiny bubbles so cakes puff up.
+- Check each option by “where you’d see it”:
+  - CaCO₃: chalk/limestone — think rock, chalky, barely dissolves. You wouldn’t bake with chalk.
+  - NaHCO₃: the kitchen-friendly powder that softly fizzes with sour stuff and puffs batter — that’s baking soda.
+  - Na₂CO₃: washing soda — laundry helper, feels slippery and harsh; not for eating.
+  - NaOH: drain cleaner, burns skin; absolutely not for food.
+- The only gentle, kitchen-safe bubble-maker is NaHCO₃.
+
+## Create twists
+- Visual trap: mixing up washing soda (laundry, strong, slippery) with baking soda (kitchen, mild, edible). Think washing machine vs oven.
+- Visual trap: choosing chalk because it says “carbonate.” Chalk is a rock; rocks don’t make cakes rise.
+- Same idea, different look: “Which powder fizzes with lemon to release gas and fluff batter?” — the kitchen one again.
+- In nature/engineering: Yeast puffs bread by making gas bubbles; some fire extinguishers use powders that release gas to smother flames. Same bubble-making idea as baking soda.
 
 ## Which is called baking soda?
 

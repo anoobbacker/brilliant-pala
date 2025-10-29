@@ -13,6 +13,20 @@ IV) $X$ is an electronegative element
 
 ---
 # Answer
+# Answer
+## Quick visual reasoning
+- Picture dropping X into dilute acid. You see fizzing hydrogen bubbles. That means X can push hydrogen out of the liquid. Only a “giver” does that—metal-like, so X is electropositive. So I is true, IV is false.
+- Now drop X into sodium hydroxide. You still see hydrogen bubbles. Most metals ignore bases, but a few react on both sides. That tells you X is the “two-faced” kind whose oxide will dissolve in acid (behaving basic) and also dissolve in base (behaving acidic).
+- So the oxide shows both faces: basic with acids and acidic with bases. That makes II and III both true.
+
+Answer: 4) I, II, III
+
+## Create twists
+- Visual trap: “If it reacts with sodium hydroxide, it must be a nonmetal.” Spot the mistake: hydrogen bubbles mean something is pushing hydrogen out—classic metal behavior, not a hydrogen-grabbing nonmetal.
+- Visual trap: “An oxide must be either basic or acidic.” Quick check: if a powder dissolves in lemon juice (acid) and also in drain cleaner (base), it’s playing both roles. Think of a seesaw that tilts either way—amphoteric behavior.
+
+- Same idea in a different-looking problem: If a solid fizzes in both vinegar and a strong cleaning base, predict the element is electropositive and its oxide will dissolve in both—again, both II and III hold.
+- In the world: Some shiny kitchen metals get attacked by oven cleaner (strong base) with fizzing and also by acidic cleaners. Their surface oxide is the same “both-sides” kind that reacts with acids and bases.
 
 ## Read the clue like a detective
 

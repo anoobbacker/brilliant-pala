@@ -12,6 +12,23 @@ In the light of the above statements select the most appropriate answer from opt
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture two test tubes with the same acid. Drop a bit of zinc into one: you see fizzing and tiny bubbles racing up — that’s hydrogen escaping. So the assertion is right.
+- Now imagine dropping a clean piece of copper or gold into the same acid: it just sits there, no bubbles. So it’s not true that “all metals” kick hydrogen out of the acid. Only the pushier ones do.
+- Conclusion: A is correct; R is false.
+- Correct option: 3
+
+## Create twists
+- Visual trap 1: “Aluminium doesn’t bubble, so it must not react.” It often looks quiet at first because it wears a thin, invisible coat that blocks contact. Scratch it or let the coat dissolve, and it can start fizzing. So “no bubbles right away” doesn’t always mean “can’t displace.”
+- Visual trap 2: “If zinc fizzes, copper must too.” Different metals have different “push strength” against hydrogen. Some (like Zn, Mg, Fe) shove hydrogen off its seat in the acid; others (like Cu, Ag, Au) won’t budge it — no bubbles.
+
+- Same idea, different look: 
+  - Put an iron nail in a bright blue copper salt solution. The nail gets a reddish coat — iron pushed copper out of solution, just like some metals push hydrogen out of acid. It’s the same pecking order idea.
+
+- Where this shows up in life:
+  - Galvanized iron (coated with zinc) “sacrifices” itself first in rain or mild acids — it may fizz in acid tests, protecting the iron underneath.
+  - Copper pipes in mildly acidic water don’t make hydrogen bubbles — they tend to stay quiet, confirming that not all metals displace hydrogen.
+
 ## Do all metals fizz with acid? Why does zinc do it but copper doesn’t?
 
 Imagine putting different metals into dilute hydrochloric acid (HCl). Some fizz with bubbles (hydrogen gas), some just sit quietly. Why?

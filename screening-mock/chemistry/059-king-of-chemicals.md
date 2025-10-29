@@ -1,4 +1,4 @@
-## Question
+# Question
 Which among the following is usually known as 'King of chemicals'?
 
 **Options:**
@@ -8,10 +8,32 @@ Which among the following is usually known as 'King of chemicals'?
 3. Sodium hydroxide
 4. Nitric acid
 
+---
+# Answer
+
+## Quick visual reasoning
+- Picture a chemical that can sit in giant tanks without boiling away, flow like thick syrup, and kickstart countless factory steps — cleaning metals, drying things, making dyes, refining oil, living inside car batteries.
+- Compare the characters:
+  - Sulphuric acid: stable, heavy, super “thirsty” for water, works in many jobs — the main highway of industry.
+  - Hydrochloric acid: tends to fume and escape — great cleaner, but too gassy to be the central workhorse.
+  - Nitric acid: hot-tempered oxidizer — powerful but too specialized and destructive.
+  - Sodium hydroxide: very useful, but it’s the opposite team (a base), and the “king” nickname traditionally points to the central acid.
+- The crown goes to the versatile, stable, everywhere one: sulphuric acid.
+
+## Create twists
+- Visual traps and how to spot them:
+  - “Strongest” isn’t “king”: the most explosive acid isn’t the most useful daily.
+  - “More fumes = more power”: fuming makes storage and transport harder, not more king-like.
+  - “Any very common chemical qualifies”: the title reflects being a central hub, not just being useful.
+
+- Same idea, different problem:
+  - Picking the “workhorse tool”: choose the hammer that’s used everywhere, not the fancy blowtorch that’s amazing but niche. Versatility + stability = central role.
+
+- Nature/engineering echo:
+  - Water in life: not the fiercest solvent, but the universal carrier — mirrors sulphuric acid’s central, steady role in industry.
+
 ## Final Answer
 1) Sulphuric acid
-
----
 
 ## Why this is true — built from first principles
 
@@ -36,17 +58,20 @@ These properties make it not just “strong,” but “versatile” and “contr
 
 - Making other acids (historical and still relevant): Because H2SO4 doesn’t evaporate easily, it can push out more volatile acids from their salts.
   
-  ```math
+
+```math
   NaCl + H_2SO_4 \to HCl \uparrow + NaHSO_4
   ```
-  ```math
+
+```math
   KNO_3 + H_2SO_4 \to HNO_3 \uparrow + KHSO_4
   ```
   - Result: sulfuric acid was the acid used to manufacture other common acids. That’s “king-like.”
 
 - Fertilizers (food production): Plants need soluble phosphates. Rock phosphate is mostly insoluble; reacting it with H2SO4 makes soluble forms.
   
-  ```math
+
+```math
   Ca_3(PO_4)_2 + 2 H_2SO_4 \to Ca(H_2PO_4)_2 + 2 CaSO_4
   ```
   - Result: superphosphate fertilizers. A huge fraction of global sulfuric acid goes here, feeding the world.
@@ -56,7 +81,8 @@ These properties make it not just “strong,” but “versatile” and “contr
 - Metals and batteries:
   - Pickling steel: removes rust/oxide layers before coating.
   - Lead–acid car batteries rely on sulfate chemistry:
-    ```math
+
+```math
     \text{At discharge: } \quad Pb + PbO_2 + 2\,H_2SO_4 \to 2\,PbSO_4 + 2\,H_2O
     ```
     The acid isn’t just a bystander; it’s part of the reaction.

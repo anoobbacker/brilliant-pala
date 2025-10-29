@@ -4,6 +4,33 @@ Number of atoms in one formula unit of washing soda is '$x$' and number of atoms
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture washing soda as “a sodium carbonate core holding 10 water droplets.”
+  - Core: 2 sodium beads + 1 carbon bead + 3 oxygen beads.
+  - Water droplets: 10 copies of (2 hydrogens + 1 oxygen) → 20 hydrogens + 10 oxygens.
+  - Total atoms in one unit: 2 (Na) + 1 (C) + [3 + 10] (O) + 20 (H) = 36. So x = 36.
+
+- Picture baking soda as “sodium + a hydrogen hitchhiker + a carbonate head.”
+  - 1 sodium + 1 hydrogen + 1 carbon + 3 oxygens = 6 atoms. So y = 6.
+
+- Multiply by grouping: six packs of 36 is five packs (180) plus one more (36) → 216.
+
+Answer: 216
+
+## Create twists
+- Visual traps to avoid:
+  - Forgetting the 10 water droplets stuck to washing soda’s core.
+  - Mixing the oxygen counts: carbonate has 3 oxygens; the 10 waters bring 10 more.
+  - Dropping the hydrogen in baking soda (it’s the “hydrogen carbonate” part).
+
+- Same idea, different look:
+  - Any “salt with a dot and some waters” means: keep the core, then add that many water droplets, each contributing two hydrogens and one oxygen to the atom count.
+  - If a name says “hydrogen carbonate,” it’s the carbonate group with an extra hydrogen attached.
+
+- Where this shows up in the real world:
+  - Hydrated crystals (like washing soda) act like tiny sponges holding water inside their structure; heating drives those water beads off.
+  - Baking soda’s extra hydrogen is why it fizzes with acids—there’s a built-in bubble-maker hiding in that atom count.
+
 ## Counting Atoms: Washing Soda vs Baking Soda
 
 ### Start with a real-world hook
@@ -93,7 +120,8 @@ Answer: 216
 1) How many atoms in one formula unit of CuSO4·5H2O?
    - CuSO4: 1+1+4 = 6; 5H2O: 5×3 = 15; total = 21.
 2) Generalize: atoms in Na2CO3·xH2O?
-   ```math
+
+```math
    2 + 1 + 3 + 3x = 6 + 3x
    ```
 3) How many atoms in KHCO3?

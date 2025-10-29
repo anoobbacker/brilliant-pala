@@ -8,6 +8,7 @@ Cinnabar is the ore of
 3. Mercury
 4. Zinc
 
+---
 ## Guided reasoning from first principles
 
 ### Step 1: Start from everyday observation
@@ -30,7 +31,8 @@ Cinnabar is the ore of
   - So when we roast (heat in air) cinnabar, the pathway that nature “chooses” is: sulfur grabs oxygen to make SO₂ gas, and mercury is left as the free metal.
 
 - Balanced reaction for roasting cinnabar:
-  ```math
+
+```math
   \text{HgS} + \text{O}_2 \rightarrow \text{Hg} + \text{SO}_2
   ```
   - Atom check: Hg (1→1), S (1→1), O (2→2). Balanced.
@@ -39,7 +41,8 @@ Cinnabar is the ore of
     - Mass conserved: 264.66 g in → 264.66 g out.
 
 - Alternative displacement (no oxygen) using iron:
-  ```math
+
+```math
   \text{HgS} + \text{Fe} \rightarrow \text{FeS} + \text{Hg}
   ```
   - Iron is more reactive than mercury, so it prefers bonding with sulfur, pushing mercury out. Seeing silver droplets again confirms mercury.

@@ -9,6 +9,30 @@ v) Silver and copper do not react with oxygen even at high temperature
 ---
 # Answer
 
+## Quick visual reasoning
+- i) Picture a soft shiny chunk of sodium/potassium. In air it can heat itself and flame. Drop it in water and it fizzes, gets hotter, and can ignite even faster. So putting it in water makes danger worse. False.
+- ii) Scrape Mg/Al/Zn/Pb: you see a bright fresh shine that quickly dulls. That “instant dull varnish” is a thin skin made by air, sealing the metal. True.
+- iii) Heat an iron nail: it glows red but doesn’t burst into flame. Only very fine iron powder or wool sparks easily. So “iron does not burn on heating” (as a lump) is True.
+- iv) Heat copper: it slowly turns black; no raging flames. Not vigorous burning. False.
+- v) Heat a copper coin: it blackens, so it is reacting with air. Saying “silver and copper do not react even when hot” is wrong because copper clearly does. False.
+
+Number correct: 2 (ii and iii)
+
+## Create twists
+- Visual traps to spot
+  - “Store in water” sounds protective, but if the liquid makes bubbles and heat on contact, it’s the last thing you’d use. Use an oil that just sits there and blocks air and water.
+  - “Iron doesn’t burn” is true for a nail, not for fluffy steel wool. More tiny surfaces = easier to catch.
+  - “Burns vigorously” vs “slowly darkens”: flames/sparks vs a quiet color change is the giveaway.
+
+- Same idea in different-looking problems
+  - Why aluminum windows don’t keep corroding: a thin, tight, self-made skin forms and blocks deeper attack.
+  - Why steel wool can be lit with a battery but a nail can’t: huge surface-to-mass makes heating and reacting easy.
+  - Why copper cookware blackens over flame: it reacts with hot air to form a dark skin; not a fiery burn.
+
+- In nature/engineering
+  - Anodized aluminum is a deliberately thickened “skin” that protects—like a self-healing clear coat.
+  - Stainless steel resists rust because it forms a clingy invisible film that seals, similar to Al/Zn/Pb’s protective skin.
+
 ## Why do some metals catch fire while others just sit there?
 
 Think of oxygen in air as a “greedy taker” of electrons. Metals are “givers.” When a metal gives electrons to oxygen, energy is released as heat. If that heat can’t escape fast enough, you see glowing or even fire. Whether a metal burns or just gets a thin skin (oxide layer) depends on:

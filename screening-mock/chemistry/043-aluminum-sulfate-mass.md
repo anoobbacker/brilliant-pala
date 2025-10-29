@@ -4,6 +4,30 @@ Formula unit mass is calculated the same way as molecular mass is calculated. Th
 ---
 # Answer
 
+## Quick visual reasoning
+- Think of aluminium ions as +++ magnets and sulphate groups as -- magnets. To make a calm, neutral “bundle,” you need two +++ (2 aluminium) and three -- (3 sulphate). So the “recipe” is Al2 with three SO4 groups.
+- Picture the bundle as:
+  - 2 aluminium atoms
+  - 3 copies of a sulphate “flower,” each with 1 sulphur at the center and 4 oxygens as petals.
+- Add weights using the given masses:
+  - Aluminium: 27 each → 27 + 27 = 54
+  - One sulphate flower: sulphur 32 + four oxygens (4 × 16 = 64) → 32 + 64 = 96
+  - Three such flowers: 96 + 96 + 96 = 288
+  - Total bundle: 54 + 288 = 342 u
+
+Answer: 342 u
+
+## Create twists
+- Visual traps to avoid:
+  - Forgetting the bracket multiplies the whole flower: 3 sulphate groups means 3 sulphurs and 12 oxygens (not just adding 3 to oxygen).
+  - Mixing in the extra numbers given (H, N, Na). They’re just decoys; aluminium sulphate uses Al, S, O only.
+  - Treating it like one Al and one SO4. The charges don’t balance then; two +++ need three -- to settle.
+- Same idea, different look:
+  - Sodium nitrate: one sodium stuck to one nitrate flower (NO3). Count Na once and the NO3 group once, then add their given masses.
+  - Ammonium sulphate: two ammonium “balls” balance one sulphate flower; count parts in each group and add.
+- Where it appears in real life:
+  - Ionic crystals are like repeating Lego blocks. The smallest neutral block (the “recipe” you just built) repeats in all directions. Its weight is just the sum of the pieces in that one block—exactly what you did here.
+
 ## Thinking setup: What are we really “weighing” here?
 - Imagine a Lego model. The instruction sheet tells you how many of each brick you need. The weight of the model = sum of (number of each brick × weight of that brick).
 - A chemical formula is the “instruction sheet.” For ionic compounds like aluminium sulphate, we don’t have molecules; we have a repeating ratio called a formula unit. So “formula unit mass” = sum of atomic masses, counting how many of each atom the formula says.

@@ -11,6 +11,7 @@ iii) Endothermic reactions
 3. ii and iii
 4. ii only
 
+---
 ## Answer: Option 1 — i and iii
 
 - i) Oxidation reactions: Yes (valid)

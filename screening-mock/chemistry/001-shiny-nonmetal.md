@@ -8,19 +8,24 @@ The non-metal having a shiny surface is
 ---
 # Answer
 
-## Start with a real‑world picture: What does “shiny” mean?
-- Imagine a bathroom mirror vs a piece of chalk.
-  - Mirror: makes a sharp, bright spot when you shine a torch — it bounces light in an orderly, mirror-like way.
-  - Chalk: looks dull because it scatters light in many directions.
-- In science terms:
-  - “Shiny” = specular reflection: a smooth surface returns light in a focused direction.
-  - “Dull” = diffuse reflection: a rough or powdery surface scatters light everywhere.
+## Quick visual reasoning
+- Shiny happens when a surface is smooth and flat enough to bounce light back like a mirror.
+- Iodine grows as dark, glassy plates—think tiny black-violet mirrors that glint. So it looks metallic and shiny.
+- Sulphur is a crumbly yellow powder; powder scatters light in all directions, so it looks dull.
+- Phosphorus (red) is a brick-red, dusty solid; white phosphorus is waxy—both don't reflect sharply, so not shiny.
+- Carbon in everyday forms (charcoal, soot, pencil lead) looks matte; diamond is sparkly but the option says “carbon” (not “diamond”). So among these, iodine clearly shows a shiny surface.
 
-Textual diagram:
-- Smooth crystal face (like a flat tile): incoming rays reflect as neat outgoing rays → bright glint.
-- Rough powder (like chalk dust): incoming rays hit many tiny facets → reflections spray in all directions → no bright glint.
+## Create twists
+- Visual trap: “Carbon is diamond, so shiny.” But “carbon” here usually means common forms like charcoal/graphite; the exam’s standout shiny non-metal sample is iodine crystals.
+- Another trap: graphite can have a soft sheen, but it smudges like pencil; iodine’s crystal faces reflect like tiny mirrors—much shinier.
 
----
+- Same idea elsewhere: 
+  - Why does powdered metal look dull but a metal spoon shines? Powder scatters light; smooth surfaces reflect it.
+  - Sugar crystals sparkle; powdered sugar looks matte—same light-scattering idea.
+
+- In nature/engineering:
+  - Iodine crystals look like dark, glossy tiles and turn into a purple vapour—easy to spot in labs by their shine.
+  - Ice sheets gleam; crushed ice or snow looks less mirror-like—flat vs broken surfaces.
 
 ## How does a surface reflect light? Build from electrons up
 - Light is an oscillating electric field.

@@ -4,6 +4,21 @@ The amount of glucose required to prepare 250 g of 4.8% solution of glucose by m
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture a bag that weighs 100 g. A “4.8% by mass” glucose solution means: out of every 100 g of the mixture, 4.8 g is glucose.
+- We need 250 g total. Think of it as 100 g + 100 g + 50 g.
+  - First 100 g bag: 4.8 g glucose
+  - Second 100 g bag: another 4.8 g
+  - Half a bag (50 g): half of 4.8 g → 2.4 g
+- Add them: 4.8 + 4.8 + 2.4 = 12 g.
+
+Answer: 12 g of glucose.
+
+## Create twists
+- Typical trap: taking 4.8% of the water instead of the whole mixture. The percent is of the final solution, not just the water.
+- Another trap: adding 12 g glucose to 250 g water (that overshoots). You add glucose and then water until the total mixture reaches 250 g.
+- Same idea, different look: For 3% in 1 kg, split into ten 100 g packs; each has 3 g solute → 30 g total.
+- In real life: Making a sports drink—“for every 100 g of drink, 4.8 g is sugar.” To scale up, count how many 100 g packs you’re making and multiply visually.
 
 ## What does “4.8% by mass” really mean?
 
@@ -44,7 +59,8 @@ To make the total solution mass 250 g, the rest must be solvent (water):
 ## Multiple lenses
 
 - Analytical view:
-  ```math
+
+```math
   m_{\text{glucose}} = 0.048 \times 250 = 12\ \text{g}
   ```
 - Intuitive mental check:
@@ -71,7 +87,8 @@ To make the total solution mass 250 g, the rest must be solvent (water):
 
 - What if the question said 4.8% (w/v) instead? Then 4.8 g per 100 mL of solution. For 250 mL, you’d need 12 g of glucose, but now volume is controlled, not mass.
 - If you accidentally add 15 g glucose and still want 4.8% solution, what total mass should the solution be?
-  ```math
+
+```math
   4.8\% = \frac{15}{M_{\text{solution}}}\times 100 \Rightarrow M_{\text{solution}} = \frac{15 \times 100}{4.8} \approx 312.5\ \text{g}
   ```
 

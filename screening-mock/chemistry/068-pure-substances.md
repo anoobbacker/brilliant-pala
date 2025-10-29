@@ -1,4 +1,4 @@
-## Question
+# Question
 How many of the following are pure substances?
 
 i) Ice
@@ -9,6 +9,41 @@ v) Mercury
 vi)Air
 vii) Vinegar
 viii) Gold amalgam
+
+---
+# Answer
+## Quick visual reasoning
+Think of each sample as a jar of beads:
+- Pure substance: every bead looks the same.
+- Mixture: different kinds of beads mixed together (even if the mix looks uniform to your eyes).
+
+Now scan each item:
+
+- i) Ice — solid water; imagine identical water particles locked in place. Pure.
+- ii) Milk — tiny fat droplets and proteins floating in water; many kinds of particles. Mixture.
+- iii) 24 Carat gold — “nothing else mixed” gold; one kind of particle. Pure.
+- iv) Calcium oxide — a single compound; all units identical. Pure.
+- v) Mercury — a single metal as a liquid; one kind of particle. Pure.
+- vi) Air — a blend of several gases; different kinds together. Mixture.
+- vii) Vinegar — sour component dissolved in water; strength can vary. Mixture.
+- viii) Gold amalgam — gold mixed with mercury (an alloy). Mixture.
+
+Count of pure substances: 4 (i, iii, iv, v).
+
+## Create twists
+- Visual trap: “Looks uniform, so it must be pure.” Not true. Air and vinegar look uniform but hide different particles mixed evenly.
+- Visual trap: “Shiny metal must be pure.” Alloys like amalgam are shiny yet mixed.
+- Naming trap: “Ice from tap water isn’t perfectly pure.” True in practice, but in science class “ice” means solid water only, so pure.
+
+Use the same idea elsewhere:
+- Is steel pure? No—iron mixed with other elements (alloy).
+- Is distilled water pure? Yes. Is seawater pure? No—water plus salts.
+- Clear sugar solution? Mixture—sugar particles dissolved among water particles.
+
+Seen in nature/engineering:
+- Fractional distillation of air separates its different gases—proves air is a mixture.
+- Cream rising or being spun off from milk shows milk contains different parts.
+- Refining gold to 24 carat aims for one kind of particle—purity.
 
 ## Big idea
 When you pick any tiny piece of a pure substance, it’s exactly the same as any other piece—same kind of building block (atoms or molecules), in the same fixed ratio, giving the same sharp melting/boiling points. A mixture is like a smoothie: different ingredients blended together; the proportions can vary, and properties like boiling point “smear” over a range.

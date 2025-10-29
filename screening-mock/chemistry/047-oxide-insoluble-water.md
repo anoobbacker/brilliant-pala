@@ -1,4 +1,4 @@
-## Question
+# Question
 Which of the following oxide is insoluble in water?
 
 **Options:**
@@ -7,6 +7,29 @@ Which of the following oxide is insoluble in water?
 2. CuO
 3. $\mathrm{K}_2 \mathrm{O}$
 4. CaO
+
+---
+# Answer
+## Quick visual reasoning
+- Picture dropping each oxide into water:
+  - Na2O: the water would heat up and feel slippery like strong soap. That means it mixes/reacts and makes the water strongly alkaline.
+  - K2O: behaves even more vigorously than sodium’s—again making very slippery, strongly alkaline water. So it mixes/reacts readily.
+  - CaO (quicklime): when sprinkled into water it hisses/steams, turns the water milky. Some dissolves to make clear “limewater” on top. So it does react and partly dissolves.
+  - CuO: a black powder that just sinks and sits there. The water looks the same, no slipperiness, no heat, no milkiness. It doesn’t mix in.
+
+Answer: CuO (option 2) is insoluble in water.
+
+## Create twists
+- Trap: “CaO looks cloudy so it must be insoluble.” The cloudiness comes from forming a new substance that only partly dissolves; the reaction is obvious from the heat and milkiness. Insoluble means it just sits unchanged—like CuO does.
+- Another angle: “Which one won’t turn red litmus blue?” The one that doesn’t make the water alkaline—again CuO.
+
+- Same idea, different look:
+  - Ask: “Which oxide would survive rain on a statue?” The black copper oxide would remain as a powdery coat; the others would aggressively react with moisture.
+  - Ask: “Which makes ‘limewater’ used to test carbon dioxide?” That’s from CaO reacting with water, so CaO isn’t simply insoluble.
+
+- Seen in real life:
+  - Builders “slake” quicklime with water—visible heat and milkiness—showing CaO reacts with water.
+  - Black copper oxide pigments don’t dissolve in rainwater—showing CuO is insoluble.
 
 ## Core idea
 Dissolving is a tug-of-war. A solid crystal holds its ions together; water tries to pull them apart and surround them. Whether an oxide “dissolves” in water depends on:

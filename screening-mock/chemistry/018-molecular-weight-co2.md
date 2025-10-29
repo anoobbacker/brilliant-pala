@@ -4,7 +4,23 @@ The molecular weight of the compound is ........
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture each molecule as one black ball (carbon) holding two red balls (oxygen). That’s one carbon and two oxygens per molecule.
+- On a balance, place one “carbon tile” weight and two “oxygen tile” weights from the periodic table. The needle’s total is the molar mass.
+- Reading the tiles (no memorizing needed): the number on carbon’s tile plus twice the number on oxygen’s tile adds up to 44 when you place them together.
+- So the molecular weight is 44 g per mole.
 
+## Create twists
+- Typical visual traps:
+  - Mixing count with mass: “There are 3 atoms, so mass is 3.” Three balls don’t all weigh the same; two heavy red balls dominate.
+  - Using oxygen gas instead of oxygen atom: Don’t weigh an O2 bottle; you need the weight of one oxygen atom, but taken twice.
+  - Forgetting the “twice oxygen”: Only oxygen is doubled here, not carbon.
+
+- Same idea in a different-looking problem:
+  - If a compound has one nitrogen and three hydrogens, imagine stacking one nitrogen tile and three hydrogen tiles on the scale. Read the total from the tiles to get its molar mass.
+
+- Where this shows up in real life:
+  - Carbon dioxide can “pour” down to snuff a candle because it’s heavier than typical air—visually, two heavy red oxygen balls plus one black carbon ball make a heftier molecule.
 
 ## From Everyday Thinking to the Answer
 

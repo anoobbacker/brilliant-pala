@@ -7,6 +7,18 @@ Striking tip of matchbox is made up of
 
 ---
 # Answer
+## Quick visual reasoning
+- Scraping a match needs a surface that sparks from rubbing. Think: a powder that “wakes up” with friction and catches easily.
+- CaO and the two phosphates feel like chalk/ceramic or bone—hard, stable, they just make dust when scraped, not flames.
+- A phosphorus–sulfur mix behaves like a ready-to-burst ember: tiny grains heat up fast under friction and ignite.
+- Among the choices, only P4S3 fits that “scratch-and-spark” behavior.
+
+Answer: A) P₄S₃ 
+
+## Create twists
+- Trap: Many remember “red phosphorus” for the box strip. If “red phosphorus” isn’t an option, pick the friction‑sensitive phosphorus compound (here, P4S3) rather than rock-like salts.
+- Different-looking problem: “Which part lets safety matches light only on the box?” The strip contains a phosphorus material; the head holds oxidizer/fuel. Strike‑anywhere matches put the friction‑sensitive stuff in the tip instead.
+- In the real world: Flint-and-steel works the same way—soft metal scrapes off hot sparks into a tinder that “wants to catch,” unlike chalky minerals that just powder.
 
 ## What lights a match, really?
 

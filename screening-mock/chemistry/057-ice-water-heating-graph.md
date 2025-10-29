@@ -1,4 +1,4 @@
-## Question
+# Question
 When a beaker containing ice and water is heated. Which of the following graph would correctly justify the result?
 
 **Options:**
@@ -43,6 +43,33 @@ Temperature (°C)
    |     /
  0 +====/----------------> Time (min)
 ```
+---
+# Answer
+Option 4
+
+## Quick visual reasoning
+- Picture a glass with ice cubes floating in water. You can pour in gentle warmth, but the thermometer stays stuck at “ice-cold” until the last cube disappears. Why? The heat is busy untying the ice’s crystal structure, not making the water hotter.
+- So at first, temperature sits flat at the ice-water mark.
+- After the final bit of ice melts, there’s only liquid. Now the same heat can actually nudge the thermometer up smoothly.
+
+That’s a flat line at the start, then a rising line: Option 4.
+
+## Create twists
+- Visual traps:
+  - Option 1: rises immediately—wrong because ice + water should hold the temperature steady first.
+  - Option 2: slopes down—looks like cooling, not heating.
+  - Option 3: has a flat part but then slopes the wrong way; also doesn’t clearly show “flat first, then rise.”
+
+- Same idea, different look:
+  - Only water (no ice): the line rises right away—no flat start.
+  - Only ice below the ice-water mark: first it climbs to that mark, then sits flat while melting, then rises.
+  - Heat long enough: after warming, you’d later see another flat part at the steam-water mark when boiling starts.
+
+- Where you see this in life:
+  - Iced drinks stay at “ice-cold” until the last cube melts, then warm up quickly.
+  - Ice packs keep injuries at a steady chill for a while before warming.
+  - Snow on a sunny day lingers at the melting point: energy goes into melting, not warming.
+
 ## Correct choice
 Option 4
 

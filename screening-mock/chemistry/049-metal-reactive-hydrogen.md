@@ -1,4 +1,4 @@
-## Question
+# Question
 Which metal among the following is more reactive than hydrogen?
 
 **Options:**
@@ -7,8 +7,37 @@ Which metal among the following is more reactive than hydrogen?
 3. Silver (Ag)
 4. $\operatorname{Tin}(\mathrm{Sn})$
 
-## Goal
+---
+# Answer
 Decide which metal (Hg, Cu, Ag, Sn) is more reactive than hydrogen — meaning it can push hydrogen out of an acid to make hydrogen gas.
+
+## Quick visual reasoning
+- Picture dropping each metal into a beaker of dilute acid.
+- The metal that can push hydrogen out of the liquid will make tiny bubbles rise right away.
+- What you’d see:
+  - Silver: stays shiny and calm; no fizz.
+  - Copper: calm; that’s why copper pipes don’t bubble away in water or mild acids.
+  - Mercury: a heavy silvery liquid bead; also calm in ordinary acids.
+  - Tin: steady fizzing as gas bubbles form — it pushes hydrogen out.
+
+So, the one more reactive than hydrogen here is Tin (Sn).
+
+## Create twists
+- Visual traps to avoid:
+  - “Shiny means reactive.” Not true. Silver is very shiny yet sits quietly in acid.
+  - “Liquid metal must be wild.” Mercury looks dramatic but doesn’t fizz in ordinary acids.
+  - “Used in cans means super-stable.” Tin protects steel, but with acidic foods it can slowly give off gas — showing it can still push out hydrogen.
+
+- Same idea, different-looking problem:
+  - “Which metal will release gas with acid?” Think “who makes bubbles?” That’s the one above hydrogen in pushiness.
+  - Metal displacement in solutions: imagine two kids on a seesaw. The stronger jumper (more reactive metal) kicks the other off the seat and takes their place. If no swap happens, the newcomer is weaker.
+
+- Where this shows up in life:
+  - Tin-plated food cans: slightly acidic food can nibble at tin and release a little gas — quiet evidence that tin can oust hydrogen.
+  - Copper plumbing: no fizzing or rapid eating away in ordinary water or mild acids — copper sits below hydrogen in pushiness.
+  - Silver jewelry: resists mild acids; tarnishes mainly with sulfur in air, not by kicking out hydrogen.
+
+Final choice: Tin (Sn).
 
 ## Build-up from everyday observation
 - If you drop some metals (like zinc or magnesium) in dilute hydrochloric acid, you see bubbles. Those bubbles are hydrogen gas.

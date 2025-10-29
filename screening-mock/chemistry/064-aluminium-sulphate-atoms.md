@@ -1,8 +1,30 @@
-## Question
+# Question
 How many atoms are there in the formula of Aluminium sulphate?
 
-## Goal
+---
+# Answer
 Find how many atoms are present in the formula of aluminium sulphate, by building the formula from first principles and then counting carefully.
+## Quick visual reasoning
+- Imagine each aluminium atom has three “hooks,” and each sulphate group is a plate with two “sockets.”
+- To clip everything with no loose ends, use the smallest set where hooks = sockets:
+  - Two aluminium pieces give 6 hooks.
+  - Three sulphate plates give 6 sockets. Click—everything locks.
+- So one tidy packet is: 2 Al + 3 sulphate groups.
+- Each sulphate group is a hub with 1 sulfur holding 4 oxygens.
+  - From 3 groups: sulfur = 3 centers, oxygen = 4 + 4 + 4 = 12 around them.
+- Count atoms in the packet:
+  - Aluminium: 2
+  - Sulfur: 3
+  - Oxygen: 12
+  - Total: 2 + 3 + 12 = 17 atoms
+
+Answer: 17 atoms in aluminium sulphate.
+
+## Create twists
+- Trap: Forgetting the “3” multiplies everything inside the sulphate group. Spot it by imagining three full SO4 clusters, not just tripling oxygen.
+- Trap: Thinking sulfur is 4 because “SO4.” The 4 belongs to oxygen only; sulfur is the central hub—one per group.
+- Same idea elsewhere: For calcium nitrate, picture calcium with two hooks and nitrate with one socket. You’d need two nitrate plates to use both hooks; then count centers and surrounding atoms.
+- In nature/engineering: Like LEGO connectors—choose pieces so all studs meet all holes with none left over. The total atoms are just the studs-and-holes set you’ve clipped together.
 
 ## 1) Start from everyday intuition
 - Think of atoms and ions like Lego blocks with hooks that must latch together so the final structure is “balanced.”
@@ -26,11 +48,13 @@ So aluminium tends to form Al³⁺.
 - Let sulphur’s oxidation state be x. The total for SO₄ must match the ion’s net charge (which we will deduce).
   
   We know oxygen is −2 and there are 4 oxygens:
-  ```math
+
+```math
   x + 4(-2) = \text{charge of SO}_4
   ```
   If SO₄ were neutral, the left side would be x − 8. In actual chemistry, the sulphate ion carries an overall −2 charge (this is supported by acid chemistry: removing two H⁺ from H₂SO₄ leaves SO₄²⁻). So set the sum to −2:
-  ```math
+
+```math
   x + 4(-2) = -2 \implies x - 8 = -2 \implies x = +6
   ```
 - The key takeaway: the sulphate ion is SO₄²⁻.
@@ -74,7 +98,8 @@ If aluminium sulphate comes from neutralizing sulphuric acid with an aluminium b
 - Each Al³⁺ needs 3 OH⁻ to become Al(OH)₃.
 - Each H₂SO₄ provides SO₄²⁻ after giving up 2 H⁺.
 - Balancing gives ratios consistent with Al₂(SO₄)₃, confirming the 2:3 ion count:
-  ```math
+
+```math
   2\ \text{Al(OH)}_3 + 3\ \text{H}_2\text{SO}_4 \rightarrow \text{Al}_2(\text{SO}_4)_3 + 6\ \text{H}_2\text{O}
   ```
 This supports the same counting for the formula unit.

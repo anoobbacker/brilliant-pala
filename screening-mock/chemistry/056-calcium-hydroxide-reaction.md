@@ -1,4 +1,4 @@
-## Question
+# Question
 $\mathrm{Ca}(\mathrm{OH})_2+\mathrm{SO}_2
 \rightarrow \mathrm{CaSO}_3+\mathrm{A}$. The product A is
 
@@ -8,6 +8,24 @@ $\mathrm{Ca}(\mathrm{OH})_2+\mathrm{SO}_2
 2. $\mathrm{H}_2$
 3. $\mathrm{SO}_3$
 4. $\mathrm{H}_2 \mathrm{O}$
+
+---
+# Answer
+## Quick visual reasoning
+- Picture Ca(OH)2 as a calcium “handle” holding two OH “hooks.” SO2 is an acidic, stingy gas.
+- When they meet, the sulfur-oxygen piece locks onto calcium to make the chalky solid named in the question: CaSO3.
+- After forming that solid, what bits are left from the starting pieces? The two H from the OH hooks and one O left over naturally snap together as a water droplet.
+- So A is water.
+
+Correct option: 4. H2O
+
+## Create twists
+- Common trap: Picking O2 or H2 just because they’re gases. But nothing here splits off pure oxygen, and hydrogen gas usually pops out when a metal reacts with acid, not when a base (Ca(OH)2) meets an acidic gas.
+- Another trap: Thinking SO3 appears. But the sulfur is already seated in CaSO3; there’s no extra sulfur-oxygen cloud floating off.
+
+Use the same idea elsewhere:
+- Bubbling CO2 through limewater: the carbon piece grabs calcium to make a solid (CaCO3), and the leftover H and O from the hydroxide become water.
+- In chimney scrubbers, spraying lime (Ca(OH)2) at acidic SO2 locks it into a solid salt and leaves water behind—exactly this logic in real engineering.
 
 ## Think like a scientist: What really happens when SO₂ meets Ca(OH)₂?
 
@@ -27,11 +45,13 @@ Let’s build this from first principles.
 
 ### 1) Identify the roles (chemistry as character roles)
 - Ca(OH)₂ is a base. In water, it splits (dissociates) into ions:
-  ```math
+
+```math
   \mathrm{Ca(OH)_2 \rightarrow Ca^{2+} + 2\,OH^-}
   ```
 - SO₂ is an acidic oxide (acid anhydride). When SO₂ meets water, it forms an acid called sulfurous acid:
-  ```math
+
+```math
   \mathrm{SO_2 + H_2O \rightleftharpoons H_2SO_3}
   ```
 
@@ -47,11 +67,13 @@ So, if sulfurous acid H₂SO₃ meets OH⁻ from Ca(OH)₂, one product must be 
 ### 3) Track all pieces to see what’s left
 Start with these two steps:
 - Hydration (making the acid):
-  ```math
+
+```math
   \mathrm{SO_2 + H_2O \rightleftharpoons H_2SO_3}
   ```
 - Neutralization (acid + base → salt + water):
-  ```math
+
+```math
   \mathrm{H_2SO_3 + Ca(OH)_2 \rightarrow CaSO_3 + 2H_2O}
   ```
 
@@ -64,11 +86,13 @@ So A must be water, H₂O.
 ### 4) Direct ionic view (no intermediates)
 Alternatively, think without H₂SO₃:
 - SO₂ behaves as an acid anhydride, and OH⁻ neutralizes it directly:
-  ```math
+
+```math
   \mathrm{SO_2 + 2\,OH^- \rightarrow SO_3^{2-} + H_2O}
   ```
 - The calcium ion pairs with sulfite to form the salt:
-  ```math
+
+```math
   \mathrm{Ca^{2+} + SO_3^{2-} \rightarrow CaSO_3(s)}
   ```
 Combine them:

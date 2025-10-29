@@ -8,6 +8,20 @@ $^{x}_{y}\mathrm{A}$ and $^{p}_{q}\mathrm{B}$ are isotopes. Which equation among
 ---
 # Answer
 
+## Quick visual reasoning
+- Picture the nuclear symbol as a two-story badge: top number (total pieces in the nucleus), bottom number (proton count).
+- Isotopes are the same element, so they must share the same bottom number. That means y and q match exactly.
+- Look at the options: a “difference of squares” turns into nothing when the two things are equal (two identical stacks; subtract one from the other and you’re left with zero). A “sum of squares” can’t vanish unless both are literally zero.
+- Only option 4 contains the piece that becomes zero when y and q match: (y² − q²). So the whole product becomes zero.
+
+Answer: 4
+
+## Create twists
+- Common trap: thinking isotopes means the top numbers must match. That’s isobars. For isotopes, the bottoms match.
+- Another trap: being distracted by A and B looking like different elements. If the bottoms are the same, they are the same element regardless of the letter used.
+- Different-looking problem: If it asked about isobars (same top numbers), then x and p would match, making (x² − p²) vanish—also seen inside option 4.
+- Nature/engineering echo: Carbon’s versions used in archaeology have the same proton “badge” but different total “pieces.” Their “difference of squares” in the bottom line would still collapse to zero.
+
 ## Problem Sense-Making: What does “isotope” really mean?
 
 Start with a simple picture: imagine two bottles with the same label (same brand), but one has a bit more water inside. The label tells you the identity; the amount inside tells you the weight.

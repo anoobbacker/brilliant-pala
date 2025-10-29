@@ -1,4 +1,4 @@
-## Question
+# Question
 Which one of the following element is not a metalloid?
 
 **Options:**
@@ -8,7 +8,28 @@ Which one of the following element is not a metalloid?
 3. Germanium (Ge)
 4. Copper $(\mathrm{Cu})$
 
-## Answer (with first-principles reasoning)
+---
+# Answer
+## Quick visual reasoning
+- Imagine each in your hand.
+- Copper: you can pull it into thin bendy wires, it shines warm orange, and it carries electricity effortlessly. That’s a “pure metal” feel.
+- Silicon and Germanium: look shiny but snap like glass, and only conduct when “tuned” in chips—very in-between behavior.
+- Arsenic: grey, brittle, used to tweak semiconductors—again in-between.
+
+So the one that is not a metalloid is Copper (Cu).
+
+## Create twists
+- Typical trap 1: “Germanium ends with -ium, so it must be a metal.” Quick check: if it snaps instead of bends and lives in old transistors, it’s a metalloid.
+- Typical trap 2: “Arsenic is poisonous, so it must be a nonmetal.” Look-feel beats reputation: shiny but brittle, used to dope chips → metalloid.
+- Typical trap 3: “Silicon looks shiny like a metal.” Try to make a wire in your mind—it fractures. Metals don’t; metalloids do.
+
+- Same idea, different-looking problem: “Which makes the best household wire: Silicon, Sulfur, Copper, Arsenic?” Pick the one that bends and carries current strongly without special tweaking—Copper.
+
+- Where this shows up in the world:
+  - Power cables: copper, because you need easy, strong conduction and flexibility.
+  - Microchips: silicon/germanium, because you want switchable, in-between conduction.
+  - Doping with arsenic fine-tunes that in-between behavior for logic circuits.
+  
 Correct option: 4. Copper (Cu)
 
 ### Why? Build the idea from everyday observations

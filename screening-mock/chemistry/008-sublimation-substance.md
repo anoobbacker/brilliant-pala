@@ -8,6 +8,24 @@ The substance which shows sublimation
 ---
 # Answer
 
+## Quick visual reasoning
+- Imagine heating a pinch of each on a hot spoon and holding a cool glass above:
+  - Cu (copper): A metal. It just gets hot and glows; no visible fumes rising to paint the cool glass. Metals prefer to melt, not “vanish” as a cloud. Not sublimation.
+  - NaCl (table salt): It sits like grains, then turns into a clear, glassy droplet when hot. No colored cloud, nothing reappears on the cool glass. Melts, not sublimates.
+  - I₂ (iodine): Dark, shiny flakes. With gentle warmth, a purple cloud lifts off and then “snow” of shiny crystals appears on the cool glass above. That’s solid turning straight into gas and back to solid. Yes—sublimation.
+  - CaCO₃ (chalk/limestone): With strong heat it crumbles and gives off an invisible gas, leaving a different powder behind. That’s break-apart change, not solid-to-gas and back. Not sublimation.
+
+So the one that clearly “vanishes” into a visible colored cloud and reappears as crystals on a cooler surface is iodine.
+
+## Create twists
+- Common trap: Mistaking “breaking apart with gas” (like chalk giving off gas and leaving a new solid) for sublimation. Sublimation leaves the same substance on the cool surface as crystals; decomposition changes what it is.
+- Another trap: Confusing melting with sublimation. If it turns into a liquid puddle first (like salt), it’s not sublimation.
+- Different-looking problem solved the same way: “Which would slowly disappear from an open dish at room temperature—mothballs/camphor, sugar, salt, or metal filings?” The one that makes a smell and shrinks without melting (mothballs/camphor) is subliming—same idea.
+- Nature/engineering echoes:
+  - Frost forming directly from moist air on a cold window is gas to solid—the reverse pathway of sublimation.
+  - Dry ice “smoke” in stage shows: solid to gas without a puddle.
+  - Freeze-drying food: ice in the food is pulled straight into vapor, skipping the melt, preserving structure.
+
 ## Which substance shows sublimation?
 
 Start with a picture: Have you seen “mothballs” shrinking without leaving any liquid? Or dry ice “disappearing” into a fog? That solid is skipping the liquid step and turning straight into gas. That’s sublimation.
@@ -43,7 +61,8 @@ Rule of thumb for exams: Molecular solids with weaker intermolecular forces are 
 - C) I₂ (iodine): Molecular solid; large, squishy electron cloud (high polarizability) gives moderate London forces—stronger than small molecules, but still much weaker than ionic/metallic bonds. Solid iodine has a significant vapor pressure; on gentle heating it forms a beautiful violet vapor that re-deposits as shiny crystals. Classic sublimator.
 
 - D) CaCO₃ (calcium carbonate): When heated, it doesn’t sublime; it decomposes chemically:
-  ```math
+
+```math
   \mathrm{CaCO_3(s) \;\to\; CaO(s) + CO_2(g)}
   ```
   That’s thermal decomposition, not sublimation.

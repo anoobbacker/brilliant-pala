@@ -7,7 +7,26 @@ The formula of compound formed between two elements $(A)$ and $(B)$ having atomi
 
 ---
 # Answer
+## Quick visual reasoning
+- Picture outer shells as rings of seats.
+- Element A (first in the table) brings just one extra “peg” on its ring.
+- Element B (seventeenth) sits one step before the already-full column, so it has exactly one empty seat on its ring.
+- One peg fits one empty seat. After one A clicks into one B, both rings look “complete,” so they stop.
+- That makes a one-to-one pairing: AB.
 
+Answer: 4) AB
+
+## Create twists
+- Visual trap: “B is a bigger number, so we need more A’s.” Not true—what matters is how many empty seats are on the rim. Here, B has only one.
+- Visual trap: Mixing up “has one peg” vs “needs one peg.” A brings one; B wants one.
+
+- Same idea in a different problem:
+  - If an atom has two empty seats, it would need two atoms that each bring one peg: that would look like A2B.
+  - If an atom has two pegs and the partner has one empty seat, you’d need one of the first and two of the second: AB2.
+
+- Nature/engineering echoes:
+  - Lego: a piece with one stud clicks into a piece with one socket—one-to-one.
+  - Parking: one empty spot fits one car—if the lot has two empty spots, you need two cars.
 
 ## Predict the formula from atomic numbers 1 and 17
 

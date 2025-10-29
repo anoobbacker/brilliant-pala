@@ -1,4 +1,4 @@
-## Question
+# Question
 How many of the following conduct electricity through them?
 i) Iron
 ii) Diamond
@@ -7,6 +7,35 @@ iv) Mercury
 v) Bromine
 vi) Iodine
 vii) Gallium
+
+---
+# Answer
+
+## Quick visual reasoning
+Think: Can tiny charges move freely inside?
+
+- Iron (metal): Like a hall with loose marbles on the floor; push one and many roll. Charges can drift. Conducts.
+- Diamond (rigid carbon network): Everyone’s hands locked to four neighbors in 3D; no one can slip through. Doesn’t conduct.
+- Graphite (layered carbon): Stack of slippery pages; some charges can slide along each page. Conducts along layers.
+- Mercury (liquid metal): Same loose marbles, but the hall is a liquid pool; still plenty of free movement. Conducts.
+- Bromine (liquid non‑metal molecules): A crowd of tightly paired dancers; pairs move as whole neutral units, no free charges. Doesn’t conduct.
+- Iodine (molecular solid): Shiny crystals of paired dancers stuck in place; no loose charges. Doesn’t conduct.
+- Gallium (metal): Even if it softens, it’s still a sea of loose charges. Conducts.
+
+Count of conductors: 4.
+4 conduct: i) Iron, iii) Graphite, iv) Mercury, vii) Gallium.
+
+
+## Create twists
+- Trap: “Shiny means conductor.” Iodine is shiny but its charges are not free. Shiny ≠ conductive.
+- Trap: “Liquid means conductor.” Bromine flows, but neutral molecules carry no charge flow. Liquid ≠ conductive.
+- Trap: “Hard means conductor.” Diamond is ultra‑hard yet locks all charges. Hardness ≠ conductive.
+- Twist: “Non‑metals don’t conduct.” Graphite is a non‑metal but its layered structure lets charges slide.
+
+Use the idea elsewhere:
+- Pencil line as a wire: A dark graphite streak on paper can light a small bulb; a diamond ring can’t.
+- Salt vs sugar in water: Salt splits into free-moving charged bits; sugar stays as whole neutral molecules. Only salt solution conducts.
+- Mercury tilt switch: A blob of liquid metal rolls to touch two contacts and closes a circuit—proof that a liquid metal conducts.
 
 ## Big Idea: What does it mean to “conduct electricity through” a substance?
 

@@ -8,7 +8,28 @@ $x\text{NH}_3(g) + y\text{O}_2(g) \rightarrow z\text{NO}(g) + w\text{H}_2\text{O
 
 ---
 # Answer
+## Quick visual reasoning
+- See atoms as Lego pieces.
+- Nitrogen: each NH3 brings 1 N; each NO needs 1 N. So the count of NH3 must match NO. All listed choices already do that.
+- Hydrogen: NH3 carries 3 H each; water bottles hold H only in pairs. If you choose an odd number of NH3, you’ll have an odd pile of H marbles that can’t split into pairs. So x must be even. From the options, x = 4.
+- With 4 NH3, you have 12 H marbles. Packing them into pairs gives 6 water bottles. So w = 6.
+- Oxygen: On the right, each NO wants 1 O and each H2O wants 1 O. With 4 NO and 6 H2O, that’s 10 O atoms demanded. Oxygen comes in as O2 pairs, so we need 5 pairs. So y = 5.
 
+So x = 4, y = 5, z = 4, w = 6 → option 3.
+
+## Create twists
+- Visual traps to avoid:
+  - Mixing up H2O: the “2” belongs to hydrogen, not oxygen. Each water has one oxygen, not two.
+  - Forgetting oxygen arrives as pairs (O2). If the right side asks for an odd number of oxygen atoms, you must adjust until it’s even so full O2 pairs can supply it.
+  - Trying x = 5: you’d get 15 hydrogens, which can’t be split into H2O pairs without a leftover H.
+
+- Same idea, different look:
+  - For fuels like methane burning: match carbon blocks with carbon dioxide one-to-one; pour hydrogen marbles into water bottles two-by-two; then count how many oxygen atoms are needed and convert to O2 pairs.
+
+- In nature/engineering:
+  - Air’s oxygen travels as O2 pairs; that’s why “even oxygen” thinking works.
+  - Water always groups hydrogen in twos around one oxygen; that’s why hydrogen must be an even total to fit perfectly into waters.
+  - Industrially, ammonia is oxidized to NO and water the same way—first balance N, then pack H into water, then supply O2 pairs.
 ## Start with a real-world picture
 
 Question: If you “burn” ammonia (NH3) in oxygen, what happens to the atoms?
